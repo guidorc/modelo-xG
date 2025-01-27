@@ -1,0 +1,381 @@
+﻿Fecha,match_id,Día,Local,Visitante,goles_local,goles_visitante,xG_local,xG_visitante
+2022-08-12,1,Vie,Osasuna,Sevilla,2,1,1.5,0.9
+2022-08-13,2,Sáb,Celta Vigo,Espanyol,2,2,0.4,1.1
+2022-08-13,3,Sáb,Valladolid,Villarreal,0,3,1.0,1.5
+2022-08-13,4,Sáb,Barcelona,Rayo Vallecano,0,0,1.9,0.5
+2022-08-14,5,Dom,Cádiz,Real Sociedad,0,1,0.2,1.7
+2022-08-14,6,Dom,Valencia,Girona,1,0,1.6,0.1
+2022-08-14,7,Dom,Almería,Real Madrid,1,2,0.7,2.1
+2022-08-15,8,Lun,Athletic Club,Mallorca,0,0,1.6,0.4
+2022-08-15,9,Lun,Getafe,Atlético Madrid,0,3,0.7,1.2
+2022-08-15,10,Lun,Betis,Elche,3,0,3.1,0.4
+2022-08-19,11,Vie,Espanyol,Rayo Vallecano,0,2,0.8,1.4
+2022-08-19,12,Vie,Sevilla,Valladolid,1,1,2.0,0.5
+2022-08-20,13,Sáb,Osasuna,Cádiz,2,0,2.7,1.0
+2022-08-20,14,Sáb,Mallorca,Betis,1,2,0.6,2.1
+2022-08-20,15,Sáb,Celta Vigo,Real Madrid,1,4,1.4,3.7
+2022-08-21,16,Dom,Athletic Club,Valencia,1,0,1.0,0.7
+2022-08-21,17,Dom,Atlético Madrid,Villarreal,0,2,1.6,1.8
+2022-08-21,18,Dom,Real Sociedad,Barcelona,1,4,0.8,2.1
+2022-08-22,19,Lun,Elche,Almería,1,1,1.0,0.7
+2022-08-22,20,Lun,Girona,Getafe,3,1,1.1,0.6
+2022-08-26,21,Vie,Girona,Celta Vigo,0,1,1.0,1.0
+2022-08-26,22,Vie,Betis,Osasuna,1,0,0.5,1.3
+2022-08-27,23,Sáb,Elche,Real Sociedad,0,1,0.7,1.8
+2022-08-27,24,Sáb,Rayo Vallecano,Mallorca,0,2,0.7,0.8
+2022-08-27,25,Sáb,Almería,Sevilla,2,1,2.3,1.0
+2022-08-28,26,Dom,Getafe,Villarreal,0,0,0.3,1.1
+2022-08-28,27,Dom,Barcelona,Valladolid,4,0,2.6,0.8
+2022-08-28,28,Dom,Espanyol,Real Madrid,1,3,1.3,2.1
+2022-08-29,29,Lun,Cádiz,Athletic Club,0,4,0.4,2.4
+2022-08-29,30,Lun,Valencia,Atlético Madrid,0,1,0.5,1.5
+2022-09-02,31,Vie,Celta Vigo,Cádiz,3,0,0.7,0.3
+2022-09-03,32,Sáb,Mallorca,Girona,1,1,0.7,1.2
+2022-09-03,33,Sáb,Real Madrid,Betis,2,1,2.9,0.5
+2022-09-03,34,Sáb,Real Sociedad,Atlético Madrid,1,1,1.4,1.1
+2022-09-03,35,Sáb,Sevilla,Barcelona,0,3,1.0,4.0
+2022-09-04,36,Dom,Osasuna,Rayo Vallecano,2,1,2.4,0.2
+2022-09-04,37,Dom,Athletic Club,Espanyol,0,1,1.2,0.6
+2022-09-04,38,Dom,Villarreal,Elche,4,0,3.4,0.6
+2022-09-04,39,Dom,Valencia,Getafe,5,1,2.3,0.2
+2022-09-05,40,Lun,Valladolid,Almería,1,0,1.2,0.5
+2022-09-09,41,Vie,Girona,Valladolid,2,1,1.9,0.5
+2022-09-10,42,Sáb,Rayo Vallecano,Valencia,2,1,1.7,1.7
+2022-09-10,43,Sáb,Espanyol,Sevilla,2,3,2.5,2.0
+2022-09-10,44,Sáb,Cádiz,Barcelona,0,4,0.4,3.4
+2022-09-10,45,Sáb,Atlético Madrid,Celta Vigo,4,1,0.7,1.7
+2022-09-11,46,Dom,Real Madrid,Mallorca,4,1,2.3,0.5
+2022-09-11,47,Dom,Elche,Athletic Club,1,4,0.9,2.7
+2022-09-11,48,Dom,Getafe,Real Sociedad,2,1,1.1,1.2
+2022-09-11,49,Dom,Betis,Villarreal,1,0,1.4,1.7
+2022-09-12,50,Lun,Almería,Osasuna,0,1,0.2,2.0
+2022-09-16,51,Vie,Valladolid,Cádiz,0,1,1.5,0.3
+2022-09-17,52,Sáb,Mallorca,Almería,1,0,0.6,0.4
+2022-09-17,53,Sáb,Barcelona,Elche,3,0,3.9,0.0
+2022-09-17,54,Sáb,Valencia,Celta Vigo,3,0,1.7,0.5
+2022-09-17,55,Sáb,Athletic Club,Rayo Vallecano,3,2,1.9,0.7
+2022-09-18,56,Dom,Osasuna,Getafe,0,2,0.5,0.8
+2022-09-18,57,Dom,Villarreal,Sevilla,1,1,1.5,0.6
+2022-09-18,58,Dom,Betis,Girona,2,1,1.6,1.3
+2022-09-18,59,Dom,Real Sociedad,Espanyol,2,1,1.9,0.8
+2022-09-18,60,Dom,Atlético Madrid,Real Madrid,1,2,1.0,0.9
+2022-09-30,61,Vie,Athletic Club,Almería,4,0,2.1,0.7
+2022-10-01,62,Sáb,Cádiz,Villarreal,0,0,0.7,1.6
+2022-10-01,63,Sáb,Getafe,Valladolid,2,3,2.8,1.6
+2022-10-01,64,Sáb,Sevilla,Atlético Madrid,0,2,0.5,2.2
+2022-10-01,65,Sáb,Mallorca,Barcelona,0,1,1.2,0.7
+2022-10-02,66,Dom,Espanyol,Valencia,2,2,0.8,1.1
+2022-10-02,67,Dom,Celta Vigo,Betis,1,0,0.9,0.9
+2022-10-02,68,Dom,Girona,Real Sociedad,3,5,1.0,2.1
+2022-10-02,69,Dom,Real Madrid,Osasuna,1,1,2.5,0.5
+2022-10-03,70,Lun,Rayo Vallecano,Elche,2,1,0.9,1.1
+2022-10-07,71,Vie,Osasuna,Valencia,1,2,1.6,2.1
+2022-10-08,72,Sáb,Almería,Rayo Vallecano,3,1,1.2,0.8
+2022-10-08,73,Sáb,Atlético Madrid,Girona,2,1,1.9,0.8
+2022-10-08,74,Sáb,Sevilla,Athletic Club,1,1,1.0,1.7
+2022-10-08,75,Sáb,Getafe,Real Madrid,0,1,0.3,1.4
+2022-10-09,76,Dom,Valladolid,Betis,0,0,0.6,0.5
+2022-10-09,77,Dom,Cádiz,Espanyol,2,2,1.3,1.3
+2022-10-09,78,Dom,Real Sociedad,Villarreal,1,0,1.2,0.2
+2022-10-09,79,Dom,Barcelona,Celta Vigo,1,0,2.0,1.5
+2022-10-10,80,Lun,Elche,Mallorca,1,1,0.5,2.3
+2022-10-14,81,Vie,Rayo Vallecano,Getafe,0,0,1.6,0.4
+2022-10-15,82,Sáb,Girona,Cádiz,1,1,2.3,1.1
+2022-10-15,83,Sáb,Valencia,Elche,2,2,2.7,1.7
+2022-10-15,84,Sáb,Mallorca,Sevilla,0,1,0.7,0.2
+2022-10-15,85,Sáb,Athletic Club,Atlético Madrid,0,1,1.2,0.3
+2022-10-16,86,Dom,Celta Vigo,Real Sociedad,1,2,0.5,0.8
+2022-10-16,87,Dom,Real Madrid,Barcelona,3,1,1.1,2.0
+2022-10-16,88,Dom,Espanyol,Valladolid,1,0,1.3,0.7
+2022-10-16,89,Dom,Betis,Almería,3,1,2.5,0.8
+2022-10-17,90,Lun,Villarreal,Osasuna,2,0,1.5,0.5
+2022-10-18,91,Mar,Sevilla,Valencia,1,1,1.1,1.8
+2022-10-18,92,Mar,Getafe,Athletic Club,2,2,0.8,1.0
+2022-10-18,93,Mar,Atlético Madrid,Rayo Vallecano,1,1,1.1,1.8
+2022-10-19,94,Mié,Cádiz,Betis,0,0,0.9,0.9
+2022-10-19,95,Mié,Valladolid,Celta Vigo,4,1,1.5,2.6
+2022-10-19,96,Mié,Real Sociedad,Mallorca,1,0,1.2,0.9
+2022-10-19,97,Mié,Elche,Real Madrid,0,3,0.8,1.5
+2022-10-20,98,Jue,Almería,Girona,3,2,1.8,2.8
+2022-10-20,99,Jue,Osasuna,Espanyol,1,0,1.0,1.0
+2022-10-20,100,Jue,Barcelona,Villarreal,3,0,2.1,0.4
+2022-10-22,101,Sáb,Rayo Vallecano,Cádiz,5,1,3.7,0.2
+2022-10-22,102,Sáb,Valladolid,Real Sociedad,1,0,0.8,0.9
+2022-10-22,103,Sáb,Valencia,Mallorca,1,2,1.2,1.5
+2022-10-22,104,Sáb,Real Madrid,Sevilla,3,1,3.0,0.5
+2022-10-23,105,Dom,Espanyol,Elche,2,2,2.2,0.5
+2022-10-23,106,Dom,Betis,Atlético Madrid,1,2,1.4,0.8
+2022-10-23,107,Dom,Girona,Osasuna,1,1,0.4,0.6
+2022-10-23,108,Dom,Villarreal,Almería,2,1,1.0,1.0
+2022-10-23,109,Dom,Barcelona,Athletic Club,4,0,1.4,0.5
+2022-10-24,110,Lun,Celta Vigo,Getafe,1,1,0.7,0.2
+2022-10-28,111,Vie,Mallorca,Espanyol,1,1,1.4,0.3
+2022-10-29,112,Sáb,Almería,Celta Vigo,3,1,2.3,0.3
+2022-10-29,113,Sáb,Cádiz,Atlético Madrid,3,2,1.1,1.3
+2022-10-29,114,Sáb,Sevilla,Rayo Vallecano,0,1,1.2,0.7
+2022-10-29,115,Sáb,Valencia,Barcelona,0,1,0.2,1.6
+2022-10-30,116,Dom,Osasuna,Valladolid,2,0,2.5,0.5
+2022-10-30,117,Dom,Real Madrid,Girona,1,1,2.9,1.4
+2022-10-30,118,Dom,Athletic Club,Villarreal,1,0,1.7,0.3
+2022-10-30,119,Dom,Real Sociedad,Betis,0,2,0.9,1.3
+2022-10-31,120,Lun,Elche,Getafe,0,1,1.3,0.4
+2022-11-04,121,Vie,Girona,Athletic Club,2,1,1.0,0.7
+2022-11-05,122,Sáb,Getafe,Cádiz,0,0,0.6,1.4
+2022-11-05,123,Sáb,Valladolid,Elche,2,1,1.9,0.2
+2022-11-05,124,Sáb,Celta Vigo,Osasuna,1,2,0.7,0.4
+2022-11-05,125,Sáb,Barcelona,Almería,2,0,4.0,0.5
+2022-11-06,126,Dom,Atlético Madrid,Espanyol,1,1,1.9,0.7
+2022-11-06,127,Dom,Real Sociedad,Valencia,1,1,1.1,0.9
+2022-11-06,128,Dom,Villarreal,Mallorca,0,2,0.5,0.4
+2022-11-06,129,Dom,Betis,Sevilla,1,1,1.0,1.5
+2022-11-07,130,Lun,Rayo Vallecano,Real Madrid,3,2,1.5,2.4
+2022-11-08,131,Mar,Elche,Girona,1,2,0.6,2.3
+2022-11-08,132,Mar,Athletic Club,Valladolid,3,0,2.1,0.5
+2022-11-08,133,Mar,Osasuna,Barcelona,1,2,1.0,0.8
+2022-11-09,134,Mié,Almería,Getafe,1,0,0.5,0.4
+2022-11-09,135,Mié,Sevilla,Real Sociedad,1,2,0.6,1.7
+2022-11-09,136,Mié,Espanyol,Villarreal,0,1,1.1,0.7
+2022-11-09,137,Mié,Mallorca,Atlético Madrid,1,0,1.3,1.3
+2022-11-10,138,Jue,Rayo Vallecano,Celta Vigo,0,0,0.4,0.9
+2022-11-10,139,Jue,Valencia,Betis,3,0,2.0,0.2
+2022-11-10,140,Jue,Real Madrid,Cádiz,2,1,2.0,0.9
+2022-12-29,141,Jue,Girona,Rayo Vallecano,2,2,2.3,1.0
+2022-12-29,142,Jue,Betis,Athletic Club,0,0,0.5,0.4
+2022-12-29,143,Jue,Atlético Madrid,Elche,2,0,1.7,0.4
+2022-12-30,144,Vie,Getafe,Mallorca,2,0,1.2,0.6
+2022-12-30,145,Vie,Cádiz,Almería,1,1,1.3,2.3
+2022-12-30,146,Vie,Celta Vigo,Sevilla,1,1,2.0,0.7
+2022-12-30,147,Vie,Valladolid,Real Madrid,0,2,0.6,2.3
+2022-12-31,148,Sáb,Barcelona,Espanyol,1,1,2.2,0.9
+2022-12-31,149,Sáb,Real Sociedad,Osasuna,2,0,1.4,0.4
+2022-12-31,150,Sáb,Villarreal,Valencia,2,1,2.5,1.4
+2023-01-06,151,Vie,Elche,Celta Vigo,0,1,1.0,2.0
+2023-01-06,152,Vie,Valencia,Cádiz,0,1,0.4,0.4
+2023-01-07,153,Sáb,Villarreal,Real Madrid,2,1,3.0,2.2
+2023-01-07,154,Sáb,Mallorca,Valladolid,1,0,1.2,0.6
+2023-01-07,155,Sáb,Espanyol,Girona,2,2,1.5,1.2
+2023-01-08,156,Dom,Almería,Real Sociedad,0,2,0.6,1.7
+2023-01-08,157,Dom,Rayo Vallecano,Betis,1,2,1.6,0.9
+2023-01-08,158,Dom,Sevilla,Getafe,2,1,1.2,0.7
+2023-01-08,159,Dom,Atlético Madrid,Barcelona,0,1,1.7,0.7
+2023-01-09,160,Lun,Athletic Club,Osasuna,0,0,1.0,0.4
+2023-01-13,161,Vie,Celta Vigo,Villarreal,1,1,2.1,0.1
+2023-01-14,162,Sáb,Valladolid,Rayo Vallecano,0,1,0.6,1.1
+2023-01-14,163,Sáb,Girona,Sevilla,2,1,2.2,1.1
+2023-01-14,164,Sáb,Osasuna,Mallorca,1,0,1.6,0.5
+2023-01-14,165,Sáb,Real Sociedad,Athletic Club,3,1,2.0,0.3
+2023-01-15,166,Dom,Getafe,Espanyol,1,2,0.5,0.8
+2023-01-15,167,Dom,Almería,Atlético Madrid,1,1,1.4,2.4
+2023-01-16,168,Lun,Cádiz,Elche,1,1,1.6,0.6
+2023-01-20,169,Vie,Mallorca,Celta Vigo,1,0,0.5,0.5
+2023-01-21,170,Sáb,Rayo Vallecano,Real Sociedad,0,2,0.9,1.6
+2023-01-21,171,Sáb,Espanyol,Betis,1,0,2.3,0.9
+2023-01-21,172,Sáb,Atlético Madrid,Valladolid,3,0,3.3,0.5
+2023-01-21,173,Sáb,Sevilla,Cádiz,1,0,1.7,0.1
+2023-01-22,174,Dom,Villarreal,Girona,1,0,2.5,0.6
+2023-01-22,175,Dom,Elche,Osasuna,1,1,1.2,0.5
+2023-01-22,176,Dom,Barcelona,Getafe,1,0,0.7,1.1
+2023-01-22,177,Dom,Athletic Club,Real Madrid,0,2,1.1,1.1
+2023-01-23,178,Lun,Valencia,Almería,2,2,1.9,1.4
+2023-01-27,179,Vie,Almería,Espanyol,3,1,2.1,0.8
+2023-01-28,180,Sáb,Cádiz,Mallorca,2,0,1.9,0.4
+2023-01-28,181,Sáb,Girona,Barcelona,0,1,1.1,1.1
+2023-01-28,182,Sáb,Sevilla,Elche,3,0,3.2,0.4
+2023-01-28,183,Sáb,Getafe,Betis,0,1,0.3,1.7
+2023-01-29,184,Dom,Valladolid,Valencia,1,0,1.5,1.2
+2023-01-29,185,Dom,Osasuna,Atlético Madrid,0,1,0.9,1.6
+2023-01-29,186,Dom,Celta Vigo,Athletic Club,1,0,0.7,0.4
+2023-01-29,187,Dom,Real Madrid,Real Sociedad,0,0,1.3,0.4
+2023-01-30,188,Lun,Villarreal,Rayo Vallecano,0,1,0.8,1.0
+2023-02-01,189,Mié,Betis,Barcelona,1,2,0.6,1.9
+2023-02-02,190,Jue,Real Madrid,Valencia,2,0,2.3,0.2
+2023-02-03,191,Vie,Athletic Club,Cádiz,4,1,1.7,1.6
+2023-02-04,192,Sáb,Espanyol,Osasuna,1,1,1.4,0.9
+2023-02-04,193,Sáb,Elche,Villarreal,3,1,3.0,1.4
+2023-02-04,194,Sáb,Atlético Madrid,Getafe,1,1,0.7,1.2
+2023-02-04,195,Sáb,Betis,Celta Vigo,3,4,3.4,1.9
+2023-02-05,196,Dom,Mallorca,Real Madrid,1,0,0.2,1.7
+2023-02-05,197,Dom,Girona,Valencia,1,0,2.3,1.0
+2023-02-05,198,Dom,Real Sociedad,Valladolid,0,1,1.2,0.7
+2023-02-05,199,Dom,Barcelona,Sevilla,3,0,2.7,0.1
+2023-02-06,200,Lun,Rayo Vallecano,Almería,2,0,1.1,1.2
+2023-02-10,201,Vie,Cádiz,Girona,2,0,0.7,0.2
+2023-02-11,202,Sáb,Almería,Betis,2,3,2.3,2.5
+2023-02-11,203,Sáb,Sevilla,Mallorca,2,0,2.1,0.3
+2023-02-11,204,Sáb,Valencia,Athletic Club,1,2,1.6,1.5
+2023-02-12,205,Dom,Getafe,Rayo Vallecano,1,1,1.4,2.2
+2023-02-12,206,Dom,Celta Vigo,Atlético Madrid,0,1,0.9,0.9
+2023-02-12,207,Dom,Valladolid,Osasuna,0,0,1.6,0.7
+2023-02-12,208,Dom,Villarreal,Barcelona,0,1,1.1,1.7
+2023-02-13,209,Lun,Espanyol,Real Sociedad,2,3,1.2,1.4
+2023-02-15,210,Mié,Real Madrid,Elche,4,0,4.1,0.6
+2023-02-17,211,Vie,Girona,Almería,6,2,3.0,1.8
+2023-02-18,212,Sáb,Real Sociedad,Celta Vigo,1,1,1.4,1.4
+2023-02-18,213,Sáb,Betis,Valladolid,2,1,2.4,1.0
+2023-02-18,214,Sáb,Mallorca,Villarreal,4,2,2.2,1.2
+2023-02-18,215,Sáb,Osasuna,Real Madrid,0,2,0.5,1.3
+2023-02-19,216,Dom,Elche,Espanyol,0,1,1.8,1.3
+2023-02-19,217,Dom,Rayo Vallecano,Sevilla,1,1,1.3,0.5
+2023-02-19,218,Dom,Atlético Madrid,Athletic Club,1,0,1.2,0.8
+2023-02-19,219,Dom,Barcelona,Cádiz,2,0,2.2,1.0
+2023-02-20,220,Lun,Getafe,Valencia,1,0,1.8,1.0
+2023-02-24,221,Vie,Elche,Betis,2,3,1.0,4.1
+2023-02-25,222,Sáb,Espanyol,Mallorca,2,1,1.4,0.7
+2023-02-25,223,Sáb,Cádiz,Rayo Vallecano,1,0,0.8,0.6
+2023-02-25,224,Sáb,Real Madrid,Atlético Madrid,1,1,1.6,0.3
+2023-02-25,225,Sáb,Valencia,Real Sociedad,1,0,0.5,0.7
+2023-02-26,226,Dom,Athletic Club,Girona,2,3,1.6,1.1
+2023-02-26,227,Dom,Celta Vigo,Valladolid,3,0,1.8,0.5
+2023-02-26,228,Dom,Almería,Barcelona,1,0,1.0,1.4
+2023-02-26,229,Dom,Sevilla,Osasuna,2,3,1.7,0.9
+2023-02-27,230,Lun,Villarreal,Getafe,2,1,1.5,0.6
+2023-03-03,231,Vie,Real Sociedad,Cádiz,0,0,1.2,0.6
+2023-03-04,232,Sáb,Getafe,Girona,3,2,1.5,0.8
+2023-03-04,233,Sáb,Almería,Villarreal,0,2,0.4,2.1
+2023-03-04,234,Sáb,Mallorca,Elche,0,1,0.9,0.9
+2023-03-04,235,Sáb,Atlético Madrid,Sevilla,6,1,3.2,1.5
+2023-03-05,236,Dom,Valladolid,Espanyol,2,1,1.4,1.2
+2023-03-05,237,Dom,Barcelona,Valencia,1,0,1.8,1.0
+2023-03-05,238,Dom,Rayo Vallecano,Athletic Club,0,0,1.1,1.3
+2023-03-05,239,Dom,Betis,Real Madrid,0,0,0.5,1.5
+2023-03-06,240,Lun,Osasuna,Celta Vigo,0,0,0.8,1.1
+2023-03-10,241,Vie,Cádiz,Getafe,2,2,1.7,2.7
+2023-03-11,242,Sáb,Real Madrid,Espanyol,3,1,1.7,1.2
+2023-03-11,243,Sáb,Elche,Valladolid,1,1,2.0,0.2
+2023-03-11,244,Sáb,Celta Vigo,Rayo Vallecano,3,0,2.4,1.1
+2023-03-11,245,Sáb,Valencia,Osasuna,1,0,1.7,0.3
+2023-03-12,246,Dom,Mallorca,Real Sociedad,1,1,1.4,0.5
+2023-03-12,247,Dom,Sevilla,Almería,2,1,3.0,1.1
+2023-03-12,248,Dom,Villarreal,Betis,1,1,1.7,1.0
+2023-03-12,249,Dom,Athletic Club,Barcelona,0,1,0.9,0.9
+2023-03-13,250,Lun,Girona,Atlético Madrid,0,1,0.4,1.9
+2023-03-17,251,Vie,Valladolid,Athletic Club,1,3,1.1,2.6
+2023-03-18,252,Sáb,Almería,Cádiz,1,1,2.4,1.4
+2023-03-18,253,Sáb,Rayo Vallecano,Girona,2,2,1.9,1.8
+2023-03-18,254,Sáb,Espanyol,Celta Vigo,1,3,1.2,1.6
+2023-03-18,255,Sáb,Atlético Madrid,Valencia,3,0,1.9,1.0
+2023-03-19,256,Dom,Betis,Mallorca,1,0,0.8,0.2
+2023-03-19,257,Dom,Osasuna,Villarreal,0,3,0.9,1.8
+2023-03-19,258,Dom,Real Sociedad,Elche,2,0,2.0,0.1
+2023-03-19,259,Dom,Getafe,Sevilla,2,0,1.7,1.0
+2023-03-19,260,Dom,Barcelona,Real Madrid,2,1,1.6,0.5
+2023-03-31,261,Vie,Mallorca,Osasuna,0,0,0.5,0.5
+2023-04-01,262,Sáb,Girona,Espanyol,2,1,1.6,1.0
+2023-04-01,263,Sáb,Athletic Club,Getafe,0,0,0.9,0.8
+2023-04-01,264,Sáb,Cádiz,Sevilla,0,2,1.1,1.1
+2023-04-01,265,Sáb,Elche,Barcelona,0,4,0.8,1.7
+2023-04-02,266,Dom,Celta Vigo,Almería,2,2,2.0,1.0
+2023-04-02,267,Dom,Real Madrid,Valladolid,6,0,4.5,0.8
+2023-04-02,268,Dom,Villarreal,Real Sociedad,2,0,2.7,1.0
+2023-04-02,269,Dom,Atlético Madrid,Betis,1,0,1.6,0.6
+2023-04-03,270,Lun,Valencia,Rayo Vallecano,1,1,2.3,0.8
+2023-04-07,271,Vie,Sevilla,Celta Vigo,2,2,0.4,0.6
+2023-04-08,272,Sáb,Osasuna,Elche,2,1,1.2,0.7
+2023-04-08,273,Sáb,Espanyol,Athletic Club,1,2,0.9,2.3
+2023-04-08,274,Sáb,Real Sociedad,Getafe,2,0,2.1,0.3
+2023-04-08,275,Sáb,Real Madrid,Villarreal,2,3,2.4,1.5
+2023-04-09,276,Dom,Valladolid,Mallorca,3,3,1.2,1.8
+2023-04-09,277,Dom,Betis,Cádiz,0,2,1.2,2.9
+2023-04-09,278,Dom,Almería,Valencia,2,1,0.9,1.3
+2023-04-09,279,Dom,Rayo Vallecano,Atlético Madrid,1,2,0.7,1.9
+2023-04-10,280,Lun,Barcelona,Girona,0,0,1.3,0.6
+2023-04-14,281,Vie,Rayo Vallecano,Osasuna,2,1,0.9,0.6
+2023-04-15,282,Sáb,Villarreal,Valladolid,1,2,2.0,2.2
+2023-04-15,283,Sáb,Athletic Club,Real Sociedad,2,0,0.8,1.4
+2023-04-15,284,Sáb,Betis,Espanyol,3,1,2.0,0.8
+2023-04-15,285,Sáb,Cádiz,Real Madrid,0,2,0.7,3.5
+2023-04-16,286,Dom,Girona,Elche,2,0,1.3,0.7
+2023-04-16,287,Dom,Getafe,Barcelona,0,0,0.5,1.5
+2023-04-16,288,Dom,Atlético Madrid,Almería,2,1,2.3,0.2
+2023-04-16,289,Dom,Valencia,Sevilla,0,2,0.4,0.4
+2023-04-17,290,Lun,Celta Vigo,Mallorca,0,1,0.8,1.0
+2023-04-21,291,Vie,Espanyol,Cádiz,0,0,1.3,1.4
+2023-04-22,292,Sáb,Osasuna,Betis,3,2,1.5,2.0
+2023-04-22,293,Sáb,Almería,Athletic Club,1,2,0.8,1.7
+2023-04-22,294,Sáb,Valladolid,Girona,1,0,1.1,1.0
+2023-04-22,295,Sáb,Real Sociedad,Rayo Vallecano,2,1,0.6,0.5
+2023-04-22,296,Sáb,Real Madrid,Celta Vigo,2,0,1.5,0.9
+2023-04-23,297,Dom,Elche,Valencia,0,2,0.6,1.0
+2023-04-23,298,Dom,Barcelona,Atlético Madrid,1,0,1.8,1.3
+2023-04-23,299,Dom,Mallorca,Getafe,3,1,1.5,0.1
+2023-04-23,300,Dom,Sevilla,Villarreal,2,1,0.9,2.2
+2023-04-25,301,Mar,Girona,Real Madrid,4,2,2.3,1.8
+2023-04-25,302,Mar,Cádiz,Osasuna,0,1,1.4,1.0
+2023-04-25,303,Mar,Betis,Real Sociedad,0,0,1.0,0.9
+2023-04-26,304,Mié,Getafe,Almería,1,2,1.6,1.9
+2023-04-26,305,Mié,Atlético Madrid,Mallorca,3,1,2.7,0.9
+2023-04-26,306,Mié,Rayo Vallecano,Barcelona,2,1,0.7,0.9
+2023-04-26,307,Mié,Celta Vigo,Elche,1,0,1.3,1.1
+2023-04-27,308,Jue,Valencia,Valladolid,2,1,0.9,0.9
+2023-04-27,309,Jue,Villarreal,Espanyol,4,2,3.7,0.9
+2023-04-27,310,Jue,Athletic Club,Sevilla,0,1,0.3,1.0
+2023-04-28,311,Vie,Osasuna,Real Sociedad,0,2,1.4,1.4
+2023-04-29,312,Sáb,Elche,Rayo Vallecano,4,0,2.8,0.8
+2023-04-29,313,Sáb,Real Madrid,Almería,4,2,2.8,1.3
+2023-04-29,314,Sáb,Barcelona,Betis,4,0,3.0,0.2
+2023-04-30,315,Dom,Cádiz,Valencia,2,1,1.8,1.3
+2023-04-30,316,Dom,Villarreal,Celta Vigo,3,1,2.4,0.9
+2023-04-30,317,Dom,Espanyol,Getafe,1,0,2.4,0.5
+2023-04-30,318,Dom,Valladolid,Atlético Madrid,2,5,1.8,2.0
+2023-05-01,319,Lun,Mallorca,Athletic Club,1,1,0.9,1.7
+2023-05-01,320,Lun,Sevilla,Girona,0,2,2.2,0.8
+2023-05-02,321,Mar,Almería,Elche,2,1,1.7,1.0
+2023-05-02,322,Mar,Barcelona,Osasuna,1,0,2.8,0.4
+2023-05-02,323,Mar,Real Sociedad,Real Madrid,2,0,1.9,0.8
+2023-05-03,324,Mié,Valencia,Villarreal,1,1,1.2,0.7
+2023-05-03,325,Mié,Getafe,Celta Vigo,1,0,2.7,0.3
+2023-05-03,326,Mié,Atlético Madrid,Cádiz,5,1,3.0,0.0
+2023-05-04,327,Jue,Girona,Mallorca,2,1,1.7,1.4
+2023-05-04,328,Jue,Sevilla,Espanyol,3,2,2.6,1.0
+2023-05-04,329,Jue,Rayo Vallecano,Valladolid,2,1,1.4,0.6
+2023-05-04,330,Jue,Athletic Club,Betis,0,1,1.6,1.2
+2023-05-12,331,Vie,Mallorca,Cádiz,1,0,1.2,0.7
+2023-05-13,332,Sáb,Real Sociedad,Girona,2,2,2.7,1.2
+2023-05-13,333,Sáb,Osasuna,Almería,3,1,1.9,0.5
+2023-05-13,334,Sáb,Villarreal,Athletic Club,5,1,3.2,3.1
+2023-05-13,335,Sáb,Real Madrid,Getafe,1,0,0.9,0.7
+2023-05-14,336,Dom,Celta Vigo,Valencia,1,2,0.7,1.2
+2023-05-14,337,Dom,Elche,Atlético Madrid,1,0,1.4,1.5
+2023-05-14,338,Dom,Valladolid,Sevilla,0,3,2.0,2.5
+2023-05-14,339,Dom,Espanyol,Barcelona,2,4,2.7,3.1
+2023-05-15,340,Lun,Betis,Rayo Vallecano,3,1,1.5,1.3
+2023-05-19,341,Vie,Cádiz,Valladolid,2,0,2.2,0.7
+2023-05-20,342,Sáb,Girona,Villarreal,1,2,1.2,1.9
+2023-05-20,343,Sáb,Athletic Club,Celta Vigo,2,1,1.0,0.5
+2023-05-20,344,Sáb,Getafe,Elche,1,1,1.5,1.1
+2023-05-20,345,Sáb,Almería,Mallorca,3,0,1.8,0.8
+2023-05-20,346,Sáb,Barcelona,Real Sociedad,1,2,1.5,2.0
+2023-05-21,347,Dom,Rayo Vallecano,Espanyol,1,2,2.0,1.6
+2023-05-21,348,Dom,Atlético Madrid,Osasuna,3,0,1.9,0.8
+2023-05-21,349,Dom,Valencia,Real Madrid,1,0,1.0,1.4
+2023-05-21,350,Dom,Sevilla,Betis,0,0,1.1,0.1
+2023-05-23,351,Mar,Celta Vigo,Girona,1,1,1.2,1.2
+2023-05-23,352,Mar,Real Sociedad,Almería,1,0,1.9,0.1
+2023-05-23,353,Mar,Valladolid,Barcelona,3,1,2.3,1.7
+2023-05-24,354,Mié,Elche,Sevilla,1,1,1.5,0.7
+2023-05-24,355,Mié,Real Madrid,Rayo Vallecano,2,1,1.3,0.7
+2023-05-24,356,Mié,Villarreal,Cádiz,2,0,2.4,1.7
+2023-05-24,357,Mié,Espanyol,Atlético Madrid,3,3,3.0,2.3
+2023-05-24,358,Mié,Betis,Getafe,0,1,1.2,0.5
+2023-05-25,359,Jue,Mallorca,Valencia,1,0,0.5,1.9
+2023-05-25,360,Jue,Osasuna,Athletic Club,2,0,0.8,0.8
+2023-05-27,361,Sáb,Sevilla,Real Madrid,1,2,1.2,0.8
+2023-05-28,362,Dom,Valencia,Espanyol,2,2,2.6,1.2
+2023-05-28,363,Dom,Athletic Club,Elche,0,1,2.4,0.9
+2023-05-28,364,Dom,Girona,Betis,1,2,1.0,2.5
+2023-05-28,365,Dom,Rayo Vallecano,Villarreal,2,1,1.4,0.4
+2023-05-28,366,Dom,Almería,Valladolid,0,0,1.7,0.5
+2023-05-28,367,Dom,Atlético Madrid,Real Sociedad,2,1,0.7,1.2
+2023-05-28,368,Dom,Cádiz,Celta Vigo,1,0,1.7,0.6
+2023-05-28,369,Dom,Barcelona,Mallorca,3,0,3.6,0.1
+2023-05-28,370,Dom,Getafe,Osasuna,2,1,2.5,0.5
+2023-06-04,371,Dom,Villarreal,Atlético Madrid,2,2,1.6,1.8
+2023-06-04,372,Dom,Real Sociedad,Sevilla,2,1,1.8,0.4
+2023-06-04,373,Dom,Real Madrid,Athletic Club,1,1,1.8,2.3
+2023-06-04,374,Dom,Osasuna,Girona,2,1,1.8,0.9
+2023-06-04,375,Dom,Mallorca,Rayo Vallecano,3,0,2.2,1.1
+2023-06-04,376,Dom,Valladolid,Getafe,0,0,0.9,0.5
+2023-06-04,377,Dom,Betis,Valencia,1,1,0.6,1.2
+2023-06-04,378,Dom,Elche,Cádiz,1,1,1.6,2.5
+2023-06-04,379,Dom,Celta Vigo,Barcelona,2,1,0.7,1.2
+2023-06-04,380,Dom,Espanyol,Almería,3,3,0.6,1.8

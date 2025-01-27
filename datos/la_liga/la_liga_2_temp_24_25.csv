@@ -1,0 +1,156 @@
+﻿Fecha,match_id,Día,Local,Visitante,goles_local,goles_visitante,xG_local,xG_visitante
+2024-08-15,1,Jue,Granada,Albacete,1,2,1.6,1.4
+2024-08-16,2,Vie,CD Mirandés,Córdoba,1,0,0.4,2.5
+2024-08-16,3,Vie,Cádiz,Zaragoza,0,4,0.8,2.1
+2024-08-17,4,Sáb,Racing Ferrol,Málaga,2,2,2.2,1.3
+2024-08-17,5,Sáb,Eibar,Castellón,1,0,0.7,1.1
+2024-08-17,6,Sáb,La Coruña,Oviedo,0,1,0.8,0.7
+2024-08-18,7,Dom,Sporting Gijón,Levante,1,2,0.7,0.9
+2024-08-18,8,Dom,Racing Sant,Almería,2,2,3.0,2.0
+2024-08-18,9,Dom,Burgos,Cartagena,3,1,2.3,1.4
+2024-08-18,10,Dom,Elche,Huesca,0,1,1.0,0.4
+2024-08-19,11,Lun,Eldense,Tenerife,2,1,0.9,0.7
+2024-08-23,12,Vie,Racing Sant,Eibar,2,2,2.8,1.6
+2024-08-23,13,Vie,Huesca,La Coruña,2,1,2.3,0.8
+2024-08-24,14,Sáb,Racing Ferrol,Granada,0,1,1.0,1.2
+2024-08-24,15,Sáb,Sporting Gijón,Eldense,0,0,1.6,1.0
+2024-08-24,16,Sáb,Levante,Cádiz,1,1,2.6,1.6
+2024-08-24,17,Sáb,Tenerife,Almería,0,1,1.0,1.5
+2024-08-24,18,Sáb,Málaga,CD Mirandés,1,1,0.3,0.3
+2024-08-25,19,Dom,Albacete,Elche,1,0,1.3,0.9
+2024-08-25,20,Dom,Castellón,Oviedo,0,0,1.6,1.0
+2024-08-26,21,Lun,Cartagena,Zaragoza,1,2,0.5,2.1
+2024-08-26,22,Lun,Córdoba,Burgos,2,2,1.1,1.5
+2024-08-30,23,Vie,Granada,Huesca,1,3,0.8,2.1
+2024-08-30,24,Vie,Oviedo,Racing Sant,1,3,1.0,0.8
+2024-08-31,25,Sáb,Cádiz,Tenerife,2,2,1.8,1.1
+2024-08-31,26,Sáb,Málaga,Albacete,2,1,1.6,2.3
+2024-08-31,27,Sáb,Almería,Sporting Gijón,1,1,2.0,1.6
+2024-09-01,28,Dom,La Coruña,Racing Ferrol,1,0,0.6,0.4
+2024-09-01,29,Dom,Burgos,Castellón,0,2,1.7,1.5
+2024-09-01,30,Dom,Eldense,Cartagena,1,2,2.3,1.0
+2024-09-01,31,Dom,CD Mirandés,Zaragoza,0,0,0.8,0.2
+2024-09-02,32,Lun,Eibar,Levante,2,2,2.9,1.1
+2024-09-02,33,Lun,Elche,Córdoba,3,1,3.5,0.6
+2024-09-06,34,Vie,Tenerife,Racing Sant,0,1,1.0,1.4
+2024-09-07,35,Sáb,Granada,La Coruña,1,1,0.8,0.6
+2024-09-07,36,Sáb,Sporting Gijón,Oviedo,3,1,1.7,0.8
+2024-09-07,37,Sáb,Huesca,Burgos,0,1,0.3,1.2
+2024-09-07,38,Sáb,Córdoba,Málaga,0,0,1.3,0.1
+2024-09-08,39,Dom,Racing Ferrol,CD Mirandés,0,0,0.4,0.6
+2024-09-08,40,Dom,Cartagena,Levante,0,1,0.6,1.8
+2024-09-08,41,Dom,Zaragoza,Elche,3,0,1.3,0.1
+2024-09-08,42,Dom,Eldense,Almería,1,0,0.8,0.6
+2024-09-09,43,Lun,Castellón,Cádiz,1,3,1.5,1.6
+2024-09-09,44,Lun,Albacete,Eibar,0,1,1.2,0.8
+2024-09-13,45,Vie,Córdoba,La Coruña,2,0,1.9,1.7
+2024-09-14,46,Sáb,Levante,Eldense,3,1,2.2,0.5
+2024-09-14,47,Sáb,Eibar,Tenerife,1,0,0.4,0.5
+2024-09-14,48,Sáb,Málaga,Huesca,1,0,0.9,0.4
+2024-09-14,49,Sáb,Racing Sant,Sporting Gijón,1,0,2.1,0.7
+2024-09-15,50,Dom,CD Mirandés,Albacete,2,0,1.8,1.3
+2024-09-15,51,Dom,Oviedo,Cartagena,1,0,1.3,0.4
+2024-09-15,52,Dom,Burgos,Zaragoza,1,0,2.0,0.4
+2024-09-15,53,Dom,Cádiz,Racing Ferrol,0,0,1.0,0.7
+2024-09-15,54,Dom,Elche,Granada,2,2,2.4,2.2
+2024-09-16,55,Lun,Almería,Castellón,2,5,2.1,1.1
+2024-09-20,56,Vie,Granada,Málaga,2,2,2.3,1.0
+2024-09-21,57,Sáb,Racing Ferrol,Albacete,1,4,1.0,2.0
+2024-09-21,58,Sáb,La Coruña,Burgos,0,2,1.2,1.3
+2024-09-21,59,Sáb,Eldense,Oviedo,1,1,1.9,0.4
+2024-09-21,60,Sáb,Zaragoza,Levante,2,1,1.2,2.0
+2024-09-22,61,Dom,Tenerife,Sporting Gijón,1,1,1.0,0.5
+2024-09-22,62,Dom,Cartagena,Cádiz,1,2,0.5,1.7
+2024-09-22,63,Dom,Castellón,Racing Sant,0,1,1.7,1.9
+2024-09-22,64,Dom,Elche,CD Mirandés,1,0,1.6,0.1
+2024-09-22,65,Dom,Almería,Eibar,2,2,0.8,0.6
+2024-09-23,66,Lun,Huesca,Córdoba,4,1,1.8,1.0
+2024-09-27,67,Vie,Albacete,La Coruña,2,5,1.9,2.6
+2024-09-28,68,Sáb,Cádiz,Eldense,1,2,1.6,2.1
+2024-09-28,69,Sáb,CD Mirandés,Huesca,1,0,1.4,0.3
+2024-09-28,70,Sáb,Sporting Gijón,Zaragoza,1,0,1.7,0.7
+2024-09-28,71,Sáb,Málaga,Elche,0,3,0.6,2.1
+2024-09-29,72,Dom,Levante,Almería,4,2,1.9,1.4
+2024-09-29,73,Dom,Burgos,Granada,2,2,1.3,1.0
+2024-09-29,74,Dom,Castellón,Tenerife,2,1,2.3,1.2
+2024-09-29,75,Dom,Córdoba,Racing Ferrol,3,1,1.2,0.4
+2024-09-29,76,Dom,Oviedo,Eibar,1,0,1.1,0.3
+2024-09-30,77,Lun,Racing Sant,Cartagena,1,2,1.8,2.0
+2024-10-04,78,Vie,Huesca,Cádiz,3,1,2.7,1.6
+2024-10-05,79,Sáb,Racing Ferrol,Elche,1,0,0.7,0.5
+2024-10-05,80,Sáb,CD Mirandés,Granada,0,1,1.2,0.9
+2024-10-05,81,Sáb,Eibar,Sporting Gijón,1,3,1.8,1.6
+2024-10-05,82,Sáb,Almería,Burgos,2,0,2.4,1.4
+2024-10-05,83,Sáb,Zaragoza,Racing Sant,2,3,1.9,1.5
+2024-10-05,84,Sáb,Tenerife,Cartagena,2,0,1.8,0.1
+2024-10-06,85,Dom,La Coruña,Málaga,0,0,1.0,1.0
+2024-10-06,86,Dom,Eldense,Castellón,2,3,2.6,1.4
+2024-10-06,87,Dom,Levante,Oviedo,0,0,0.4,0.3
+2024-10-06,88,Dom,Albacete,Córdoba,1,1,1.6,0.5
+2024-10-11,89,Vie,Tenerife,Zaragoza,2,3,1.1,2.4
+2024-10-12,90,Sáb,Cartagena,Racing Ferrol,0,1,0.6,0.7
+2024-10-12,91,Sáb,Eibar,Eldense,1,0,0.9,0.8
+2024-10-12,92,Sáb,Cádiz,Málaga,2,2,1.1,1.0
+2024-10-13,93,Dom,Huesca,Albacete,2,2,0.9,0.9
+2024-10-13,94,Dom,Oviedo,Almería,3,2,2.2,1.4
+2024-10-13,95,Dom,Racing Sant,Levante,1,0,2.3,0.4
+2024-10-13,96,Dom,Burgos,CD Mirandés,0,1,0.8,0.9
+2024-10-13,97,Dom,Granada,Córdoba,1,0,2.0,0.2
+2024-10-13,98,Dom,Elche,La Coruña,0,0,0.7,1.1
+2024-10-14,99,Lun,Sporting Gijón,Castellón,2,1,2.7,0.6
+2024-10-18,100,Vie,Córdoba,Cartagena,2,1,1.4,0.5
+2024-10-19,101,Sáb,La Coruña,Eldense,1,1,1.5,0.8
+2024-10-19,102,Sáb,Málaga,Oviedo,0,0,1.0,1.4
+2024-10-19,103,Sáb,Castellón,Levante,2,0,1.3,1.9
+2024-10-19,104,Sáb,Granada,Tenerife,4,0,2.3,0.5
+2024-10-19,105,Sáb,CD Mirandés,Eibar,1,0,0.6,0.5
+2024-10-20,106,Dom,Cádiz,Racing Sant,0,1,1.2,0.6
+2024-10-20,107,Dom,Racing Ferrol,Huesca,0,0,1.1,1.0
+2024-10-20,108,Dom,Zaragoza,Almería,1,2,0.6,1.8
+2024-10-20,109,Dom,Elche,Sporting Gijón,2,1,1.2,0.8
+2024-10-21,110,Lun,Albacete,Burgos,2,0,2.5,0.9
+2024-10-22,111,Mar,Oviedo,CD Mirandés,4,1,2.3,1.0
+2024-10-22,112,Mar,Castellón,Granada,2,3,1.8,1.7
+2024-10-23,113,Mié,Eldense,Zaragoza,2,3,2.2,1.8
+2024-10-23,114,Mié,Eibar,Cádiz,1,0,1.1,0.5
+2024-10-23,115,Mié,Cartagena,Elche,0,0,0.7,1.5
+2024-10-23,116,Mié,Racing Sant,Córdoba,2,0,1.5,0.4
+2024-10-24,117,Jue,Levante,La Coruña,2,1,1.5,1.8
+2024-10-24,118,Jue,Almería,Albacete,3,1,1.7,2.2
+2024-10-24,119,Jue,Tenerife,Málaga,0,0,1.6,0.3
+2024-10-24,120,Jue,Sporting Gijón,Huesca,2,1,1.8,0.3
+2024-10-24,121,Jue,Burgos,Racing Ferrol,1,1,0.7,0.6
+2024-10-26,122,Sáb,CD Mirandés,Cartagena,3,1,1.8,0.9
+2024-10-26,123,Sáb,Cádiz,Oviedo,2,0,0.8,0.4
+2024-10-26,124,Sáb,Córdoba,Eldense,2,0,2.0,0.4
+2024-10-26,125,Sáb,Zaragoza,Castellón,1,2,1.2,1.4
+2024-10-27,126,Dom,Málaga,Eibar,1,0,0.9,0.6
+2024-10-27,127,Dom,La Coruña,Racing Sant,1,2,1.4,1.3
+2024-10-27,128,Dom,Elche,Burgos,1,0,1.4,0.3
+2024-10-27,129,Dom,Huesca,Almería,2,2,1.5,1.7
+2024-10-27,130,Dom,Albacete,Sporting Gijón,3,3,3.2,1.2
+2024-10-27,131,Dom,Granada,Levante,1,2,1.3,1.8
+2024-10-28,132,Lun,Racing Ferrol,Tenerife,1,1,0.5,0.8
+2024-11-02,133,Sáb,Eibar,Elche,0,2,1.0,1.4
+2024-11-02,134,Sáb,Cartagena,La Coruña,1,5,0.9,3.9
+2024-11-02,135,Sáb,Sporting Gijón,Cádiz,2,0,1.1,0.3
+2024-11-02,136,Sáb,Racing Sant,Albacete,1,1,1.2,1.1
+2024-11-02,137,Sáb,Zaragoza,Granada,2,1,1.5,1.0
+2024-11-03,138,Dom,Oviedo,Burgos,3,1,1.5,0.7
+2024-11-03,139,Dom,Tenerife,CD Mirandés,1,0,1.0,0.6
+2024-11-08,140,Vie,Elche,Almería,1,2,1.5,3.0
+2024-11-09,141,Sáb,CD Mirandés,Cádiz,2,2,1.3,0.3
+2024-11-09,142,Sáb,Huesca,Zaragoza,1,1,0.3,1.8
+2024-11-09,143,Sáb,Granada,Eldense,3,2,1.7,0.9
+2024-11-09,144,Sáb,Málaga,Cartagena,1,0,2.4,0.7
+2024-11-10,145,Dom,Córdoba,Castellón,2,2,1.5,2.6
+2024-11-10,146,Dom,Burgos,Sporting Gijón,0,2,0.8,1.3
+2024-11-10,147,Dom,Racing Ferrol,Racing Sant,1,2,1.5,1.5
+2024-11-10,148,Dom,Albacete,Oviedo,2,2,1.4,0.8
+2024-11-11,149,Lun,La Coruña,Eibar,1,0,1.5,1.0
+2024-11-16,150,Sáb,Eibar,Racing Ferrol,2,0,2.0,0.5
+2024-11-16,151,Sáb,Eldense,Albacete,2,0,1.4,0.5
+2024-11-16,152,Sáb,Castellón,CD Mirandés,1,3,0.9,2.8
+2024-11-16,153,Sáb,Levante,Elche,1,1,1.1,0.7
+2024-11-16,154,Sáb,Racing Sant,Burgos,2,0,0.5,0.5
+2024-11-16,155,Sáb,Sporting Gijón,Granada,1,2,0.3,0.7

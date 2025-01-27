@@ -1,0 +1,469 @@
+﻿Fecha,match_id,Día,Local,Visitante,goles_local,goles_visitante,xG_local,xG_visitante
+2018-08-17,1,Vie,Cádiz,Almería,1,0,1.3,0.1
+2018-08-17,2,Vie,Albacete,La Coruña,1,1,2.1,0.8
+2018-08-18,3,Sáb,Elche,Granada,0,0,0.3,0.3
+2018-08-18,4,Sáb,Lugo,Málaga,1,2,0.8,2.0
+2018-08-18,5,Sáb,Alcorcón,Sporting Gijón,1,1,0.6,0.7
+2018-08-18,6,Sáb,Córdoba,Numancia,3,3,1.3,1.5
+2018-08-19,7,Dom,Oviedo,Extremadura,1,1,1.2,0.5
+2018-08-19,8,Dom,Mallorca,Osasuna,1,0,1.6,0.4
+2018-08-19,9,Dom,Zaragoza,Majadahonda,2,1,2.9,0.6
+2018-08-19,10,Dom,Las Palmas,Reus,2,0,0.9,0.3
+2018-08-20,11,Lun,Gimnàstic,Tenerife,1,1,1.1,1.9
+2018-08-24,12,Vie,Extremadura,La Coruña,0,1,0.5,1.0
+2018-08-24,13,Vie,Málaga,Alcorcón,1,0,0.8,0.2
+2018-08-25,14,Sáb,Numancia,Cádiz,1,1,1.7,1.2
+2018-08-25,15,Sáb,Reus,Zaragoza,0,0,0.7,0.6
+2018-08-25,16,Sáb,Las Palmas,Albacete,1,1,1.2,0.6
+2018-08-25,17,Sáb,Córdoba,Oviedo,2,4,2.1,1.4
+2018-08-26,18,Dom,Sporting Gijón,Gimnàstic,2,0,0.9,0.1
+2018-08-26,19,Dom,Osasuna,Elche,1,1,1.8,1.3
+2018-08-26,20,Dom,Granada,Lugo,1,1,1.1,1.0
+2018-08-26,21,Dom,Almería,Tenerife,1,1,0.9,0.6
+2018-08-27,22,Lun,Majadahonda,Mallorca,0,1,1.5,2.1
+2018-08-31,23,Vie,Alcorcón,Mallorca,1,0,1.7,0.8
+2018-09-01,24,Sáb,Lugo,Numancia,3,2,2.0,0.8
+2018-09-01,25,Sáb,Elche,Reus,0,2,0.7,0.8
+2018-09-01,26,Sáb,Zaragoza,Las Palmas,1,1,2.0,1.6
+2018-09-01,27,Sáb,Cádiz,Oviedo,1,1,1.3,0.4
+2018-09-01,28,Sáb,Tenerife,La Coruña,2,2,1.3,1.7
+2018-09-02,29,Dom,Gimnàstic,Majadahonda,0,1,0.6,1.7
+2018-09-02,30,Dom,Sporting Gijón,Extremadura,2,0,2.4,0.4
+2018-09-02,31,Dom,Albacete,Córdoba,3,0,2.4,1.0
+2018-09-02,32,Dom,Granada,Osasuna,2,0,1.3,0.3
+2018-09-03,33,Lun,Almería,Málaga,0,1,0.7,0.5
+2018-09-07,34,Vie,Las Palmas,Gimnàstic,4,0,1.1,0.4
+2018-09-07,35,Vie,Mallorca,Cádiz,1,0,2.0,0.4
+2018-09-08,36,Sáb,Osasuna,Almería,3,1,2.4,1.5
+2018-09-08,37,Sáb,Málaga,Tenerife,1,0,0.8,0.8
+2018-09-08,38,Sáb,Oviedo,Zaragoza,0,4,1.1,1.8
+2018-09-09,39,Dom,Reus,Albacete,1,2,2.2,0.6
+2018-09-09,40,Dom,Numancia,Elche,1,0,0.9,0.8
+2018-09-09,41,Dom,Extremadura,Granada,1,3,2.4,1.2
+2018-09-09,42,Dom,Córdoba,Alcorcón,0,0,0.6,0.5
+2018-09-09,43,Dom,La Coruña,Sporting Gijón,1,0,2.0,0.0
+2018-09-10,44,Lun,Majadahonda,Lugo,1,0,1.4,0.4
+2018-09-15,45,Sáb,Gimnàstic,Osasuna,1,0,1.0,1.0
+2018-09-15,46,Sáb,Tenerife,Reus,0,1,1.1,0.9
+2018-09-15,47,Sáb,Málaga,Córdoba,3,0,2.2,0.5
+2018-09-15,48,Sáb,Alcorcón,La Coruña,1,0,1.1,0.3
+2018-09-16,49,Dom,Elche,Mallorca,1,1,2.2,0.9
+2018-09-16,50,Dom,Lugo,Oviedo,0,2,0.5,1.5
+2018-09-16,51,Dom,Extremadura,Las Palmas,1,2,2.7,2.6
+2018-09-16,52,Dom,Almería,Zaragoza,2,1,1.2,1.1
+2018-09-16,53,Dom,Granada,Majadahonda,3,0,2.5,0.5
+2018-09-16,54,Dom,Sporting Gijón,Numancia,1,1,1.0,1.1
+2018-09-17,55,Lun,Albacete,Cádiz,1,1,0.4,2.7
+2018-09-22,56,Sáb,Osasuna,Sporting Gijón,1,0,0.8,0.3
+2018-09-22,57,Sáb,Majadahonda,Extremadura,1,4,1.1,2.8
+2018-09-22,58,Sáb,Zaragoza,Lugo,0,2,0.7,1.9
+2018-09-22,59,Sáb,Córdoba,Tenerife,1,1,2.2,0.3
+2018-09-23,60,Dom,Mallorca,Albacete,1,3,0.8,1.6
+2018-09-23,61,Dom,Oviedo,Elche,1,1,0.6,1.8
+2018-09-23,62,Dom,Las Palmas,Málaga,1,0,0.4,0.7
+2018-09-23,63,Dom,Numancia,Almería,0,2,1.2,1.5
+2018-09-23,64,Dom,Reus,Gimnàstic,1,1,1.9,0.6
+2018-09-23,65,Dom,Cádiz,Alcorcón,0,2,1.3,1.3
+2018-09-24,66,Lun,La Coruña,Granada,2,1,1.7,0.4
+2018-09-28,67,Vie,Albacete,Zaragoza,2,2,1.7,1.5
+2018-09-29,68,Sáb,Lugo,Mallorca,1,1,0.5,0.3
+2018-09-29,69,Sáb,Sporting Gijón,Las Palmas,1,0,1.6,0.6
+2018-09-29,70,Sáb,Granada,Córdoba,4,2,3.4,1.3
+2018-09-29,71,Sáb,Tenerife,Cádiz,1,0,0.9,0.2
+2018-09-30,72,Dom,Alcorcón,Oviedo,2,0,1.1,0.6
+2018-09-30,73,Dom,Málaga,Majadahonda,1,0,0.9,1.0
+2018-09-30,74,Dom,Osasuna,Numancia,0,0,1.0,1.3
+2018-09-30,75,Dom,Almería,Reus,2,0,3.3,0.5
+2018-09-30,76,Dom,Extremadura,Elche,2,2,2.2,2.1
+2018-09-30,77,Dom,Gimnàstic,La Coruña,1,3,1.0,2.4
+2018-10-06,78,Sáb,Mallorca,Tenerife,4,1,2.1,0.8
+2018-10-06,79,Sáb,Numancia,Extremadura,1,0,1.7,0.9
+2018-10-06,80,Sáb,Las Palmas,Alcorcón,0,0,0.7,0.1
+2018-10-06,81,Sáb,Córdoba,Almería,1,0,1.2,0.5
+2018-10-07,82,Dom,Reus,Granada,1,2,1.3,1.3
+2018-10-07,83,Dom,Oviedo,Albacete,1,0,1.1,0.2
+2018-10-07,84,Dom,La Coruña,Málaga,1,1,1.4,0.2
+2018-10-07,85,Dom,Elche,Lugo,2,1,1.3,0.6
+2018-10-07,86,Dom,Cádiz,Gimnàstic,1,1,1.4,0.7
+2018-10-08,87,Lun,Majadahonda,Sporting Gijón,2,1,1.2,1.3
+2018-10-08,88,Lun,Zaragoza,Osasuna,1,1,0.6,2.4
+2018-10-12,89,Vie,Málaga,Albacete,2,1,1.9,2.0
+2018-10-12,90,Vie,Extremadura,Cádiz,2,1,1.7,1.1
+2018-10-12,91,Vie,La Coruña,Elche,4,0,3.2,0.3
+2018-10-13,92,Sáb,Osasuna,Córdoba,3,1,1.8,0.5
+2018-10-13,93,Sáb,Sporting Gijón,Reus,1,1,2.7,0.6
+2018-10-13,94,Sáb,Almería,Las Palmas,3,0,2.7,0.6
+2018-10-13,95,Sáb,Numancia,Zaragoza,1,0,1.7,0.3
+2018-10-14,96,Dom,Tenerife,Lugo,0,0,1.0,0.4
+2018-10-14,97,Dom,Majadahonda,Oviedo,1,0,1.8,1.1
+2018-10-14,98,Dom,Granada,Mallorca,1,0,0.5,1.1
+2018-10-15,99,Lun,Gimnàstic,Alcorcón,1,3,1.0,1.0
+2018-10-19,100,Vie,Elche,Málaga,2,0,0.8,1.3
+2018-10-20,101,Sáb,Oviedo,Osasuna,2,1,0.4,0.3
+2018-10-20,102,Sáb,Las Palmas,Numancia,3,0,1.6,0.4
+2018-10-20,103,Sáb,Alcorcón,Granada,1,0,1.3,1.7
+2018-10-20,104,Sáb,Córdoba,La Coruña,1,1,1.0,0.8
+2018-10-21,105,Dom,Mallorca,Extremadura,1,1,1.6,1.5
+2018-10-21,106,Dom,Lugo,Gimnàstic,1,0,1.0,2.3
+2018-10-21,107,Dom,Reus,Majadahonda,2,1,1.5,1.2
+2018-10-21,108,Dom,Albacete,Almería,1,1,0.9,3.6
+2018-10-21,109,Dom,Zaragoza,Tenerife,1,1,1.3,0.4
+2018-10-21,110,Dom,Cádiz,Sporting Gijón,0,0,1.2,0.2
+2018-10-26,111,Vie,Sporting Gijón,Córdoba,0,0,0.4,0.6
+2018-10-27,112,Sáb,La Coruña,Reus,2,0,2.4,1.3
+2018-10-27,113,Sáb,Mallorca,Las Palmas,2,2,1.7,2.1
+2018-10-27,114,Sáb,Granada,Almería,1,0,1.2,0.5
+2018-10-27,115,Sáb,Tenerife,Alcorcón,3,2,2.3,1.2
+2018-10-27,116,Sáb,Lugo,Cádiz,1,2,1.1,1.2
+2018-10-28,117,Dom,Gimnàstic,Oviedo,2,1,1.4,2.0
+2018-10-28,118,Dom,Majadahonda,Osasuna,1,1,0.7,1.4
+2018-10-28,119,Dom,Extremadura,Albacete,1,2,0.6,2.3
+2018-10-28,120,Dom,Elche,Zaragoza,2,0,0.9,1.1
+2018-10-29,121,Lun,Málaga,Numancia,2,0,0.8,0.4
+2018-11-02,122,Vie,Albacete,Gimnàstic,2,0,2.1,0.4
+2018-11-03,123,Sáb,Reus,Lugo,0,0,0.2,0.9
+2018-11-03,124,Sáb,Osasuna,Málaga,2,1,1.5,0.6
+2018-11-03,125,Sáb,Numancia,Tenerife,2,0,2.7,1.3
+2018-11-03,126,Sáb,Las Palmas,La Coruña,1,1,0.4,1.4
+2018-11-03,127,Sáb,Córdoba,Extremadura,4,2,1.1,1.6
+2018-11-04,128,Dom,Cádiz,Elche,5,1,3.6,1.7
+2018-11-04,129,Dom,Oviedo,Mallorca,1,1,1.6,1.1
+2018-11-04,130,Dom,Almería,Sporting Gijón,2,1,1.3,1.1
+2018-11-04,131,Dom,Alcorcón,Majadahonda,2,0,2.0,0.6
+2018-11-04,132,Dom,Zaragoza,Granada,0,2,0.6,0.8
+2018-11-10,133,Sáb,Cádiz,Reus,2,0,2.2,0.0
+2018-11-10,134,Sáb,Lugo,Alcorcón,0,1,1.2,0.2
+2018-11-10,135,Sáb,Extremadura,Osasuna,2,3,1.3,1.0
+2018-11-10,136,Sáb,Elche,Las Palmas,0,0,1.3,1.0
+2018-11-10,137,Sáb,La Coruña,Oviedo,4,0,1.9,1.1
+2018-11-11,138,Dom,Granada,Numancia,0,0,0.8,0.2
+2018-11-11,139,Dom,Majadahonda,Almería,2,0,1.8,0.7
+2018-11-11,140,Dom,Mallorca,Córdoba,3,0,1.4,0.5
+2018-11-11,141,Dom,Sporting Gijón,Málaga,2,2,2.0,2.2
+2018-11-11,142,Dom,Tenerife,Albacete,0,0,1.3,0.9
+2018-11-12,143,Lun,Gimnàstic,Zaragoza,1,3,0.9,0.7
+2018-11-16,144,Vie,Las Palmas,Granada,2,2,0.6,2.3
+2018-11-17,145,Sáb,Málaga,Gimnàstic,2,0,2.6,0.2
+2018-11-17,146,Sáb,Osasuna,Tenerife,2,0,1.9,0.9
+2018-11-17,147,Sáb,Reus,Extremadura,1,4,0.6,1.1
+2018-11-17,148,Sáb,Zaragoza,Mallorca,2,2,2.0,1.9
+2018-11-17,149,Sáb,Oviedo,Sporting Gijón,2,1,0.9,1.0
+2018-11-18,150,Dom,Numancia,Majadahonda,1,2,2.6,1.8
+2018-11-18,151,Dom,Córdoba,Cádiz,1,3,1.0,1.3
+2018-11-18,152,Dom,Alcorcón,Elche,1,0,1.8,0.4
+2018-11-18,153,Dom,Albacete,Lugo,1,0,0.8,0.5
+2018-11-19,154,Lun,Almería,La Coruña,1,1,1.0,0.2
+2018-11-23,155,Vie,Granada,Sporting Gijón,1,2,1.0,1.1
+2018-11-24,156,Sáb,Gimnàstic,Almería,2,2,1.0,1.2
+2018-11-24,157,Sáb,Lugo,Córdoba,2,1,1.5,1.3
+2018-11-24,158,Sáb,La Coruña,Osasuna,2,0,1.1,0.6
+2018-11-24,159,Sáb,Cádiz,Las Palmas,4,1,2.8,1.1
+2018-11-25,160,Dom,Mallorca,Numancia,1,0,1.2,0.5
+2018-11-25,161,Dom,Extremadura,Málaga,1,0,0.9,1.1
+2018-11-25,162,Dom,Oviedo,Reus,3,0,2.0,0.7
+2018-11-25,163,Dom,Elche,Albacete,0,1,1.1,0.1
+2018-11-25,164,Dom,Tenerife,Majadahonda,2,1,2.2,1.0
+2018-11-25,165,Dom,Alcorcón,Zaragoza,2,0,1.8,0.2
+2018-11-30,166,Vie,Zaragoza,Cádiz,0,1,0.7,1.3
+2018-12-01,167,Sáb,Córdoba,Elche,1,1,0.7,0.9
+2018-12-01,168,Sáb,Málaga,Granada,0,1,0.5,0.3
+2018-12-01,169,Sáb,Reus,Mallorca,0,2,0.3,1.4
+2018-12-01,170,Sáb,Almería,Extremadura,1,1,0.7,0.7
+2018-12-01,171,Sáb,Sporting Gijón,Tenerife,2,1,0.6,1.0
+2018-12-02,172,Dom,Majadahonda,La Coruña,0,0,1.3,1.4
+2018-12-02,173,Dom,Osasuna,Lugo,1,0,2.0,0.9
+2018-12-02,174,Dom,Albacete,Alcorcón,2,1,1.2,1.3
+2018-12-02,175,Dom,Numancia,Gimnàstic,3,0,0.8,0.8
+2018-12-02,176,Dom,Las Palmas,Oviedo,0,0,0.4,0.9
+2018-12-07,177,Vie,Tenerife,Extremadura,0,0,1.6,0.8
+2018-12-08,178,Sáb,La Coruña,Numancia,2,2,1.1,1.3
+2018-12-08,179,Sáb,Gimnàstic,Granada,0,1,0.9,0.8
+2018-12-08,180,Sáb,Mallorca,Málaga,1,2,1.8,1.6
+2018-12-08,181,Sáb,Albacete,Osasuna,2,2,1.3,1.5
+2018-12-08,182,Sáb,Oviedo,Almería,1,2,2.0,0.8
+2018-12-09,183,Dom,Alcorcón,Reus,0,1,0.3,1.8
+2018-12-09,184,Dom,Cádiz,Majadahonda,1,0,1.6,1.4
+2018-12-09,185,Dom,Elche,Sporting Gijón,0,0,2.1,2.0
+2018-12-09,186,Dom,Lugo,Las Palmas,4,2,3.0,1.8
+2018-12-09,187,Dom,Zaragoza,Córdoba,0,0,0.7,0.4
+2018-12-14,188,Vie,Málaga,Cádiz,1,0,1.1,0.9
+2018-12-15,189,Sáb,Granada,Oviedo,1,0,1.1,1.3
+2018-12-15,190,Sáb,Reus,Córdoba,1,1,1.0,0.6
+2018-12-15,191,Sáb,Numancia,Albacete,1,2,1.9,1.0
+2018-12-15,192,Sáb,Sporting Gijón,Mallorca,1,0,1.4,0.8
+2018-12-16,193,Dom,Majadahonda,Elche,1,3,2.1,1.6
+2018-12-16,194,Dom,Osasuna,Alcorcón,2,1,1.0,1.9
+2018-12-16,195,Dom,Las Palmas,Tenerife,1,1,1.6,1.7
+2018-12-16,196,Dom,Extremadura,Gimnàstic,0,1,0.8,0.5
+2018-12-16,197,Dom,Almería,Lugo,1,1,2.4,0.9
+2018-12-16,198,Dom,La Coruña,Zaragoza,3,1,2.1,1.1
+2018-12-21,199,Vie,Tenerife,Granada,1,1,1.1,0.4
+2018-12-21,200,Vie,Mallorca,Gimnàstic,2,0,1.3,0.4
+2018-12-22,201,Sáb,Lugo,Sporting Gijón,0,0,0.8,0.8
+2018-12-22,202,Sáb,Oviedo,Málaga,0,0,0.3,0.3
+2018-12-22,203,Sáb,Zaragoza,Extremadura,2,1,2.2,0.8
+2018-12-22,204,Sáb,Elche,Almería,2,2,1.8,0.7
+2018-12-22,205,Sáb,Córdoba,Las Palmas,4,1,2.1,2.5
+2018-12-22,206,Sáb,Cádiz,La Coruña,3,0,1.0,1.0
+2018-12-23,207,Dom,Reus,Osasuna,0,1,0.7,1.4
+2018-12-23,208,Dom,Albacete,Majadahonda,1,0,0.7,0.9
+2018-12-23,209,Dom,Alcorcón,Numancia,1,1,1.4,1.0
+2019-01-04,210,Vie,Tenerife,Elche,2,1,2.0,1.0
+2019-01-04,211,Vie,Granada,Albacete,1,1,2.8,0.8
+2019-01-05,212,Sáb,Sporting Gijón,Zaragoza,1,2,2.3,0.6
+2019-01-05,213,Sáb,Extremadura,Alcorcón,3,0,1.2,0.9
+2019-01-06,214,Dom,Almería,Mallorca,2,0,3.6,0.7
+2019-01-06,215,Dom,La Coruña,Lugo,0,0,2.3,0.1
+2019-01-06,216,Dom,Gimnàstic,Córdoba,1,0,2.0,0.8
+2019-01-06,217,Dom,Osasuna,Cádiz,2,1,2.4,0.5
+2019-01-06,218,Dom,Málaga,Reus,0,3,2.2,1.5
+2019-01-07,219,Lun,Numancia,Oviedo,2,3,1.1,0.8
+2019-01-07,220,Lun,Majadahonda,Las Palmas,0,0,0.2,0.5
+2019-01-11,221,Vie,Cádiz,Granada,0,0,0.5,0.5
+2019-01-12,222,Sáb,Albacete,Sporting Gijón,1,1,1.2,0.6
+2019-01-12,223,Sáb,Las Palmas,Osasuna,4,1,1.2,0.6
+2019-01-12,224,Sáb,Reus,Numancia,1,1,0.4,1.1
+2019-01-12,225,Sáb,Oviedo,Tenerife,1,0,1.3,0.8
+2019-01-12,226,Sáb,Mallorca,La Coruña,1,0,1.3,0.5
+2019-01-13,227,Dom,Córdoba,Majadahonda,1,1,0.3,1.4
+2019-01-13,228,Dom,Alcorcón,Almería,0,0,0.8,1.8
+2019-01-13,229,Dom,Lugo,Extremadura,1,1,1.7,1.7
+2019-01-13,230,Dom,Zaragoza,Málaga,0,2,1.5,1.0
+2019-01-13,231,Dom,Elche,Gimnàstic,1,0,1.1,0.5
+2019-01-19,232,Sáb,Reus,Las Palmas,0,1,,
+2019-01-19,233,Sáb,Almería,Cádiz,0,0,0.3,1.3
+2019-01-19,234,Sáb,Majadahonda,Zaragoza,2,2,1.5,0.9
+2019-01-19,235,Sáb,Numancia,Córdoba,3,2,1.8,2.1
+2019-01-19,236,Sáb,Málaga,Lugo,2,1,1.8,0.7
+2019-01-20,237,Dom,Osasuna,Mallorca,2,0,2.0,0.4
+2019-01-20,238,Dom,Sporting Gijón,Alcorcón,2,0,1.4,0.6
+2019-01-20,239,Dom,Tenerife,Gimnàstic,2,0,2.7,0.8
+2019-01-20,240,Dom,La Coruña,Albacete,2,0,1.1,0.2
+2019-01-20,241,Dom,Extremadura,Oviedo,0,2,0.3,1.6
+2019-01-21,242,Lun,Granada,Elche,2,1,1.5,1.4
+2019-01-25,243,Vie,Zaragoza,Oviedo,2,0,2.0,1.1
+2019-01-26,244,Sáb,Almería,Osasuna,0,1,0.9,1.0
+2019-01-26,245,Sáb,Elche,Numancia,1,1,1.1,1.6
+2019-01-26,246,Sáb,Lugo,Majadahonda,3,2,1.9,1.9
+2019-01-26,247,Sáb,Tenerife,Málaga,0,0,0.7,0.8
+2019-01-26,248,Sáb,Cádiz,Mallorca,1,1,1.0,0.6
+2019-01-27,249,Dom,Albacete,Reus,1,0,,
+2019-01-27,250,Dom,Granada,Extremadura,0,0,0.5,0.3
+2019-01-27,251,Dom,Sporting Gijón,La Coruña,1,2,1.5,1.4
+2019-01-27,252,Dom,Alcorcón,Córdoba,2,1,1.4,0.6
+2019-01-27,253,Dom,Gimnàstic,Las Palmas,0,0,0.6,1.6
+2019-02-01,254,Vie,Málaga,Almería,1,1,1.5,1.4
+2019-02-02,255,Sáb,Numancia,Lugo,3,0,2.1,0.2
+2019-02-02,256,Sáb,Majadahonda,Gimnàstic,1,0,1.1,0.3
+2019-02-02,257,Sáb,Córdoba,Albacete,1,3,1.1,2.4
+2019-02-02,258,Sáb,La Coruña,Tenerife,0,0,1.3,0.3
+2019-02-03,259,Dom,Reus,Elche,0,1,,
+2019-02-03,260,Dom,Mallorca,Alcorcón,2,0,1.7,1.2
+2019-02-03,261,Dom,Oviedo,Cádiz,2,1,2.1,1.4
+2019-02-03,262,Dom,Osasuna,Granada,1,0,0.6,0.3
+2019-02-03,263,Dom,Extremadura,Sporting Gijón,0,3,0.5,0.6
+2019-02-04,264,Lun,Las Palmas,Zaragoza,1,1,1.2,1.0
+2019-02-08,265,Vie,Sporting Gijón,Osasuna,0,2,0.6,1.0
+2019-02-09,266,Sáb,Gimnàstic,Reus,1,0,,
+2019-02-09,267,Sáb,Extremadura,Majadahonda,1,1,1.8,0.8
+2019-02-09,268,Sáb,Elche,Oviedo,1,2,0.6,2.0
+2019-02-09,269,Sáb,Tenerife,Córdoba,0,2,0.6,1.3
+2019-02-09,270,Sáb,Lugo,Zaragoza,1,2,2.5,2.6
+2019-02-10,271,Dom,Alcorcón,Cádiz,1,2,0.4,2.5
+2019-02-10,272,Dom,Albacete,Mallorca,2,0,1.1,0.4
+2019-02-10,273,Dom,Granada,La Coruña,0,1,1.4,0.5
+2019-02-10,274,Dom,Almería,Numancia,1,0,3.0,0.3
+2019-02-10,275,Dom,Málaga,Las Palmas,0,0,0.3,0.6
+2019-02-15,276,Vie,Córdoba,Granada,1,2,1.1,1.4
+2019-02-16,277,Sáb,La Coruña,Gimnàstic,1,1,2.5,1.0
+2019-02-16,278,Sáb,Zaragoza,Albacete,0,0,1.6,0.6
+2019-02-16,279,Sáb,Elche,Extremadura,2,0,2.5,0.5
+2019-02-16,280,Sáb,Oviedo,Alcorcón,1,0,0.6,0.3
+2019-02-16,281,Sáb,Cádiz,Tenerife,2,0,2.1,0.4
+2019-02-17,282,Dom,Reus,Almería,0,1,,
+2019-02-17,283,Dom,Mallorca,Lugo,3,0,3.1,0.7
+2019-02-17,284,Dom,Numancia,Osasuna,1,1,0.7,1.5
+2019-02-17,285,Dom,Majadahonda,Málaga,0,1,0.5,0.6
+2019-02-17,286,Dom,Las Palmas,Sporting Gijón,1,0,2.2,1.1
+2019-02-22,287,Vie,Tenerife,Mallorca,2,2,3.0,1.2
+2019-02-23,288,Sáb,Albacete,Oviedo,0,0,1.5,0.2
+2019-02-23,289,Sáb,Gimnàstic,Cádiz,2,3,2.2,1.0
+2019-02-23,290,Sáb,Alcorcón,Las Palmas,2,0,2.1,1.5
+2019-02-23,291,Sáb,Osasuna,Zaragoza,1,0,3.1,0.5
+2019-02-24,292,Dom,Granada,Reus,1,0,,
+2019-02-24,293,Dom,Sporting Gijón,Majadahonda,2,3,3.4,1.0
+2019-02-24,294,Dom,Almería,Córdoba,3,1,1.4,1.5
+2019-02-24,295,Dom,Lugo,Elche,2,2,1.5,0.8
+2019-02-24,296,Dom,Málaga,La Coruña,0,0,0.9,1.0
+2019-02-24,297,Dom,Extremadura,Numancia,0,1,1.2,0.6
+2019-03-02,298,Sáb,Cádiz,Albacete,1,0,2.7,0.3
+2019-03-02,299,Sáb,Osasuna,Gimnàstic,1,0,0.6,1.0
+2019-03-02,300,Sáb,Córdoba,Málaga,1,1,0.2,1.6
+2019-03-03,301,Dom,Reus,Tenerife,0,1,,
+2019-03-03,302,Dom,Mallorca,Elche,1,1,2.1,0.7
+2019-03-03,303,Dom,Numancia,Sporting Gijón,1,2,1.9,0.5
+2019-03-03,304,Dom,Majadahonda,Granada,0,3,0.6,1.4
+2019-03-03,305,Dom,Oviedo,Lugo,1,1,1.5,0.6
+2019-03-03,306,Dom,Las Palmas,Extremadura,1,1,1.9,0.7
+2019-03-03,307,Dom,Zaragoza,Almería,1,2,1.7,2.9
+2019-03-04,308,Lun,La Coruña,Alcorcón,2,2,3.0,2.0
+2019-03-09,309,Sáb,Mallorca,Oviedo,1,0,0.8,0.0
+2019-03-09,310,Sáb,Sporting Gijón,Almería,1,0,1.8,0.9
+2019-03-09,311,Sáb,Gimnàstic,Albacete,1,0,1.8,0.2
+2019-03-09,312,Sáb,Elche,Cádiz,1,0,0.3,1.4
+2019-03-10,313,Dom,Lugo,Reus,1,0,,
+2019-03-10,314,Dom,Majadahonda,Alcorcón,2,0,1.8,1.2
+2019-03-10,315,Dom,Extremadura,Córdoba,3,0,1.6,0.8
+2019-03-10,316,Dom,Tenerife,Numancia,1,1,0.8,1.1
+2019-03-10,317,Dom,Granada,Zaragoza,1,0,1.2,0.6
+2019-03-10,318,Dom,La Coruña,Las Palmas,0,1,0.7,0.6
+2019-03-11,319,Lun,Málaga,Osasuna,1,2,1.0,1.6
+2019-03-16,320,Sáb,Albacete,Extremadura,1,0,1.6,0.3
+2019-03-16,321,Sáb,Cádiz,Lugo,1,1,1.0,0.6
+2019-03-16,322,Sáb,Alcorcón,Tenerife,1,1,1.6,1.2
+2019-03-16,323,Sáb,Zaragoza,Elche,1,0,1.4,0.9
+2019-03-17,324,Dom,Reus,La Coruña,0,1,,
+2019-03-17,325,Dom,Oviedo,Gimnàstic,2,0,1.5,0.5
+2019-03-17,326,Dom,Córdoba,Sporting Gijón,1,2,1.1,1.2
+2019-03-17,327,Dom,Almería,Granada,0,0,0.5,0.1
+2019-03-17,328,Dom,Osasuna,Majadahonda,3,0,1.8,0.9
+2019-03-17,329,Dom,Las Palmas,Mallorca,1,2,0.8,1.5
+2019-03-18,330,Lun,Numancia,Málaga,1,1,1.6,1.0
+2019-03-22,331,Vie,Tenerife,Osasuna,3,2,1.8,1.7
+2019-03-22,332,Vie,La Coruña,Almería,0,0,1.5,0.9
+2019-03-23,333,Sáb,Elche,Alcorcón,3,1,1.6,1.3
+2019-03-23,334,Sáb,Lugo,Albacete,0,3,2.4,0.7
+2019-03-24,335,Dom,Extremadura,Reus,1,0,,
+2019-03-24,336,Dom,Majadahonda,Numancia,4,0,3.1,0.8
+2019-03-24,337,Dom,Gimnàstic,Málaga,0,1,0.8,0.7
+2019-03-24,338,Dom,Cádiz,Córdoba,1,1,1.7,1.3
+2019-03-24,339,Dom,Granada,Las Palmas,1,1,0.8,1.0
+2019-03-24,340,Dom,Sporting Gijón,Oviedo,1,0,1.2,0.7
+2019-03-25,341,Lun,Mallorca,Zaragoza,3,0,1.5,0.6
+2019-03-29,342,Vie,Málaga,Sporting Gijón,1,1,2.2,1.2
+2019-03-30,343,Sáb,Almería,Majadahonda,2,2,1.7,2.2
+2019-03-30,344,Sáb,Numancia,Granada,2,1,1.1,1.3
+2019-03-30,345,Sáb,Albacete,Tenerife,2,2,1.8,1.0
+2019-03-31,346,Dom,Reus,Cádiz,0,1,,
+2019-03-31,347,Dom,Córdoba,Mallorca,3,2,1.3,2.1
+2019-03-31,348,Dom,Osasuna,Extremadura,1,0,1.1,0.4
+2019-03-31,349,Dom,Alcorcón,Lugo,0,0,1.8,0.3
+2019-03-31,350,Dom,Oviedo,La Coruña,1,1,1.3,1.5
+2019-03-31,351,Dom,Las Palmas,Elche,0,1,0.7,1.2
+2019-04-01,352,Lun,Zaragoza,Gimnàstic,3,0,1.6,1.0
+2019-04-05,353,Vie,Tenerife,Sporting Gijón,0,1,1.7,1.7
+2019-04-06,354,Sáb,La Coruña,Majadahonda,0,2,0.7,1.2
+2019-04-06,355,Sáb,Granada,Málaga,1,0,1.0,0.8
+2019-04-06,356,Sáb,Extremadura,Almería,1,0,1.5,1.3
+2019-04-06,357,Sáb,Oviedo,Las Palmas,1,1,0.5,0.4
+2019-04-07,358,Dom,Mallorca,Reus,1,0,,
+2019-04-07,359,Dom,Alcorcón,Albacete,0,1,1.5,0.3
+2019-04-07,360,Dom,Lugo,Osasuna,2,2,1.4,1.2
+2019-04-07,361,Dom,Gimnàstic,Numancia,2,0,1.9,1.5
+2019-04-07,362,Dom,Elche,Córdoba,1,0,1.1,0.3
+2019-04-08,363,Lun,Cádiz,Zaragoza,3,3,1.7,2.4
+2019-04-12,364,Vie,Sporting Gijón,Granada,1,0,0.8,1.7
+2019-04-13,365,Sáb,Málaga,Extremadura,1,2,1.6,0.9
+2019-04-13,366,Sáb,Osasuna,La Coruña,2,1,0.6,0.8
+2019-04-13,367,Sáb,Almería,Gimnàstic,3,0,2.3,1.2
+2019-04-13,368,Sáb,Majadahonda,Tenerife,1,3,2.2,1.9
+2019-04-14,369,Dom,Reus,Oviedo,0,1,,
+2019-04-14,370,Dom,Albacete,Elche,1,1,0.3,1.3
+2019-04-14,371,Dom,Numancia,Mallorca,1,1,0.2,1.2
+2019-04-14,372,Dom,Córdoba,Lugo,0,4,0.6,1.8
+2019-04-14,373,Dom,Las Palmas,Cádiz,0,3,1.1,1.3
+2019-04-14,374,Dom,Zaragoza,Alcorcón,0,2,1.8,1.5
+2019-04-19,375,Vie,Alcorcón,Málaga,1,4,1.7,1.4
+2019-04-20,376,Sáb,Lugo,Granada,1,2,1.2,1.8
+2019-04-20,377,Sáb,Albacete,Las Palmas,4,2,2.3,0.8
+2019-04-20,378,Sáb,Gimnàstic,Sporting Gijón,0,0,0.8,0.6
+2019-04-20,379,Sáb,Mallorca,Majadahonda,2,0,2.7,1.4
+2019-04-21,380,Dom,Zaragoza,Reus,1,0,,
+2019-04-21,381,Dom,Cádiz,Numancia,2,1,0.9,0.5
+2019-04-21,382,Dom,La Coruña,Extremadura,1,2,2.0,0.6
+2019-04-21,383,Dom,Oviedo,Córdoba,3,3,1.9,1.0
+2019-04-21,384,Dom,Tenerife,Almería,1,3,1.4,1.9
+2019-04-22,385,Lun,Elche,Osasuna,1,2,1.9,0.6
+2019-04-26,386,Vie,Numancia,La Coruña,1,2,1.0,1.5
+2019-04-27,387,Sáb,Málaga,Mallorca,0,1,1.5,1.2
+2019-04-27,388,Sáb,Osasuna,Albacete,2,0,2.6,0.1
+2019-04-27,389,Sáb,Almería,Oviedo,0,1,0.5,0.9
+2019-04-27,390,Sáb,Extremadura,Tenerife,1,0,2.1,1.0
+2019-04-28,391,Dom,Reus,Alcorcón,0,1,,
+2019-04-28,392,Dom,Majadahonda,Cádiz,1,1,1.3,1.1
+2019-04-28,393,Dom,Sporting Gijón,Elche,1,1,2.0,1.1
+2019-04-28,394,Dom,Las Palmas,Lugo,4,1,2.2,1.0
+2019-04-28,395,Dom,Granada,Gimnàstic,2,0,2.5,0.3
+2019-04-28,396,Dom,Córdoba,Zaragoza,0,3,0.9,1.4
+2019-05-03,397,Vie,Reus,Sporting Gijón,0,1,,
+2019-05-04,398,Sáb,Alcorcón,Osasuna,0,0,0.4,0.7
+2019-05-04,399,Sáb,Zaragoza,La Coruña,0,1,1.1,0.3
+2019-05-04,400,Sáb,Gimnàstic,Extremadura,0,1,1.2,1.8
+2019-05-04,401,Sáb,Tenerife,Las Palmas,2,1,2.1,1.1
+2019-05-05,402,Dom,Córdoba,Reus,1,0,,
+2019-05-05,403,Dom,Lugo,Almería,4,2,1.8,2.0
+2019-05-05,404,Dom,Mallorca,Sporting Gijón,2,1,2.1,0.4
+2019-05-05,405,Dom,Elche,Majadahonda,2,1,1.5,1.2
+2019-05-05,406,Dom,Albacete,Numancia,0,0,1.3,0.3
+2019-05-05,407,Dom,Oviedo,Granada,1,1,0.7,0.4
+2019-05-06,408,Lun,Cádiz,Málaga,1,1,0.6,1.0
+2019-05-10,409,Vie,Granada,Tenerife,2,1,2.1,0.2
+2019-05-11,410,Sáb,Gimnàstic,Mallorca,2,1,1.3,1.5
+2019-05-11,411,Sáb,Sporting Gijón,Lugo,0,0,0.9,0.6
+2019-05-11,412,Sáb,Extremadura,Zaragoza,0,3,1.0,1.4
+2019-05-11,413,Sáb,Numancia,Alcorcón,2,0,0.8,0.4
+2019-05-12,414,Dom,Osasuna,Reus,1,0,,
+2019-05-12,415,Dom,Almería,Elche,5,3,3.0,2.7
+2019-05-12,416,Dom,La Coruña,Cádiz,1,1,1.9,0.4
+2019-05-12,417,Dom,Majadahonda,Albacete,2,3,2.8,2.2
+2019-05-12,418,Dom,Las Palmas,Córdoba,1,0,1.6,1.0
+2019-05-13,419,Lun,Málaga,Oviedo,3,0,1.9,0.5
+2019-05-17,420,Vie,Zaragoza,Sporting Gijón,4,2,3.3,1.1
+2019-05-18,421,Sáb,Alcorcón,Extremadura,0,1,0.8,2.0
+2019-05-18,422,Sáb,Elche,Tenerife,3,0,1.9,1.0
+2019-05-19,423,Dom,Reus,Málaga,0,1,,
+2019-05-19,424,Dom,Mallorca,Almería,1,0,2.2,0.2
+2019-05-19,425,Dom,Oviedo,Numancia,1,0,1.4,0.4
+2019-05-19,426,Dom,Las Palmas,Majadahonda,3,2,2.1,1.8
+2019-05-19,427,Dom,Cádiz,Osasuna,0,0,0.6,1.0
+2019-05-19,428,Dom,Lugo,La Coruña,1,0,0.7,1.2
+2019-05-19,429,Dom,Córdoba,Gimnàstic,4,3,2.0,1.7
+2019-05-20,430,Lun,Albacete,Granada,0,1,1.5,1.0
+2019-05-24,431,Vie,Málaga,Zaragoza,3,1,1.3,0.3
+2019-05-25,432,Sáb,Majadahonda,Córdoba,0,0,2.2,0.6
+2019-05-25,433,Sáb,Osasuna,Las Palmas,2,0,2.0,0.6
+2019-05-25,434,Sáb,Sporting Gijón,Albacete,0,2,0.3,1.3
+2019-05-26,435,Dom,Numancia,Reus,1,0,,
+2019-05-26,436,Dom,Almería,Alcorcón,0,0,0.3,1.0
+2019-05-26,437,Dom,Gimnàstic,Elche,3,3,2.7,1.7
+2019-05-26,438,Dom,Tenerife,Oviedo,2,1,1.2,1.7
+2019-05-26,439,Dom,Granada,Cádiz,1,1,0.2,0.4
+2019-05-26,440,Dom,Extremadura,Lugo,0,0,0.6,0.5
+2019-05-27,441,Lun,La Coruña,Mallorca,1,0,1.6,1.7
+2019-05-31,442,Vie,Córdoba,Osasuna,2,3,1.2,2.3
+2019-06-01,443,Sáb,Alcorcón,Gimnàstic,0,1,0.9,1.2
+2019-06-02,444,Dom,Las Palmas,Almería,0,0,1.9,0.4
+2019-06-04,445,Mar,Lugo,Tenerife,0,0,0.5,0.5
+2019-06-04,446,Mar,Elche,La Coruña,0,0,0.5,2.4
+2019-06-04,447,Mar,Oviedo,Majadahonda,4,3,2.5,2.2
+2019-06-04,448,Mar,Cádiz,Extremadura,0,1,1.1,0.4
+2019-06-04,449,Mar,Albacete,Málaga,1,2,1.1,0.4
+2019-06-04,450,Mar,Zaragoza,Numancia,0,0,0.6,1.0
+2019-06-04,451,Mar,Mallorca,Granada,1,1,1.1,0.6
+2019-06-07,452,Vie,Majadahonda,Reus,1,0,,
+2019-06-08,453,Sáb,Osasuna,Oviedo,1,0,1.6,0.7
+2019-06-08,454,Sáb,Málaga,Elche,3,0,1.5,0.5
+2019-06-08,455,Sáb,La Coruña,Córdoba,2,0,2.0,0.7
+2019-06-08,456,Sáb,Extremadura,Mallorca,0,0,1.3,1.0
+2019-06-08,457,Sáb,Almería,Albacete,3,0,4.0,0.9
+2019-06-08,458,Sáb,Granada,Alcorcón,2,1,0.8,1.2
+2019-06-08,459,Sáb,Sporting Gijón,Cádiz,1,0,1.0,0.5
+2019-06-09,460,Dom,Gimnàstic,Lugo,1,1,1.7,0.3
+2019-06-09,461,Dom,Tenerife,Zaragoza,1,0,2.4,1.6
+2019-06-09,462,Dom,Numancia,Las Palmas,1,1,1.1,1.0
+2019-06-12,463,Mié,La Coruña,Málaga,4,2,2.0,0.9
+2019-06-13,464,Jue,Mallorca,Albacete,2,0,1.1,0.3
+2019-06-15,465,Sáb,Málaga,La Coruña,0,1,1.4,0.2
+2019-06-16,466,Dom,Albacete,Mallorca,1,0,1.4,0.8
+2019-06-20,467,Jue,La Coruña,Mallorca,2,0,1.5,0.5
+2019-06-23,468,Dom,Mallorca,La Coruña,3,0,0.8,0.2

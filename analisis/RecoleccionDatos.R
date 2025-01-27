@@ -1,33 +1,39 @@
 rm(list=ls())
-setwd("~/UBA/301060/Paper")
+setwd("~/facultad/tesis")
 library(readxl)
 
-# Carga de la base de datos
-dta <- read_excel('DatosTorneosLocales.xlsx')
+# ----- Carga de datos ----- #
+dta <- read_excel('datos/DatosTorneosLocales.xlsx')
 dta <- dta[,2:10]
-dta_analizar <- dta[dta$`Partidos hasta`>"2018-07-01",]
+
+# ----- Variables ----- #
+dta_analizar <- dta[dta$`Partidos hasta`>"2018-07-01",] # usamos los partidos desde 2017
 dta <- dta[,1:7]
-# # Nos quedamos con los partidos desde 2017
 cant_partidos <- dim(dta_analizar)[1]
 resultados <- matrix(data=0, nrow=cant_partidos,ncol = 2+36+36)
+scores <- expand.grid(home = 5:0, away = 0:5)
+print(scores)
 posibles_resultados <- c("5-0","5-1","5-2","5-3","5-4","4-0","4-1","4-2","4-3","3-0","3-1","3-2","2-0","2-1","1-0","0-0","1-1","2-2","3-3","4-4","5-5","0-1","1-2","0-2","2-3","1-3","0-3","3-4","2-4","1-4","0-4","4-5","3-5","2-5","1-5","0-5")
 nombre_col <- c("GolLocal","GolVisitante",posibles_resultados,paste("R",posibles_resultados,sep = ""))
 colnames(resultados) <- nombre_col
 part_hasta <- "2000-01-01"
 part_desde <- "2000-01-01"
 
+# ----- Probabilidad de cada resultado para el partido X_ij, Y_ij ----- #
 probaPartido <- function(equipoLocal, equipoVisitante, modelo) {
+  maxgol <- 5 # Máxima cantidad de goles que puede meter un equipo
+
   # Tasa de goles del Local. X_{i,j}
   # lambda = exp( Equipo(equipoLocal) + PlusLocal(AT equipoLocal) + Rival(equipoVisitante) )
   lambda <- predict(modelo, data.frame(Equipo = equipoLocal, Rival = equipoVisitante, PlusLocal = paste('AT',equipoLocal)), type = 'response')
+
   # Tasa de goles del Visitante. Y_{i,j}
   # mu = exp( Equipo(equipoVisitante) + Rival(equipoLocal) + PlusLocal(DF equipoLocal) )
   mu <- predict(modelo, data.frame(Equipo = equipoVisitante, Rival = equipoLocal, PlusLocal = paste('DF',equipoLocal)), type = 'response')
-  maxgol <- 5 # Máxima cantidad de goles que puede meter un equipo
-  # dpois da la probabilidad puntual.
+
   # Matriz con la probabilidad de que el partido termine con el resultado i-j
   proba <- dpois(0:maxgol, lambda) %*% t(dpois(0:maxgol, mu))
-  #print(proba)
+
   # Ajustamos viendo en promedio los resultados anteriores
   proba[1,1] <- proba[1,1] * 0.96
   proba[1,2] <- proba[1,2] * 0.79
@@ -118,6 +124,7 @@ probaPartido <- function(equipoLocal, equipoVisitante, modelo) {
   return(probaPartido)
 }
 
+# ----- Efectuar analisis de partidos ----- #
 for (i in 1:cant_partidos){
   part <- dta_analizar[i,]
   part_hasta_aux <- part$`Partidos hasta`

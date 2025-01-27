@@ -1,0 +1,381 @@
+﻿Fecha,match_id,Día,Local,Visitante,goles_local,goles_visitante,xG_local,xG_visitante
+2019-08-16,1,Vie,Athletic Club,Barcelona,1,0,0.5,0.9
+2019-08-17,2,Sáb,Celta Vigo,Real Madrid,1,3,1.6,2.1
+2019-08-17,3,Sáb,Valencia,Real Sociedad,1,1,2.3,1.8
+2019-08-17,4,Sáb,Mallorca,Eibar,2,1,1.6,0.7
+2019-08-17,5,Sáb,Leganés,Osasuna,0,1,1.4,0.2
+2019-08-17,6,Sáb,Villarreal,Granada,4,4,1.9,1.9
+2019-08-18,7,Dom,Alavés,Levante,1,0,0.5,1.1
+2019-08-18,8,Dom,Espanyol,Sevilla,0,2,0.2,1.6
+2019-08-18,9,Dom,Betis,Valladolid,1,2,1.5,0.7
+2019-08-18,10,Dom,Atlético Madrid,Getafe,1,0,2.2,0.3
+2019-08-23,11,Vie,Granada,Sevilla,0,1,0.5,1.1
+2019-08-23,12,Vie,Levante,Villarreal,2,1,2.1,3.0
+2019-08-24,13,Sáb,Osasuna,Eibar,0,0,0.5,0.8
+2019-08-24,14,Sáb,Real Madrid,Valladolid,1,1,1.7,1.2
+2019-08-24,15,Sáb,Getafe,Athletic Club,1,1,0.3,0.5
+2019-08-24,16,Sáb,Celta Vigo,Valencia,1,0,1.9,1.0
+2019-08-25,17,Dom,Alavés,Espanyol,0,0,0.8,0.2
+2019-08-25,18,Dom,Mallorca,Real Sociedad,0,1,1.0,1.6
+2019-08-25,19,Dom,Leganés,Atlético Madrid,0,1,0.4,1.8
+2019-08-25,20,Dom,Barcelona,Betis,5,2,2.6,0.2
+2019-08-30,21,Vie,Sevilla,Celta Vigo,1,1,1.5,0.4
+2019-08-30,22,Vie,Athletic Club,Real Sociedad,2,0,1.0,0.2
+2019-08-31,23,Sáb,Osasuna,Barcelona,2,2,1.8,0.4
+2019-08-31,24,Sáb,Levante,Valladolid,2,0,2.7,1.1
+2019-08-31,25,Sáb,Getafe,Alavés,1,1,1.0,1.0
+2019-08-31,26,Sáb,Betis,Leganés,2,1,2.1,1.4
+2019-09-01,27,Dom,Valencia,Mallorca,2,0,2.3,1.2
+2019-09-01,28,Dom,Atlético Madrid,Eibar,3,2,1.5,0.9
+2019-09-01,29,Dom,Espanyol,Granada,0,3,1.4,1.4
+2019-09-01,30,Dom,Villarreal,Real Madrid,2,2,1.4,1.9
+2019-09-13,31,Vie,Mallorca,Athletic Club,0,0,1.8,1.5
+2019-09-14,32,Sáb,Real Madrid,Levante,3,2,2.9,1.2
+2019-09-14,33,Sáb,Leganés,Villarreal,0,3,0.4,1.6
+2019-09-14,34,Sáb,Real Sociedad,Atlético Madrid,2,0,2.1,1.2
+2019-09-14,35,Sáb,Barcelona,Valencia,5,2,2.4,1.5
+2019-09-15,36,Dom,Eibar,Espanyol,1,2,0.7,1.8
+2019-09-15,37,Dom,Alavés,Sevilla,0,1,0.8,1.1
+2019-09-15,38,Dom,Celta Vigo,Granada,0,2,0.3,1.2
+2019-09-15,39,Dom,Valladolid,Osasuna,1,1,0.7,2.5
+2019-09-15,40,Dom,Betis,Getafe,1,1,1.1,1.5
+2019-09-20,41,Vie,Osasuna,Betis,0,0,2.1,0.4
+2019-09-21,42,Sáb,Villarreal,Valladolid,2,0,2.1,0.4
+2019-09-21,43,Sáb,Levante,Eibar,0,0,1.5,1.4
+2019-09-21,44,Sáb,Atlético Madrid,Celta Vigo,0,0,1.7,0.6
+2019-09-21,45,Sáb,Granada,Barcelona,2,0,1.9,0.5
+2019-09-22,46,Dom,Getafe,Mallorca,4,2,2.1,0.8
+2019-09-22,47,Dom,Espanyol,Real Sociedad,1,3,0.9,1.3
+2019-09-22,48,Dom,Valencia,Leganés,1,1,1.5,1.2
+2019-09-22,49,Dom,Athletic Club,Alavés,2,0,2.4,0.2
+2019-09-22,50,Dom,Sevilla,Real Madrid,0,1,0.5,1.2
+2019-09-24,51,Mar,Valladolid,Granada,1,1,1.4,0.6
+2019-09-24,52,Mar,Betis,Levante,3,1,2.9,1.5
+2019-09-24,53,Mar,Barcelona,Villarreal,2,1,0.5,0.6
+2019-09-25,54,Mié,Mallorca,Atlético Madrid,0,2,0.5,1.0
+2019-09-25,55,Mié,Leganés,Athletic Club,1,1,0.5,1.2
+2019-09-25,56,Mié,Valencia,Getafe,3,3,1.2,2.0
+2019-09-25,57,Mié,Real Madrid,Osasuna,2,0,1.6,0.2
+2019-09-26,58,Jue,Eibar,Sevilla,3,2,1.5,1.4
+2019-09-26,59,Jue,Celta Vigo,Espanyol,1,1,1.1,1.2
+2019-09-26,60,Jue,Real Sociedad,Alavés,3,0,3.8,0.3
+2019-09-27,61,Vie,Villarreal,Betis,5,1,3.2,0.7
+2019-09-28,62,Sáb,Athletic Club,Valencia,0,1,1.4,1.8
+2019-09-28,63,Sáb,Getafe,Barcelona,0,2,1.0,1.3
+2019-09-28,64,Sáb,Granada,Leganés,1,0,0.7,1.2
+2019-09-28,65,Sáb,Atlético Madrid,Real Madrid,0,0,0.9,0.4
+2019-09-29,66,Dom,Espanyol,Valladolid,0,2,1.3,1.8
+2019-09-29,67,Dom,Eibar,Celta Vigo,2,0,1.1,0.9
+2019-09-29,68,Dom,Alavés,Mallorca,2,0,2.1,0.2
+2019-09-29,69,Dom,Levante,Osasuna,1,1,1.6,1.1
+2019-09-29,70,Dom,Sevilla,Real Sociedad,3,2,1.7,0.8
+2019-10-04,71,Vie,Betis,Eibar,1,1,1.9,1.2
+2019-10-05,72,Sáb,Leganés,Levante,1,2,2.8,1.2
+2019-10-05,73,Sáb,Real Madrid,Granada,4,2,2.6,1.6
+2019-10-05,74,Sáb,Valencia,Alavés,2,1,1.3,1.7
+2019-10-05,75,Sáb,Osasuna,Villarreal,2,1,1.3,2.4
+2019-10-06,76,Dom,Mallorca,Espanyol,2,0,0.8,1.2
+2019-10-06,77,Dom,Celta Vigo,Athletic Club,1,0,1.2,0.2
+2019-10-06,78,Dom,Valladolid,Atlético Madrid,0,0,1.0,0.8
+2019-10-06,79,Dom,Real Sociedad,Getafe,1,2,0.6,0.9
+2019-10-06,80,Dom,Barcelona,Sevilla,4,0,2.1,2.5
+2019-10-18,81,Vie,Granada,Osasuna,1,0,0.6,0.6
+2019-10-19,82,Sáb,Eibar,Barcelona,0,3,0.3,1.5
+2019-10-19,83,Sáb,Atlético Madrid,Valencia,1,1,1.6,0.7
+2019-10-19,84,Sáb,Getafe,Leganés,2,0,1.0,0.6
+2019-10-19,85,Sáb,Mallorca,Real Madrid,1,0,0.2,1.0
+2019-10-20,86,Dom,Alavés,Celta Vigo,2,0,2.1,1.3
+2019-10-20,87,Dom,Real Sociedad,Betis,3,1,1.4,1.0
+2019-10-20,88,Dom,Espanyol,Villarreal,0,1,1.0,1.6
+2019-10-20,89,Dom,Athletic Club,Valladolid,1,1,1.5,0.7
+2019-10-20,90,Dom,Sevilla,Levante,1,0,2.7,0.5
+2019-10-25,91,Vie,Villarreal,Alavés,4,1,2.5,0.8
+2019-10-26,92,Sáb,Leganés,Mallorca,1,0,1.7,0.8
+2019-10-26,93,Sáb,Valladolid,Eibar,2,0,1.7,0.6
+2019-10-26,94,Sáb,Atlético Madrid,Athletic Club,2,0,1.5,0.4
+2019-10-27,95,Dom,Celta Vigo,Real Sociedad,0,1,0.9,0.8
+2019-10-27,96,Dom,Granada,Betis,1,0,1.6,0.7
+2019-10-27,97,Dom,Levante,Espanyol,0,1,0.3,1.0
+2019-10-27,98,Dom,Sevilla,Getafe,2,0,2.0,0.7
+2019-10-27,99,Dom,Osasuna,Valencia,3,1,2.8,0.9
+2019-10-29,100,Mar,Alavés,Atlético Madrid,1,1,0.6,1.7
+2019-10-29,101,Mar,Barcelona,Valladolid,5,1,2.7,1.1
+2019-10-30,102,Mié,Valencia,Sevilla,1,1,0.8,0.6
+2019-10-30,103,Mié,Real Sociedad,Levante,1,2,1.6,1.8
+2019-10-30,104,Mié,Athletic Club,Espanyol,3,0,0.3,0.9
+2019-10-30,105,Mié,Betis,Celta Vigo,2,1,1.0,1.7
+2019-10-30,106,Mié,Real Madrid,Leganés,5,0,4.8,0.3
+2019-10-31,107,Jue,Mallorca,Osasuna,2,2,2.4,1.0
+2019-10-31,108,Jue,Eibar,Villarreal,2,1,2.4,1.5
+2019-10-31,109,Jue,Getafe,Granada,3,1,0.8,1.7
+2019-11-02,110,Sáb,Espanyol,Valencia,1,2,1.3,1.9
+2019-11-02,111,Sáb,Levante,Barcelona,3,1,1.0,2.3
+2019-11-02,112,Sáb,Sevilla,Atlético Madrid,1,1,0.7,2.8
+2019-11-02,113,Sáb,Real Madrid,Betis,0,0,2.8,0.5
+2019-11-03,114,Dom,Valladolid,Mallorca,3,0,2.0,0.7
+2019-11-03,115,Dom,Villarreal,Athletic Club,0,0,0.8,0.9
+2019-11-03,116,Dom,Osasuna,Alavés,4,2,3.7,1.5
+2019-11-03,117,Dom,Celta Vigo,Getafe,0,1,0.2,0.4
+2019-11-03,118,Dom,Leganés,Eibar,1,2,1.4,0.9
+2019-11-03,119,Dom,Granada,Real Sociedad,1,2,0.2,1.0
+2019-11-08,120,Vie,Real Sociedad,Leganés,1,1,1.1,1.0
+2019-11-09,121,Sáb,Alavés,Valladolid,3,0,3.4,0.3
+2019-11-09,122,Sáb,Valencia,Granada,2,0,0.7,0.5
+2019-11-09,123,Sáb,Eibar,Real Madrid,0,4,1.0,2.9
+2019-11-09,124,Sáb,Barcelona,Celta Vigo,4,1,1.4,0.4
+2019-11-10,125,Dom,Mallorca,Villarreal,3,1,1.7,3.2
+2019-11-10,126,Dom,Athletic Club,Levante,2,1,1.6,0.6
+2019-11-10,127,Dom,Atlético Madrid,Espanyol,3,1,2.7,0.4
+2019-11-10,128,Dom,Getafe,Osasuna,0,0,1.3,0.1
+2019-11-10,129,Dom,Betis,Sevilla,1,2,1.9,0.9
+2019-11-22,130,Vie,Levante,Mallorca,2,1,1.8,1.7
+2019-11-23,131,Sáb,Leganés,Barcelona,1,2,0.4,1.7
+2019-11-23,132,Sáb,Betis,Valencia,2,1,1.7,1.0
+2019-11-23,133,Sáb,Granada,Atlético Madrid,1,1,0.7,2.3
+2019-11-23,134,Sáb,Real Madrid,Real Sociedad,3,1,1.4,1.6
+2019-11-24,135,Dom,Espanyol,Getafe,1,1,1.1,0.7
+2019-11-24,136,Dom,Osasuna,Athletic Club,1,2,1.3,1.1
+2019-11-24,137,Dom,Eibar,Alavés,0,2,1.4,1.6
+2019-11-24,138,Dom,Villarreal,Celta Vigo,1,3,1.2,1.9
+2019-11-24,139,Dom,Valladolid,Sevilla,0,1,0.5,1.4
+2019-11-29,140,Vie,Celta Vigo,Valladolid,0,0,1.1,0.4
+2019-11-30,141,Sáb,Alavés,Real Madrid,1,2,1.3,1.8
+2019-11-30,142,Sáb,Real Sociedad,Eibar,4,1,1.1,0.6
+2019-11-30,143,Sáb,Mallorca,Betis,1,2,2.8,2.2
+2019-11-30,144,Sáb,Valencia,Villarreal,2,1,1.5,2.1
+2019-12-01,145,Dom,Sevilla,Leganés,1,0,2.1,0.7
+2019-12-01,146,Dom,Athletic Club,Granada,2,0,1.9,1.0
+2019-12-01,147,Dom,Espanyol,Osasuna,2,4,1.6,2.7
+2019-12-01,148,Dom,Getafe,Levante,4,0,1.8,0.6
+2019-12-01,149,Dom,Atlético Madrid,Barcelona,0,1,1.4,0.9
+2019-12-06,150,Vie,Villarreal,Atlético Madrid,0,0,1.5,1.6
+2019-12-07,151,Sáb,Real Madrid,Espanyol,2,0,2.4,0.5
+2019-12-07,152,Sáb,Granada,Alavés,3,0,2.5,0.3
+2019-12-07,153,Sáb,Levante,Valencia,2,4,2.1,3.0
+2019-12-07,154,Sáb,Barcelona,Mallorca,5,2,3.7,1.3
+2019-12-08,155,Dom,Eibar,Getafe,0,1,0.3,0.9
+2019-12-08,156,Dom,Betis,Athletic Club,3,2,2.0,1.0
+2019-12-08,157,Dom,Valladolid,Real Sociedad,0,0,0.6,1.7
+2019-12-08,158,Dom,Leganés,Celta Vigo,3,2,1.0,0.5
+2019-12-08,159,Dom,Osasuna,Sevilla,1,1,0.8,1.5
+2019-12-13,160,Vie,Alavés,Leganés,1,1,1.2,0.7
+2019-12-14,161,Sáb,Granada,Levante,1,2,1.2,1.0
+2019-12-14,162,Sáb,Real Sociedad,Barcelona,2,2,2.7,1.2
+2019-12-14,163,Sáb,Athletic Club,Eibar,0,0,0.9,0.4
+2019-12-14,164,Sáb,Atlético Madrid,Osasuna,2,0,2.5,0.7
+2019-12-15,165,Dom,Getafe,Valladolid,2,0,1.5,0.5
+2019-12-15,166,Dom,Celta Vigo,Mallorca,2,2,2.2,1.6
+2019-12-15,167,Dom,Espanyol,Betis,2,2,1.4,0.9
+2019-12-15,168,Dom,Sevilla,Villarreal,1,2,1.7,1.5
+2019-12-15,169,Dom,Valencia,Real Madrid,1,1,2.3,1.7
+2019-12-18,170,Mié,Barcelona,Real Madrid,0,0,0.9,0.8
+2019-12-20,171,Vie,Eibar,Granada,3,0,1.9,1.7
+2019-12-21,172,Sáb,Mallorca,Sevilla,0,2,0.8,1.6
+2019-12-21,173,Sáb,Barcelona,Alavés,4,1,1.3,0.4
+2019-12-21,174,Sáb,Villarreal,Getafe,1,0,2.3,0.6
+2019-12-21,175,Sáb,Valladolid,Valencia,1,1,0.8,1.2
+2019-12-22,176,Dom,Leganés,Espanyol,2,0,1.0,0.7
+2019-12-22,177,Dom,Osasuna,Real Sociedad,3,4,3.4,2.2
+2019-12-22,178,Dom,Betis,Atlético Madrid,1,2,1.1,1.6
+2019-12-22,179,Dom,Levante,Celta Vigo,3,1,2.7,0.9
+2019-12-22,180,Dom,Real Madrid,Athletic Club,0,0,2.5,0.4
+2020-01-03,181,Vie,Valladolid,Leganés,2,2,1.8,2.3
+2020-01-03,182,Vie,Sevilla,Athletic Club,1,1,1.3,0.2
+2020-01-04,183,Sáb,Valencia,Eibar,1,0,1.0,1.0
+2020-01-04,184,Sáb,Getafe,Real Madrid,0,3,1.3,1.8
+2020-01-04,185,Sáb,Atlético Madrid,Levante,2,1,1.2,0.9
+2020-01-04,186,Sáb,Espanyol,Barcelona,2,2,0.7,2.2
+2020-01-05,187,Dom,Granada,Mallorca,1,0,1.3,1.1
+2020-01-05,188,Dom,Real Sociedad,Villarreal,1,2,0.9,1.4
+2020-01-05,189,Dom,Alavés,Betis,1,1,0.3,1.9
+2020-01-05,190,Dom,Celta Vigo,Osasuna,1,1,1.6,0.7
+2020-01-17,191,Vie,Leganés,Getafe,0,3,0.4,1.3
+2020-01-18,192,Sáb,Levante,Alavés,0,1,1.2,2.1
+2020-01-18,193,Sáb,Real Madrid,Sevilla,2,1,1.3,0.4
+2020-01-18,194,Sáb,Osasuna,Valladolid,0,0,1.9,0.5
+2020-01-18,195,Sáb,Eibar,Atlético Madrid,2,0,0.8,1.1
+2020-01-19,196,Dom,Mallorca,Valencia,4,1,1.9,0.4
+2020-01-19,197,Dom,Betis,Real Sociedad,3,0,1.8,0.3
+2020-01-19,198,Dom,Villarreal,Espanyol,1,2,2.4,1.7
+2020-01-19,199,Dom,Athletic Club,Celta Vigo,1,1,3.7,0.7
+2020-01-19,200,Dom,Barcelona,Granada,1,0,1.2,0.2
+2020-01-24,201,Vie,Osasuna,Levante,2,0,1.9,0.6
+2020-01-25,202,Sáb,Espanyol,Athletic Club,1,1,0.6,0.8
+2020-01-25,203,Sáb,Valencia,Barcelona,2,0,1.2,1.1
+2020-01-25,204,Sáb,Alavés,Villarreal,1,2,0.9,1.0
+2020-01-25,205,Sáb,Sevilla,Granada,2,0,0.8,0.6
+2020-01-26,206,Dom,Atlético Madrid,Leganés,0,0,1.0,0.4
+2020-01-26,207,Dom,Celta Vigo,Eibar,0,0,1.1,0.2
+2020-01-26,208,Dom,Getafe,Betis,1,0,1.4,1.3
+2020-01-26,209,Dom,Real Sociedad,Mallorca,3,0,2.5,0.5
+2020-01-26,210,Dom,Valladolid,Real Madrid,0,1,0.3,0.6
+2020-02-01,211,Sáb,Granada,Espanyol,2,1,1.0,3.0
+2020-02-01,212,Sáb,Real Madrid,Atlético Madrid,1,0,1.1,0.4
+2020-02-01,213,Sáb,Mallorca,Valladolid,0,1,0.6,1.2
+2020-02-01,214,Sáb,Valencia,Celta Vigo,1,0,1.0,1.3
+2020-02-02,215,Dom,Leganés,Real Sociedad,2,1,1.2,0.2
+2020-02-02,216,Dom,Eibar,Betis,1,1,2.2,1.2
+2020-02-02,217,Dom,Athletic Club,Getafe,0,2,0.9,1.7
+2020-02-02,218,Dom,Villarreal,Osasuna,3,1,2.1,0.9
+2020-02-02,219,Dom,Sevilla,Alavés,1,1,1.7,0.7
+2020-02-02,220,Dom,Barcelona,Levante,2,1,3.4,1.4
+2020-02-07,221,Vie,Alavés,Eibar,2,1,1.3,0.1
+2020-02-08,222,Sáb,Levante,Leganés,2,0,1.0,1.2
+2020-02-08,223,Sáb,Getafe,Valencia,3,0,2.9,0.3
+2020-02-08,224,Sáb,Valladolid,Villarreal,1,1,0.6,1.3
+2020-02-08,225,Sáb,Atlético Madrid,Granada,1,0,0.6,0.9
+2020-02-09,226,Dom,Espanyol,Mallorca,1,0,1.6,0.6
+2020-02-09,227,Dom,Real Sociedad,Athletic Club,2,1,2.2,0.8
+2020-02-09,228,Dom,Osasuna,Real Madrid,1,4,0.9,2.6
+2020-02-09,229,Dom,Celta Vigo,Sevilla,2,1,1.6,1.2
+2020-02-09,230,Dom,Betis,Barcelona,2,3,1.0,1.7
+2020-02-14,231,Vie,Valencia,Atlético Madrid,2,2,1.3,1.2
+2020-02-15,232,Sáb,Mallorca,Alavés,1,0,2.1,0.9
+2020-02-15,233,Sáb,Barcelona,Getafe,2,1,1.8,1.3
+2020-02-15,234,Sáb,Villarreal,Levante,2,1,0.7,1.5
+2020-02-15,235,Sáb,Granada,Valladolid,2,1,2.5,0.7
+2020-02-16,236,Dom,Sevilla,Espanyol,2,2,1.8,0.5
+2020-02-16,237,Dom,Leganés,Betis,0,0,0.6,0.6
+2020-02-16,238,Dom,Athletic Club,Osasuna,0,1,0.8,0.6
+2020-02-16,239,Dom,Real Madrid,Celta Vigo,2,2,2.0,1.0
+2020-02-21,240,Vie,Betis,Mallorca,3,3,3.3,0.9
+2020-02-22,241,Sáb,Celta Vigo,Leganés,1,0,0.2,0.4
+2020-02-22,242,Sáb,Barcelona,Eibar,5,0,4.3,0.5
+2020-02-22,243,Sáb,Real Sociedad,Valencia,3,0,1.8,0.3
+2020-02-22,244,Sáb,Levante,Real Madrid,1,0,0.7,1.9
+2020-02-23,245,Dom,Osasuna,Granada,0,3,0.9,1.3
+2020-02-23,246,Dom,Alavés,Athletic Club,2,1,1.8,0.8
+2020-02-23,247,Dom,Valladolid,Espanyol,2,1,1.1,1.2
+2020-02-23,248,Dom,Getafe,Sevilla,0,3,0.5,2.5
+2020-02-23,249,Dom,Atlético Madrid,Villarreal,3,1,1.7,0.4
+2020-02-28,250,Vie,Real Sociedad,Valladolid,1,0,2.0,0.8
+2020-02-29,251,Sáb,Eibar,Levante,3,0,2.7,0.7
+2020-02-29,252,Sáb,Valencia,Betis,2,1,1.0,1.0
+2020-02-29,253,Sáb,Leganés,Alavés,1,1,1.1,0.9
+2020-02-29,254,Sáb,Granada,Celta Vigo,0,0,1.0,0.3
+2020-03-01,255,Dom,Sevilla,Osasuna,3,2,2.4,1.7
+2020-03-01,256,Dom,Athletic Club,Villarreal,1,0,2.6,1.0
+2020-03-01,257,Dom,Espanyol,Atlético Madrid,1,1,1.2,0.9
+2020-03-01,258,Dom,Mallorca,Getafe,0,1,0.1,0.9
+2020-03-01,259,Dom,Real Madrid,Barcelona,2,0,1.1,1.5
+2020-03-06,260,Vie,Alavés,Valencia,1,1,1.0,0.7
+2020-03-07,261,Sáb,Eibar,Mallorca,1,2,0.9,0.8
+2020-03-07,262,Sáb,Atlético Madrid,Sevilla,2,2,2.0,1.7
+2020-03-07,263,Sáb,Barcelona,Real Sociedad,1,0,2.2,0.5
+2020-03-07,264,Sáb,Getafe,Celta Vigo,0,0,1.1,0.2
+2020-03-08,265,Dom,Osasuna,Espanyol,1,0,2.4,0.3
+2020-03-08,266,Dom,Valladolid,Athletic Club,1,4,2.1,1.1
+2020-03-08,267,Dom,Levante,Granada,1,1,0.9,1.2
+2020-03-08,268,Dom,Villarreal,Leganés,1,2,2.1,1.9
+2020-03-08,269,Dom,Betis,Real Madrid,2,1,1.3,2.1
+2020-03-10,270,Mar,Eibar,Real Sociedad,1,2,2.0,1.2
+2020-06-11,271,Jue,Sevilla,Betis,2,0,1.7,0.5
+2020-06-12,272,Vie,Granada,Getafe,2,1,2.3,0.6
+2020-06-12,273,Vie,Valencia,Levante,1,1,1.0,1.4
+2020-06-13,274,Sáb,Espanyol,Alavés,2,0,2.5,0.1
+2020-06-13,275,Sáb,Celta Vigo,Villarreal,0,1,0.2,1.7
+2020-06-13,276,Sáb,Leganés,Valladolid,1,2,1.4,1.0
+2020-06-13,277,Sáb,Mallorca,Barcelona,0,4,1.1,2.2
+2020-06-14,278,Dom,Athletic Club,Atlético Madrid,1,1,0.4,1.3
+2020-06-14,279,Dom,Real Madrid,Eibar,3,1,1.0,0.5
+2020-06-14,280,Dom,Real Sociedad,Osasuna,1,1,1.0,1.1
+2020-06-15,281,Lun,Levante,Sevilla,1,1,0.9,0.9
+2020-06-15,282,Lun,Betis,Granada,2,2,1.7,1.0
+2020-06-16,283,Mar,Getafe,Espanyol,0,0,2.1,0.3
+2020-06-16,284,Mar,Villarreal,Mallorca,1,0,1.5,1.6
+2020-06-16,285,Mar,Barcelona,Leganés,2,0,1.6,0.8
+2020-06-17,286,Mié,Eibar,Athletic Club,2,2,2.1,1.4
+2020-06-17,287,Mié,Valladolid,Celta Vigo,0,0,0.4,1.1
+2020-06-17,288,Mié,Osasuna,Atlético Madrid,0,5,1.0,1.7
+2020-06-18,289,Jue,Alavés,Real Sociedad,2,0,1.5,0.5
+2020-06-18,290,Jue,Real Madrid,Valencia,3,0,1.9,0.2
+2020-06-19,291,Vie,Granada,Villarreal,0,1,1.0,0.5
+2020-06-19,292,Vie,Mallorca,Leganés,1,1,0.4,1.3
+2020-06-19,293,Vie,Sevilla,Barcelona,0,0,0.8,0.8
+2020-06-20,294,Sáb,Espanyol,Levante,1,3,0.6,1.9
+2020-06-20,295,Sáb,Athletic Club,Betis,1,0,1.7,1.8
+2020-06-20,296,Sáb,Getafe,Eibar,1,1,0.8,0.6
+2020-06-20,297,Sáb,Atlético Madrid,Valladolid,1,0,1.1,0.3
+2020-06-21,298,Dom,Celta Vigo,Alavés,6,0,2.9,0.2
+2020-06-21,299,Dom,Valencia,Osasuna,2,0,1.5,1.5
+2020-06-21,300,Dom,Real Sociedad,Real Madrid,1,2,0.4,1.3
+2020-06-22,301,Lun,Villarreal,Sevilla,2,2,0.9,0.9
+2020-06-22,302,Lun,Leganés,Granada,0,0,1.2,0.1
+2020-06-23,303,Mar,Levante,Atlético Madrid,0,1,0.9,0.9
+2020-06-23,304,Mar,Valladolid,Getafe,1,1,1.5,0.7
+2020-06-23,305,Mar,Barcelona,Athletic Club,1,0,1.8,0.4
+2020-06-24,306,Mié,Alavés,Osasuna,0,1,0.9,1.1
+2020-06-24,307,Mié,Real Sociedad,Celta Vigo,0,1,0.8,0.9
+2020-06-24,308,Mié,Real Madrid,Mallorca,2,0,1.3,0.6
+2020-06-25,309,Jue,Eibar,Valencia,1,0,0.6,0.4
+2020-06-25,310,Jue,Betis,Espanyol,1,0,0.9,1.1
+2020-06-26,311,Vie,Sevilla,Valladolid,1,1,1.7,0.6
+2020-06-27,312,Sáb,Athletic Club,Mallorca,3,1,2.6,1.3
+2020-06-27,313,Sáb,Celta Vigo,Barcelona,2,2,1.9,1.5
+2020-06-27,314,Sáb,Osasuna,Leganés,2,1,1.0,1.6
+2020-06-27,315,Sáb,Atlético Madrid,Alavés,2,1,1.8,1.0
+2020-06-28,316,Dom,Levante,Betis,4,2,1.5,2.1
+2020-06-28,317,Dom,Villarreal,Valencia,2,0,2.1,0.2
+2020-06-28,318,Dom,Granada,Eibar,1,2,1.5,1.7
+2020-06-28,319,Dom,Espanyol,Real Madrid,0,1,0.8,2.1
+2020-06-29,320,Lun,Getafe,Real Sociedad,2,1,1.4,0.8
+2020-06-30,321,Mar,Mallorca,Celta Vigo,5,1,1.5,1.4
+2020-06-30,322,Mar,Leganés,Sevilla,0,3,0.8,0.6
+2020-06-30,323,Mar,Barcelona,Atlético Madrid,2,2,1.9,1.9
+2020-07-01,324,Mié,Alavés,Granada,0,2,1.1,1.3
+2020-07-01,325,Mié,Valencia,Athletic Club,0,2,1.0,0.7
+2020-07-01,326,Mié,Valladolid,Levante,0,0,1.6,0.4
+2020-07-01,327,Mié,Betis,Villarreal,0,2,0.5,2.4
+2020-07-02,328,Jue,Real Sociedad,Espanyol,2,1,1.5,0.2
+2020-07-02,329,Jue,Eibar,Osasuna,0,2,0.9,0.9
+2020-07-02,330,Jue,Real Madrid,Getafe,1,0,1.8,0.5
+2020-07-03,331,Vie,Atlético Madrid,Mallorca,3,0,2.7,0.8
+2020-07-04,332,Sáb,Celta Vigo,Betis,1,1,0.2,0.6
+2020-07-04,333,Sáb,Valladolid,Alavés,1,0,0.5,0.4
+2020-07-04,334,Sáb,Granada,Valencia,2,2,2.3,0.7
+2020-07-05,335,Dom,Athletic Club,Real Madrid,0,1,0.3,2.5
+2020-07-05,336,Dom,Espanyol,Leganés,0,1,0.8,0.4
+2020-07-05,337,Dom,Osasuna,Getafe,0,0,0.6,0.3
+2020-07-05,338,Dom,Villarreal,Barcelona,1,4,0.9,2.4
+2020-07-06,339,Lun,Levante,Real Sociedad,1,1,1.1,0.8
+2020-07-06,340,Lun,Sevilla,Eibar,1,0,1.3,1.5
+2020-07-07,341,Mar,Valencia,Valladolid,2,1,1.1,0.5
+2020-07-07,342,Mar,Celta Vigo,Atlético Madrid,1,1,0.4,1.2
+2020-07-08,343,Mié,Betis,Osasuna,3,0,1.8,0.4
+2020-07-08,344,Mié,Getafe,Villarreal,1,3,0.3,2.1
+2020-07-08,345,Mié,Barcelona,Espanyol,1,0,1.0,0.9
+2020-07-09,346,Jue,Mallorca,Levante,2,0,1.3,1.1
+2020-07-09,347,Jue,Eibar,Leganés,0,0,0.2,0.4
+2020-07-09,348,Jue,Athletic Club,Sevilla,1,2,0.9,1.7
+2020-07-10,349,Vie,Real Sociedad,Granada,2,3,1.5,0.6
+2020-07-10,350,Vie,Real Madrid,Alavés,2,0,2.2,1.2
+2020-07-11,351,Sáb,Osasuna,Celta Vigo,2,1,1.4,0.9
+2020-07-11,352,Sáb,Valladolid,Barcelona,0,1,1.2,0.9
+2020-07-11,353,Sáb,Atlético Madrid,Betis,1,0,0.7,1.1
+2020-07-12,354,Dom,Espanyol,Eibar,0,2,0.7,2.0
+2020-07-12,355,Dom,Levante,Athletic Club,1,2,1.1,0.9
+2020-07-12,356,Dom,Leganés,Valencia,1,0,1.2,1.5
+2020-07-12,357,Dom,Sevilla,Mallorca,2,0,1.7,0.4
+2020-07-13,358,Lun,Alavés,Getafe,0,0,0.2,0.7
+2020-07-13,359,Lun,Villarreal,Real Sociedad,1,2,0.4,1.3
+2020-07-13,360,Lun,Granada,Real Madrid,1,2,0.9,0.4
+2020-07-16,361,Jue,Eibar,Valladolid,3,1,2.7,2.0
+2020-07-16,362,Jue,Celta Vigo,Levante,2,3,1.6,1.5
+2020-07-16,363,Jue,Valencia,Espanyol,1,0,1.4,1.3
+2020-07-16,364,Jue,Real Sociedad,Sevilla,0,0,0.8,0.7
+2020-07-16,365,Jue,Mallorca,Granada,1,2,1.3,0.9
+2020-07-16,366,Jue,Getafe,Atlético Madrid,0,2,1.8,1.2
+2020-07-16,367,Jue,Athletic Club,Leganés,0,2,0.7,2.0
+2020-07-16,368,Jue,Barcelona,Osasuna,1,2,1.1,0.8
+2020-07-16,369,Jue,Real Madrid,Villarreal,2,1,1.6,1.1
+2020-07-16,370,Jue,Betis,Alavés,1,2,2.1,1.8
+2020-07-19,371,Dom,Alavés,Barcelona,0,5,0.3,3.3
+2020-07-19,372,Dom,Valladolid,Betis,2,0,1.1,0.5
+2020-07-19,373,Dom,Villarreal,Eibar,4,0,3.2,0.5
+2020-07-19,374,Dom,Sevilla,Valencia,1,0,0.8,0.3
+2020-07-19,375,Dom,Atlético Madrid,Real Sociedad,1,1,1.6,0.4
+2020-07-19,376,Dom,Levante,Getafe,1,0,2.4,1.4
+2020-07-19,377,Dom,Granada,Athletic Club,4,0,1.6,0.7
+2020-07-19,378,Dom,Leganés,Real Madrid,2,2,1.4,0.8
+2020-07-19,379,Dom,Osasuna,Mallorca,2,2,0.9,0.8
+2020-07-19,380,Dom,Espanyol,Celta Vigo,0,0,0.4,0.6

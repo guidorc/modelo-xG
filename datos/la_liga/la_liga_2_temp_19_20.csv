@@ -1,0 +1,469 @@
+﻿Fecha,match_id,Día,Local,Visitante,goles_local,goles_visitante,xG_local,xG_visitante
+2019-08-17,1,Sáb,Racing Sant,Málaga,0,1,0.9,0.8
+2019-08-17,2,Sáb,Lugo,Extremadura,0,0,0.9,0.5
+2019-08-17,3,Sáb,Almería,Albacete,3,0,1.7,0.1
+2019-08-17,4,Sáb,Elche,Fuenlabrada,0,2,0.3,1.9
+2019-08-17,5,Sáb,Zaragoza,Tenerife,2,0,2.0,1.0
+2019-08-17,6,Sáb,Rayo Vallecano,CD Mirandés,2,2,2.4,0.8
+2019-08-18,7,Dom,Numancia,Alcorcón,0,1,1.1,1.1
+2019-08-18,8,Dom,La Coruña,Oviedo,3,2,1.1,1.1
+2019-08-18,9,Dom,Girona,Sporting Gijón,1,1,1.3,1.0
+2019-08-18,10,Dom,Las Palmas,Huesca,0,1,0.4,1.1
+2019-08-18,11,Dom,Cádiz,Ponferradina,3,1,0.6,0.2
+2019-08-23,12,Vie,Albacete,Girona,1,0,0.3,0.6
+2019-08-24,13,Sáb,Racing Sant,Almería,1,1,0.5,1.9
+2019-08-24,14,Sáb,Oviedo,Lugo,1,1,2.3,2.1
+2019-08-24,15,Sáb,CD Mirandés,Cádiz,1,2,0.4,1.9
+2019-08-24,16,Sáb,Alcorcón,Elche,1,2,1.0,0.4
+2019-08-24,17,Sáb,Málaga,Las Palmas,1,1,1.7,0.5
+2019-08-25,18,Dom,Ponferradina,Zaragoza,1,1,1.6,0.6
+2019-08-25,19,Dom,Sporting Gijón,Rayo Vallecano,1,1,0.2,1.6
+2019-08-25,20,Dom,Huesca,La Coruña,3,1,2.5,0.4
+2019-08-25,21,Dom,Tenerife,Numancia,3,2,1.9,1.4
+2019-08-25,22,Dom,Extremadura,Fuenlabrada,1,2,0.5,2.0
+2019-08-30,23,Vie,Zaragoza,Elche,1,0,2.2,0.1
+2019-08-31,24,Sáb,Numancia,CD Mirandés,2,0,1.6,0.6
+2019-08-31,25,Sáb,Fuenlabrada,Oviedo,2,1,1.6,1.7
+2019-08-31,26,Sáb,Las Palmas,Racing Sant,2,2,2.0,1.4
+2019-08-31,27,Sáb,Almería,Huesca,1,0,2.0,0.6
+2019-09-01,28,Dom,Lugo,Alcorcón,2,4,2.4,3.4
+2019-09-01,29,Dom,Sporting Gijón,Albacete,2,0,1.8,0.3
+2019-09-01,30,Dom,Rayo Vallecano,La Coruña,3,1,0.8,0.8
+2019-09-01,31,Dom,Girona,Málaga,1,0,1.0,0.4
+2019-09-01,32,Dom,Ponferradina,Tenerife,4,0,2.5,0.5
+2019-09-01,33,Dom,Cádiz,Extremadura,2,1,2.2,0.6
+2019-09-06,34,Vie,Racing Sant,Cádiz,1,2,1.4,1.3
+2019-09-07,35,Sáb,La Coruña,Albacete,0,1,1.4,1.5
+2019-09-07,36,Sáb,Málaga,Almería,0,1,1.0,1.0
+2019-09-07,37,Sáb,Fuenlabrada,Ponferradina,1,1,2.3,0.1
+2019-09-07,38,Sáb,Tenerife,Las Palmas,0,0,0.4,0.9
+2019-09-07,39,Sáb,Extremadura,Numancia,0,0,1.4,0.2
+2019-09-08,40,Dom,Huesca,Sporting Gijón,1,0,0.2,0.9
+2019-09-08,41,Dom,Girona,Rayo Vallecano,3,1,2.7,1.2
+2019-09-08,42,Dom,Elche,Lugo,1,1,1.9,0.2
+2019-09-08,43,Dom,CD Mirandés,Oviedo,2,1,1.4,0.6
+2019-09-08,44,Dom,Alcorcón,Zaragoza,0,3,0.4,2.1
+2019-09-13,45,Vie,Rayo Vallecano,Racing Sant,2,0,1.6,0.9
+2019-09-14,46,Sáb,Numancia,Huesca,1,0,0.9,1.0
+2019-09-14,47,Sáb,CD Mirandés,Málaga,1,1,1.0,0.8
+2019-09-14,48,Sáb,Las Palmas,Almería,0,3,0.4,1.4
+2019-09-14,49,Sáb,Ponferradina,Alcorcón,1,1,2.4,0.8
+2019-09-14,50,Sáb,Cádiz,Girona,2,0,1.2,0.7
+2019-09-15,51,Dom,Albacete,Tenerife,0,4,0.3,2.5
+2019-09-15,52,Dom,Oviedo,Elche,0,2,0.6,1.0
+2019-09-15,53,Dom,Zaragoza,Extremadura,3,1,1.8,1.3
+2019-09-15,54,Dom,Lugo,Fuenlabrada,2,0,1.7,0.8
+2019-09-15,55,Dom,Sporting Gijón,La Coruña,1,1,0.3,1.7
+2019-09-17,56,Mar,Racing Sant,CD Mirandés,4,0,2.9,0.3
+2019-09-17,57,Mar,Málaga,Rayo Vallecano,1,1,1.2,1.1
+2019-09-17,58,Mar,Almería,Girona,3,1,2.0,0.6
+2019-09-17,59,Mar,Alcorcón,Cádiz,3,0,2.8,0.1
+2019-09-18,60,Mié,Lugo,Ponferradina,2,2,1.5,0.5
+2019-09-18,61,Mié,Huesca,Albacete,0,1,2.4,1.8
+2019-09-18,62,Mié,La Coruña,Numancia,3,3,3.0,2.0
+2019-09-19,63,Jue,Elche,Tenerife,1,1,0.8,1.3
+2019-09-19,64,Jue,Oviedo,Extremadura,1,1,1.4,0.6
+2019-09-19,65,Jue,Las Palmas,Sporting Gijón,1,0,0.6,0.7
+2019-09-20,66,Vie,CD Mirandés,Alcorcón,2,2,2.5,1.5
+2019-09-21,67,Sáb,Cádiz,La Coruña,0,0,1.3,0.7
+2019-09-21,68,Sáb,Zaragoza,Lugo,0,0,1.8,0.3
+2019-09-21,69,Sáb,Rayo Vallecano,Almería,1,1,1.8,0.7
+2019-09-21,70,Sáb,Albacete,Málaga,1,0,1.1,1.1
+2019-09-22,71,Dom,Ponferradina,Oviedo,2,1,0.9,1.3
+2019-09-22,72,Dom,Girona,Las Palmas,1,0,2.5,0.6
+2019-09-22,73,Dom,Numancia,Elche,1,1,0.8,0.9
+2019-09-22,74,Dom,Sporting Gijón,Racing Sant,1,1,1.4,0.8
+2019-09-22,75,Dom,Tenerife,Fuenlabrada,0,1,1.0,1.0
+2019-09-22,76,Dom,Extremadura,Huesca,0,1,0.9,0.9
+2019-09-27,77,Vie,Las Palmas,Albacete,3,2,1.5,1.0
+2019-09-28,78,Sáb,Fuenlabrada,Rayo Vallecano,2,2,1.6,1.1
+2019-09-28,79,Sáb,Huesca,Girona,1,0,1.3,0.4
+2019-09-28,80,Sáb,Alcorcón,Extremadura,0,2,1.2,1.8
+2019-09-28,81,Sáb,Racing Sant,Numancia,0,0,1.2,1.1
+2019-09-28,82,Sáb,Elche,Ponferradina,1,0,0.9,0.8
+2019-09-29,83,Dom,Málaga,Sporting Gijón,0,0,1.6,0.7
+2019-09-29,84,Dom,Almería,Cádiz,1,2,1.1,1.0
+2019-09-29,85,Dom,Oviedo,Zaragoza,2,2,1.6,1.9
+2019-09-29,86,Dom,La Coruña,CD Mirandés,1,1,1.1,0.8
+2019-09-29,87,Dom,Lugo,Tenerife,1,4,2.0,1.7
+2019-10-01,88,Mar,Extremadura,Elche,2,0,1.7,0.2
+2019-10-01,89,Mar,Albacete,Racing Sant,0,0,0.8,0.7
+2019-10-01,90,Mar,Numancia,Fuenlabrada,1,0,0.4,1.1
+2019-10-01,91,Mar,Rayo Vallecano,Alcorcón,1,1,0.9,1.4
+2019-10-02,92,Mié,CD Mirandés,Lugo,1,1,1.1,1.0
+2019-10-02,93,Mié,Cádiz,Huesca,1,0,2.3,0.4
+2019-10-02,94,Mié,Tenerife,Oviedo,0,1,0.7,0.3
+2019-10-02,95,Mié,Ponferradina,Las Palmas,0,2,2.2,0.3
+2019-10-03,96,Jue,Zaragoza,Málaga,2,2,1.8,0.6
+2019-10-03,97,Jue,Sporting Gijón,Almería,4,2,1.6,0.8
+2019-10-03,98,Jue,Girona,La Coruña,3,1,1.4,0.5
+2019-10-04,99,Vie,Alcorcón,Albacete,0,1,0.6,1.3
+2019-10-05,100,Sáb,Lugo,Las Palmas,0,2,0.5,2.3
+2019-10-05,101,Sáb,Elche,Rayo Vallecano,1,1,1.1,1.4
+2019-10-05,102,Sáb,Tenerife,Extremadura,1,2,1.9,2.7
+2019-10-05,103,Sáb,Ponferradina,CD Mirandés,2,0,1.8,0.7
+2019-10-06,104,Dom,Fuenlabrada,Sporting Gijón,2,0,2.1,0.4
+2019-10-06,105,Dom,Zaragoza,Cádiz,0,2,0.9,1.8
+2019-10-06,106,Dom,Oviedo,Numancia,1,1,1.8,1.3
+2019-10-06,107,Dom,La Coruña,Almería,0,0,0.6,0.5
+2019-10-06,108,Dom,Huesca,Málaga,2,0,2.3,1.1
+2019-10-06,109,Dom,Racing Sant,Girona,0,3,0.5,1.5
+2019-10-11,110,Vie,Rayo Vallecano,Tenerife,2,1,1.4,0.6
+2019-10-12,111,Sáb,Girona,Elche,0,2,1.0,0.8
+2019-10-12,112,Sáb,Almería,Lugo,0,0,1.0,0.8
+2019-10-12,113,Sáb,Sporting Gijón,Alcorcón,1,3,2.5,2.0
+2019-10-12,114,Sáb,Extremadura,Ponferradina,1,1,2.0,1.7
+2019-10-12,115,Sáb,Málaga,Cádiz,1,2,1.1,1.2
+2019-10-13,116,Dom,CD Mirandés,Fuenlabrada,2,1,0.9,0.8
+2019-10-13,117,Dom,Numancia,Zaragoza,0,1,1.1,1.7
+2019-10-13,118,Dom,Albacete,Oviedo,1,2,1.0,1.0
+2019-10-13,119,Dom,Huesca,Racing Sant,1,1,1.1,1.1
+2019-10-13,120,Dom,Las Palmas,La Coruña,3,0,3.1,0.3
+2019-10-16,121,Mié,Fuenlabrada,Zaragoza,2,1,1.3,1.6
+2019-10-18,122,Vie,Cádiz,Las Palmas,2,0,1.2,0.8
+2019-10-19,123,Sáb,Alcorcón,Almería,2,2,1.7,1.3
+2019-10-19,124,Sáb,Ponferradina,Numancia,1,1,1.0,1.3
+2019-10-19,125,Sáb,Elche,Sporting Gijón,0,1,0.6,0.9
+2019-10-19,126,Sáb,Lugo,Huesca,3,2,1.9,2.5
+2019-10-19,127,Sáb,Extremadura,Rayo Vallecano,0,3,0.5,2.0
+2019-10-20,128,Dom,Fuenlabrada,Albacete,0,1,0.5,0.2
+2019-10-20,129,Dom,La Coruña,Málaga,0,2,0.7,2.2
+2019-10-20,130,Dom,Tenerife,Racing Sant,3,3,1.7,1.1
+2019-10-20,131,Dom,Oviedo,Girona,4,2,1.2,1.3
+2019-10-20,132,Dom,Zaragoza,CD Mirandés,1,2,1.1,2.2
+2019-10-25,133,Vie,Albacete,Cádiz,1,0,1.1,0.3
+2019-10-26,134,Sáb,Rayo Vallecano,Ponferradina,1,3,2.7,1.5
+2019-10-26,135,Sáb,Racing Sant,La Coruña,1,1,0.5,1.5
+2019-10-26,136,Sáb,CD Mirandés,Tenerife,0,0,0.5,0.8
+2019-10-26,137,Sáb,Numancia,Lugo,3,1,2.4,0.9
+2019-10-26,138,Sáb,Málaga,Oviedo,2,1,2.0,1.3
+2019-10-27,139,Dom,Girona,Alcorcón,0,0,1.6,0.3
+2019-10-27,140,Dom,Sporting Gijón,Zaragoza,4,0,2.4,1.0
+2019-10-27,141,Dom,Las Palmas,Fuenlabrada,1,3,1.5,1.8
+2019-10-27,142,Dom,Huesca,Elche,2,0,2.4,0.3
+2019-10-27,143,Dom,Almería,Extremadura,3,2,1.3,1.2
+2019-11-01,144,Vie,Numancia,Albacete,1,0,1.4,1.0
+2019-11-01,145,Vie,Cádiz,Sporting Gijón,3,1,1.4,1.6
+2019-11-01,146,Vie,Ponferradina,Málaga,1,0,2.4,0.9
+2019-11-01,147,Vie,Oviedo,Almería,0,0,0.7,0.2
+2019-11-02,148,Sáb,Fuenlabrada,La Coruña,1,1,0.5,0.6
+2019-11-02,149,Sáb,Alcorcón,Racing Sant,1,0,1.4,1.5
+2019-11-02,150,Sáb,Tenerife,Huesca,0,0,0.5,0.7
+2019-11-03,151,Dom,Extremadura,Girona,1,3,0.8,1.8
+2019-11-03,152,Dom,Lugo,Rayo Vallecano,1,0,0.7,2.4
+2019-11-03,153,Dom,Zaragoza,Las Palmas,3,0,2.5,1.0
+2019-11-03,154,Dom,Elche,CD Mirandés,4,2,3.4,1.7
+2019-11-08,155,Vie,Girona,Tenerife,1,0,2.7,1.0
+2019-11-09,156,Sáb,Huesca,Oviedo,3,1,2.9,0.7
+2019-11-09,157,Sáb,CD Mirandés,Extremadura,2,0,2.3,0.5
+2019-11-09,158,Sáb,Albacete,Lugo,0,1,0.6,0.2
+2019-11-09,159,Sáb,Sporting Gijón,Numancia,0,1,1.1,2.0
+2019-11-09,160,Sáb,Las Palmas,Alcorcón,1,1,1.1,1.1
+2019-11-10,161,Dom,La Coruña,Elche,1,3,1.2,1.7
+2019-11-10,162,Dom,Almería,Zaragoza,1,1,1.4,0.9
+2019-11-10,163,Dom,Málaga,Fuenlabrada,0,0,1.9,0.3
+2019-11-10,164,Dom,Racing Sant,Ponferradina,2,2,1.2,2.1
+2019-11-10,165,Dom,Rayo Vallecano,Cádiz,1,1,0.7,1.5
+2019-11-16,166,Sáb,Fuenlabrada,Huesca,3,2,1.2,1.5
+2019-11-16,167,Sáb,Extremadura,La Coruña,2,0,1.7,0.5
+2019-11-16,168,Sáb,Numancia,Rayo Vallecano,2,2,1.0,2.0
+2019-11-16,169,Sáb,Elche,Almería,1,1,0.3,1.0
+2019-11-16,170,Sáb,Zaragoza,Albacete,0,1,2.9,0.4
+2019-11-17,171,Dom,Ponferradina,Girona,1,1,2.3,0.5
+2019-11-17,172,Dom,Alcorcón,Málaga,1,0,1.2,0.9
+2019-11-17,173,Dom,Oviedo,Sporting Gijón,0,0,0.6,0.3
+2019-11-17,174,Dom,Lugo,Racing Sant,1,1,0.3,1.8
+2019-11-17,175,Dom,CD Mirandés,Las Palmas,2,1,2.8,0.3
+2019-11-17,176,Dom,Tenerife,Cádiz,1,1,1.3,0.5
+2019-11-22,177,Vie,Sporting Gijón,Tenerife,0,2,1.1,1.1
+2019-11-23,178,Sáb,Rayo Vallecano,Zaragoza,0,1,1.8,1.4
+2019-11-23,179,Sáb,La Coruña,Alcorcón,0,0,0.8,0.2
+2019-11-23,180,Sáb,Racing Sant,Extremadura,3,0,0.9,2.0
+2019-11-23,181,Sáb,Huesca,Ponferradina,2,0,0.6,0.5
+2019-11-24,182,Dom,Almería,Numancia,2,0,2.2,0.8
+2019-11-24,183,Dom,Albacete,CD Mirandés,1,2,2.5,0.5
+2019-11-24,184,Dom,Málaga,Elche,3,3,2.4,1.8
+2019-11-24,185,Dom,Las Palmas,Oviedo,3,1,1.1,1.1
+2019-11-24,186,Dom,Girona,Fuenlabrada,2,0,1.7,0.5
+2019-11-24,187,Dom,Cádiz,Lugo,2,1,2.3,0.5
+2019-11-29,188,Vie,Numancia,Málaga,0,0,1.1,0.5
+2019-11-30,189,Sáb,CD Mirandés,Sporting Gijón,0,0,1.5,0.8
+2019-11-30,190,Sáb,Alcorcón,Huesca,0,2,0.9,1.0
+2019-11-30,191,Sáb,Tenerife,Almería,1,3,0.7,2.2
+2019-11-30,192,Sáb,Ponferradina,Albacete,1,1,1.9,1.9
+2019-11-30,193,Sáb,Zaragoza,Girona,3,3,2.6,1.9
+2019-12-01,194,Dom,Fuenlabrada,Cádiz,1,0,0.9,0.2
+2019-12-01,195,Dom,Oviedo,Rayo Vallecano,2,1,1.6,0.6
+2019-12-01,196,Dom,Elche,Racing Sant,2,0,1.6,1.2
+2019-12-01,197,Dom,Lugo,La Coruña,0,0,1.3,0.8
+2019-12-01,198,Dom,Extremadura,Las Palmas,0,1,0.9,1.9
+2019-12-06,199,Vie,Albacete,Extremadura,1,1,2.3,0.6
+2019-12-06,200,Vie,Racing Sant,Fuenlabrada,2,2,0.4,2.1
+2019-12-06,201,Vie,Alcorcón,Oviedo,1,3,1.5,1.3
+2019-12-06,202,Vie,Málaga,Tenerife,2,0,1.6,0.6
+2019-12-07,203,Sáb,Huesca,Rayo Vallecano,0,2,0.9,0.7
+2019-12-07,204,Sáb,Sporting Gijón,Ponferradina,1,0,0.7,1.0
+2019-12-07,205,Sáb,Almería,CD Mirandés,3,1,2.0,0.8
+2019-12-08,206,Dom,Girona,Lugo,3,1,2.2,0.6
+2019-12-08,207,Dom,La Coruña,Zaragoza,1,3,1.3,1.4
+2019-12-08,208,Dom,Las Palmas,Numancia,3,1,1.9,0.4
+2019-12-08,209,Dom,Cádiz,Elche,0,0,0.7,0.9
+2019-12-13,210,Vie,Numancia,Girona,2,0,2.7,0.8
+2019-12-14,211,Sáb,CD Mirandés,Huesca,2,0,1.6,1.0
+2019-12-14,212,Sáb,Tenerife,Alcorcón,0,0,0.3,1.0
+2019-12-14,213,Sáb,Ponferradina,La Coruña,2,0,1.2,0.2
+2019-12-14,214,Sáb,Zaragoza,Racing Sant,2,0,1.8,0.2
+2019-12-15,215,Dom,Extremadura,Málaga,0,0,0.8,0.4
+2019-12-15,216,Dom,Oviedo,Cádiz,0,2,0.6,0.7
+2019-12-15,217,Dom,Lugo,Sporting Gijón,1,2,0.8,1.0
+2019-12-15,218,Dom,Elche,Las Palmas,2,3,1.3,1.5
+2019-12-15,219,Dom,Fuenlabrada,Almería,2,2,0.4,0.5
+2019-12-20,220,Vie,La Coruña,Tenerife,2,1,2.1,1.6
+2019-12-21,221,Sáb,Málaga,Lugo,1,1,0.8,0.6
+2019-12-21,222,Sáb,Albacete,Elche,0,1,2.1,1.4
+2019-12-21,223,Sáb,Las Palmas,Rayo Vallecano,1,1,1.8,1.0
+2019-12-21,224,Sáb,Sporting Gijón,Extremadura,0,1,0.6,0.2
+2019-12-21,225,Sáb,Racing Sant,Oviedo,1,1,0.8,0.6
+2019-12-21,226,Sáb,Cádiz,Numancia,2,4,1.5,3.0
+2019-12-22,227,Dom,Almería,Ponferradina,2,3,2.1,2.4
+2019-12-22,228,Dom,Huesca,Zaragoza,2,1,1.7,0.9
+2019-12-22,229,Dom,Alcorcón,Fuenlabrada,1,1,0.4,1.3
+2019-12-22,230,Dom,Girona,CD Mirandés,0,3,1.0,1.4
+2020-01-03,231,Vie,Extremadura,Alcorcón,0,0,0.8,0.8
+2020-01-04,232,Sáb,Fuenlabrada,Las Palmas,0,0,0.4,1.0
+2020-01-04,233,Sáb,Ponferradina,Cádiz,0,0,1.2,0.7
+2020-01-04,234,Sáb,Tenerife,Albacete,4,2,2.0,1.8
+2020-01-04,235,Sáb,Lugo,Almería,0,4,0.7,2.0
+2020-01-04,236,Sáb,CD Mirandés,Racing Sant,0,0,1.9,0.5
+2020-01-04,237,Sáb,Elche,Huesca,1,1,0.9,0.2
+2020-01-05,238,Dom,Numancia,La Coruña,0,1,0.8,1.4
+2020-01-05,239,Dom,Rayo Vallecano,Girona,1,0,1.9,1.1
+2020-01-05,240,Dom,Oviedo,Málaga,1,1,1.3,1.3
+2020-01-07,241,Mar,Zaragoza,Sporting Gijón,2,0,2.1,1.9
+2020-01-14,242,Mar,Albacete,Fuenlabrada,1,1,0.6,0.8
+2020-01-14,243,Mar,Sporting Gijón,Elche,1,0,0.8,0.4
+2020-01-14,244,Mar,Málaga,Ponferradina,1,0,0.7,0.4
+2020-01-14,245,Mar,Las Palmas,Zaragoza,0,1,1.2,1.6
+2020-01-15,246,Mié,Alcorcón,Numancia,2,2,2.6,1.1
+2020-01-15,247,Mié,Huesca,Tenerife,2,1,1.4,1.4
+2020-01-15,248,Mié,Rayo Vallecano,Lugo,1,0,1.1,0.2
+2020-01-15,249,Mié,Cádiz,CD Mirandés,3,3,2.0,1.5
+2020-01-16,250,Jue,La Coruña,Racing Sant,2,1,1.3,0.9
+2020-01-16,251,Jue,Girona,Extremadura,3,1,1.8,1.0
+2020-01-16,252,Jue,Almería,Oviedo,2,0,1.5,0.3
+2020-01-17,253,Vie,Fuenlabrada,Málaga,0,0,1.3,0.3
+2020-01-18,254,Sáb,Numancia,Sporting Gijón,2,0,0.4,1.0
+2020-01-18,255,Sáb,Lugo,Albacete,1,0,1.7,1.2
+2020-01-18,256,Sáb,Ponferradina,Rayo Vallecano,1,1,1.2,1.5
+2020-01-19,257,Dom,Elche,Alcorcón,1,1,1.9,1.0
+2020-01-19,258,Dom,La Coruña,Cádiz,1,0,0.8,0.7
+2020-01-19,259,Dom,Oviedo,Huesca,1,1,0.6,0.8
+2020-01-19,260,Dom,Racing Sant,Las Palmas,1,1,0.9,0.4
+2020-01-19,261,Dom,Tenerife,Girona,1,0,0.5,0.8
+2020-01-19,262,Dom,Extremadura,Almería,1,2,1.7,2.2
+2020-01-24,263,Vie,Cádiz,Racing Sant,1,0,1.5,0.1
+2020-01-25,264,Sáb,Huesca,Lugo,2,1,2.2,0.3
+2020-01-25,265,Sáb,Sporting Gijón,Fuenlabrada,1,0,2.0,1.2
+2020-01-25,266,Sáb,Las Palmas,Tenerife,0,0,0.7,1.0
+2020-01-25,267,Sáb,Zaragoza,Numancia,1,0,0.9,1.1
+2020-01-26,268,Dom,Málaga,CD Mirandés,2,2,2.4,1.8
+2020-01-26,269,Dom,Albacete,La Coruña,0,1,2.0,0.9
+2020-01-26,270,Dom,Almería,Elche,0,2,1.1,2.1
+2020-01-26,271,Dom,Rayo Vallecano,Extremadura,1,1,0.5,0.8
+2020-01-26,272,Dom,Alcorcón,Ponferradina,3,1,0.4,0.8
+2020-01-26,273,Dom,Girona,Oviedo,1,1,1.5,0.2
+2020-01-31,274,Vie,Tenerife,Sporting Gijón,2,1,0.3,1.3
+2020-02-01,275,Sáb,Extremadura,Lugo,1,0,1.0,0.4
+2020-02-01,276,Sáb,Ponferradina,Huesca,3,1,1.8,1.5
+2020-02-01,277,Sáb,La Coruña,Las Palmas,2,1,1.2,0.4
+2020-02-01,278,Sáb,Elche,Málaga,2,0,1.4,0.9
+2020-02-02,279,Dom,Fuenlabrada,Girona,0,1,0.7,0.8
+2020-02-02,280,Dom,Cádiz,Zaragoza,1,1,1.9,0.5
+2020-02-02,281,Dom,CD Mirandés,Rayo Vallecano,0,0,0.7,0.6
+2020-02-02,282,Dom,Numancia,Almería,1,1,1.7,1.3
+2020-02-02,283,Dom,Oviedo,Albacete,3,1,1.9,1.8
+2020-02-02,284,Dom,Racing Sant,Alcorcón,1,1,2.1,0.6
+2020-02-07,285,Vie,Almería,Racing Sant,0,1,0.8,0.6
+2020-02-08,286,Sáb,Extremadura,Tenerife,2,4,2.3,3.2
+2020-02-08,287,Sáb,Girona,Huesca,1,0,0.9,0.2
+2020-02-08,288,Sáb,Las Palmas,Cádiz,1,2,1.5,2.0
+2020-02-08,289,Sáb,Zaragoza,Fuenlabrada,0,0,1.9,0.6
+2020-02-09,290,Dom,Alcorcón,La Coruña,0,1,0.8,0.5
+2020-02-09,291,Dom,Albacete,Ponferradina,1,1,1.1,1.5
+2020-02-09,292,Dom,Sporting Gijón,CD Mirandés,2,2,1.4,1.0
+2020-02-09,293,Dom,Lugo,Elche,2,2,1.2,1.7
+2020-02-09,294,Dom,Rayo Vallecano,Oviedo,1,1,1.3,1.2
+2020-02-09,295,Dom,Málaga,Numancia,2,1,2.9,0.6
+2020-02-14,296,Vie,La Coruña,Girona,2,2,0.5,2.2
+2020-02-15,297,Sáb,Huesca,Almería,3,2,2.2,1.0
+2020-02-15,298,Sáb,Oviedo,Alcorcón,1,2,1.8,1.3
+2020-02-15,299,Sáb,Numancia,Las Palmas,1,1,0.5,0.7
+2020-02-15,300,Sáb,Elche,Zaragoza,1,2,0.5,1.9
+2020-02-16,301,Dom,Fuenlabrada,Lugo,0,1,1.2,0.4
+2020-02-16,302,Dom,CD Mirandés,Albacete,1,1,1.6,1.6
+2020-02-16,303,Dom,Cádiz,Málaga,0,1,0.8,1.0
+2020-02-16,304,Dom,Ponferradina,Extremadura,0,0,1.5,0.6
+2020-02-16,305,Dom,Racing Sant,Sporting Gijón,0,2,0.3,2.6
+2020-02-16,306,Dom,Tenerife,Rayo Vallecano,0,0,0.9,1.1
+2020-02-19,307,Mié,CD Mirandés,Zaragoza,1,1,0.2,1.8
+2020-02-21,308,Vie,Sporting Gijón,Cádiz,1,0,0.6,0.8
+2020-02-22,309,Sáb,Almería,Fuenlabrada,0,0,0.3,0.3
+2020-02-22,310,Sáb,Alcorcón,Las Palmas,1,1,0.5,1.0
+2020-02-22,311,Sáb,Tenerife,Elche,1,0,1.8,0.4
+2020-02-22,312,Sáb,Girona,Ponferradina,2,0,1.6,0.2
+2020-02-22,313,Sáb,Albacete,Numancia,2,1,2.5,0.3
+2020-02-23,314,Dom,Lugo,Oviedo,1,0,0.5,0.9
+2020-02-23,315,Dom,Zaragoza,La Coruña,3,1,1.0,0.8
+2020-02-23,316,Dom,Málaga,Racing Sant,2,0,2.0,0.7
+2020-02-23,317,Dom,Extremadura,CD Mirandés,3,2,1.6,0.9
+2020-02-23,318,Dom,Rayo Vallecano,Huesca,2,0,2.9,1.4
+2020-02-28,319,Vie,Las Palmas,Málaga,1,1,2.4,1.2
+2020-02-29,320,Sáb,Huesca,Extremadura,2,2,1.6,1.9
+2020-02-29,321,Sáb,Ponferradina,Sporting Gijón,1,0,1.1,0.9
+2020-02-29,322,Sáb,Cádiz,Almería,2,1,1.0,1.3
+2020-02-29,323,Sáb,Albacete,Rayo Vallecano,1,1,1.3,1.2
+2020-02-29,324,Sáb,Racing Sant,Zaragoza,2,2,1.9,0.4
+2020-03-01,325,Dom,CD Mirandés,Girona,1,1,1.2,1.3
+2020-03-01,326,Dom,La Coruña,Lugo,0,0,0.5,0.3
+2020-03-01,327,Dom,Elche,Numancia,2,0,1.4,0.3
+2020-03-01,328,Dom,Oviedo,Tenerife,1,0,1.5,0.7
+2020-03-01,329,Dom,Fuenlabrada,Alcorcón,3,4,2.0,2.7
+2020-03-06,330,Vie,Lugo,Cádiz,1,1,2.0,0.6
+2020-03-07,331,Sáb,Girona,Albacete,1,1,0.6,0.6
+2020-03-07,332,Sáb,Extremadura,Oviedo,1,2,0.9,1.6
+2020-03-07,333,Sáb,Huesca,Fuenlabrada,2,0,2.5,0.2
+2020-03-07,334,Sáb,Numancia,Racing Sant,1,2,1.0,0.5
+2020-03-07,335,Sáb,Almería,La Coruña,4,0,2.6,0.8
+2020-03-08,336,Dom,Rayo Vallecano,Elche,2,3,1.8,1.7
+2020-03-08,337,Dom,Málaga,Zaragoza,0,1,1.3,2.3
+2020-03-08,338,Dom,Sporting Gijón,Las Palmas,4,0,1.6,0.6
+2020-03-08,339,Dom,Alcorcón,CD Mirandés,1,2,1.3,1.2
+2020-03-08,340,Dom,Tenerife,Ponferradina,1,0,1.7,0.2
+2020-06-10,341,Mié,Rayo Vallecano,Albacete,1,0,1.6,0.6
+2020-06-12,342,Vie,Elche,Extremadura,1,1,1.0,0.9
+2020-06-12,343,Vie,Málaga,Huesca,1,3,1.2,1.5
+2020-06-12,344,Vie,Fuenlabrada,Tenerife,1,0,0.6,0.6
+2020-06-12,345,Vie,Oviedo,Ponferradina,0,0,0.1,0.4
+2020-06-13,346,Sáb,Racing Sant,Lugo,1,2,0.3,1.3
+2020-06-13,347,Sáb,Las Palmas,Girona,0,0,0.3,0.8
+2020-06-13,348,Sáb,Zaragoza,Alcorcón,1,3,2.0,1.6
+2020-06-14,349,Dom,CD Mirandés,Numancia,2,1,1.4,1.2
+2020-06-14,350,Dom,La Coruña,Sporting Gijón,0,0,1.0,1.8
+2020-06-14,351,Dom,Albacete,Almería,0,1,1.0,1.6
+2020-06-14,352,Dom,Cádiz,Rayo Vallecano,1,1,0.7,1.0
+2020-06-15,353,Lun,Ponferradina,Elche,2,1,1.8,0.2
+2020-06-15,354,Lun,Tenerife,Málaga,0,0,2.2,0.1
+2020-06-16,355,Mar,Lugo,Zaragoza,1,3,2.2,2.0
+2020-06-16,356,Mar,Girona,Racing Sant,0,0,1.3,0.2
+2020-06-17,357,Mié,Almería,Las Palmas,0,1,0.2,1.1
+2020-06-17,358,Mié,Oviedo,La Coruña,2,2,1.3,1.4
+2020-06-17,359,Mié,Extremadura,Albacete,0,1,0.7,0.7
+2020-06-17,360,Mié,Rayo Vallecano,Fuenlabrada,1,0,1.3,0.3
+2020-06-18,361,Jue,Numancia,Cádiz,1,2,2.0,0.9
+2020-06-18,362,Jue,Huesca,CD Mirandés,1,2,0.7,0.5
+2020-06-18,363,Jue,Alcorcón,Sporting Gijón,0,2,1.1,1.4
+2020-06-19,364,Vie,Elche,Girona,1,0,0.7,0.9
+2020-06-20,365,Sáb,La Coruña,Rayo Vallecano,3,3,1.8,3.1
+2020-06-20,366,Sáb,Las Palmas,Lugo,1,0,2.2,0.9
+2020-06-20,367,Sáb,Zaragoza,Almería,0,2,1.0,0.6
+2020-06-20,368,Sáb,Málaga,Extremadura,1,1,1.5,0.7
+2020-06-21,369,Dom,CD Mirandés,Ponferradina,1,2,0.6,1.3
+2020-06-21,370,Dom,Racing Sant,Tenerife,1,2,0.5,1.7
+2020-06-21,371,Dom,Albacete,Huesca,2,2,1.3,1.8
+2020-06-21,372,Dom,Cádiz,Alcorcón,1,1,0.9,0.5
+2020-06-21,373,Dom,Fuenlabrada,Numancia,2,0,0.8,1.8
+2020-06-22,374,Lun,Sporting Gijón,Oviedo,0,1,0.3,0.7
+2020-06-23,375,Mar,Lugo,Málaga,0,0,0.7,0.5
+2020-06-23,376,Mar,Elche,La Coruña,0,1,1.1,0.9
+2020-06-23,377,Mar,Extremadura,Zaragoza,1,2,1.1,1.4
+2020-06-24,378,Mié,Tenerife,CD Mirandés,4,1,2.4,0.9
+2020-06-24,379,Mié,Huesca,Cádiz,1,1,0.9,1.1
+2020-06-24,380,Mié,Girona,Numancia,2,0,1.5,0.3
+2020-06-24,381,Mié,Ponferradina,Racing Sant,1,1,1.6,1.1
+2020-06-24,382,Mié,Albacete,Las Palmas,0,0,0.8,0.2
+2020-06-25,383,Jue,Almería,Alcorcón,0,1,1.7,0.6
+2020-06-25,384,Jue,Rayo Vallecano,Sporting Gijón,1,1,1.0,0.3
+2020-06-25,385,Jue,Oviedo,Fuenlabrada,0,0,0.8,0.3
+2020-06-27,386,Sáb,La Coruña,Ponferradina,2,1,1.3,1.0
+2020-06-27,387,Sáb,Las Palmas,Elche,1,1,2.1,0.2
+2020-06-27,388,Sáb,Cádiz,Tenerife,0,2,0.9,1.4
+2020-06-27,389,Sáb,Racing Sant,Albacete,1,2,0.8,2.0
+2020-06-28,390,Dom,CD Mirandés,Almería,2,2,2.6,2.2
+2020-06-28,391,Dom,Sporting Gijón,Lugo,2,0,1.5,0.7
+2020-06-28,392,Dom,Numancia,Oviedo,1,0,1.1,0.6
+2020-06-28,393,Dom,Málaga,Girona,2,0,1.4,0.9
+2020-06-28,394,Dom,Fuenlabrada,Extremadura,1,1,0.8,1.4
+2020-06-29,395,Lun,Alcorcón,Rayo Vallecano,3,2,0.6,1.5
+2020-06-29,396,Lun,Zaragoza,Huesca,0,1,0.8,1.2
+2020-06-30,397,Mar,Tenerife,La Coruña,1,1,1.0,1.2
+2020-06-30,398,Mar,Elche,Cádiz,0,0,0.2,0.2
+2020-07-01,399,Mié,Lugo,Numancia,3,1,1.2,0.5
+2020-07-01,400,Mié,Almería,Sporting Gijón,1,0,0.3,0.6
+2020-07-01,401,Mié,Oviedo,CD Mirandés,1,0,1.4,1.3
+2020-07-01,402,Mié,Extremadura,Racing Sant,3,1,2.4,0.7
+2020-07-01,403,Mié,Ponferradina,Fuenlabrada,0,3,0.5,1.9
+2020-07-02,404,Jue,Huesca,Las Palmas,1,0,0.9,1.3
+2020-07-02,405,Jue,Albacete,Alcorcón,1,1,1.1,1.6
+2020-07-02,406,Jue,Rayo Vallecano,Málaga,0,0,1.3,0.5
+2020-07-03,407,Vie,Girona,Zaragoza,1,0,1.7,0.2
+2020-07-04,408,Sáb,Racing Sant,Elche,1,2,0.8,1.7
+2020-07-04,409,Sáb,Numancia,Extremadura,1,0,1.4,0.7
+2020-07-04,410,Sáb,Almería,Tenerife,1,2,1.3,1.8
+2020-07-04,411,Sáb,Cádiz,Oviedo,2,0,2.0,1.1
+2020-07-04,412,Sáb,Fuenlabrada,CD Mirandés,2,2,1.1,2.3
+2020-07-05,413,Dom,La Coruña,Huesca,2,1,1.4,0.5
+2020-07-05,414,Dom,Las Palmas,Ponferradina,3,0,2.3,0.4
+2020-07-05,415,Dom,Málaga,Albacete,0,0,0.3,1.0
+2020-07-05,416,Dom,Alcorcón,Lugo,2,2,1.8,1.2
+2020-07-06,417,Lun,Sporting Gijón,Girona,0,0,0.5,0.5
+2020-07-06,418,Lun,Zaragoza,Rayo Vallecano,2,4,0.9,1.8
+2020-07-07,419,Mar,CD Mirandés,Elche,1,0,1.0,0.3
+2020-07-07,420,Mar,Fuenlabrada,Racing Sant,1,0,1.3,0.5
+2020-07-07,421,Mar,Extremadura,Cádiz,0,1,0.5,1.0
+2020-07-08,422,Mié,Málaga,La Coruña,1,0,1.6,0.1
+2020-07-08,423,Mié,Oviedo,Las Palmas,2,1,1.8,0.4
+2020-07-08,424,Mié,Ponferradina,Lugo,0,1,1.4,1.5
+2020-07-08,425,Mié,Huesca,Alcorcón,2,1,0.7,0.9
+2020-07-09,426,Jue,Albacete,Sporting Gijón,1,1,1.2,1.6
+2020-07-09,427,Jue,Rayo Vallecano,Numancia,3,2,2.6,0.7
+2020-07-09,428,Jue,Tenerife,Zaragoza,1,1,1.9,1.2
+2020-07-09,429,Jue,Girona,Almería,1,0,1.2,0.5
+2020-07-11,430,Sáb,Racing Sant,Huesca,1,0,1.6,1.2
+2020-07-11,431,Sáb,Las Palmas,CD Mirandés,1,0,2.0,0.4
+2020-07-11,432,Sáb,Cádiz,Fuenlabrada,0,1,0.9,1.1
+2020-07-12,433,Dom,La Coruña,Extremadura,2,3,1.9,1.5
+2020-07-12,434,Dom,Numancia,Ponferradina,1,0,1.0,0.5
+2020-07-12,435,Dom,Lugo,Girona,2,2,0.8,1.7
+2020-07-12,436,Dom,Zaragoza,Oviedo,2,4,2.0,2.4
+2020-07-13,437,Lun,Sporting Gijón,Málaga,2,1,1.4,0.7
+2020-07-13,438,Lun,Almería,Rayo Vallecano,3,2,0.8,2.3
+2020-07-13,439,Lun,Elche,Albacete,2,0,1.6,0.7
+2020-07-13,440,Lun,Alcorcón,Tenerife,0,0,1.1,1.2
+2020-07-17,441,Vie,Tenerife,Lugo,1,2,1.0,1.6
+2020-07-17,442,Vie,Oviedo,Racing Sant,1,0,0.3,0.5
+2020-07-17,443,Vie,Extremadura,Sporting Gijón,2,0,1.2,0.7
+2020-07-17,444,Vie,Málaga,Alcorcón,2,0,0.8,0.8
+2020-07-17,445,Vie,Ponferradina,Almería,2,1,1.4,2.5
+2020-07-17,446,Vie,Girona,Cádiz,2,1,1.2,1.0
+2020-07-17,447,Vie,Huesca,Numancia,3,0,4.2,0.2
+2020-07-17,448,Vie,CD Mirandés,La Coruña,1,0,0.9,1.1
+2020-07-17,449,Vie,Fuenlabrada,Elche,3,1,2.2,1.5
+2020-07-17,450,Vie,Albacete,Zaragoza,4,1,2.3,1.9
+2020-07-17,451,Vie,Rayo Vallecano,Las Palmas,2,2,2.1,2.1
+2020-07-20,452,Lun,Las Palmas,Extremadura,5,1,1.1,0.9
+2020-07-20,453,Lun,Almería,Málaga,0,0,1.4,0.7
+2020-07-20,454,Lun,Zaragoza,Ponferradina,2,1,1.5,0.5
+2020-07-20,455,Lun,Alcorcón,Girona,2,0,1.7,0.3
+2020-07-20,456,Lun,Cádiz,Albacete,0,1,0.6,1.8
+2020-07-20,457,Lun,Elche,Oviedo,2,1,1.6,1.6
+2020-07-20,458,Lun,Sporting Gijón,Huesca,0,1,0.2,1.3
+2020-07-20,459,Lun,Numancia,Tenerife,2,1,0.5,0.9
+2020-07-20,460,Lun,Lugo,CD Mirandés,2,1,1.8,0.8
+2020-07-20,461,Lun,Racing Sant,Rayo Vallecano,1,2,0.8,3.4
+2020-08-07,462,Vie,La Coruña,Fuenlabrada,2,1,2.9,0.3
+2020-08-13,463,Jue,Girona,Almería,1,0,1.0,0.1
+2020-08-13,464,Jue,Elche,Zaragoza,0,0,0.3,0.8
+2020-08-16,465,Dom,Almería,Girona,1,2,1.1,2.0
+2020-08-16,466,Dom,Zaragoza,Elche,0,1,1.8,0.2
+2020-08-20,467,Jue,Elche,Girona,0,0,0.3,0.6
+2020-08-23,468,Dom,Girona,Elche,0,1,0.4,0.1

@@ -1,0 +1,381 @@
+﻿Fecha,match_id,Día,Local,Visitante,goles_local,goles_visitante,xG_local,xG_visitante
+2018-08-17,1,Vie,Girona,Valladolid,0,0,0.7,0.0
+2018-08-17,2,Vie,Betis,Levante,0,3,0.9,2.5
+2018-08-18,3,Sáb,Celta Vigo,Espanyol,1,1,0.6,0.6
+2018-08-18,4,Sáb,Villarreal,Real Sociedad,1,2,1.6,0.7
+2018-08-18,5,Sáb,Barcelona,Alavés,3,0,3.2,0.3
+2018-08-19,6,Dom,Eibar,Huesca,1,2,1.3,1.7
+2018-08-19,7,Dom,Rayo Vallecano,Sevilla,1,4,2.1,2.8
+2018-08-19,8,Dom,Real Madrid,Getafe,2,0,1.0,0.2
+2018-08-20,9,Lun,Valencia,Atlético Madrid,1,1,1.1,0.9
+2018-08-20,10,Lun,Athletic Club,Leganés,2,1,2.2,1.0
+2018-08-24,11,Vie,Getafe,Eibar,2,0,1.4,0.6
+2018-08-24,12,Vie,Leganés,Real Sociedad,2,2,1.7,1.6
+2018-08-25,13,Sáb,Alavés,Betis,0,0,0.6,0.9
+2018-08-25,14,Sáb,Atlético Madrid,Rayo Vallecano,1,0,0.9,1.5
+2018-08-25,15,Sáb,Valladolid,Barcelona,0,1,0.4,1.0
+2018-08-26,16,Dom,Espanyol,Valencia,2,0,1.3,1.9
+2018-08-26,17,Dom,Girona,Real Madrid,1,4,0.4,3.9
+2018-08-26,18,Dom,Sevilla,Villarreal,0,0,1.9,1.0
+2018-08-27,19,Lun,Levante,Celta Vigo,1,2,1.9,2.5
+2018-08-27,20,Lun,Athletic Club,Huesca,2,2,0.6,0.3
+2018-08-31,21,Vie,Getafe,Valladolid,0,0,1.2,0.9
+2018-08-31,22,Vie,Villarreal,Girona,0,1,1.1,1.0
+2018-08-31,23,Vie,Eibar,Real Sociedad,2,1,1.0,1.3
+2018-09-01,24,Sáb,Celta Vigo,Atlético Madrid,2,0,0.5,0.4
+2018-09-01,25,Sáb,Real Madrid,Leganés,4,1,2.5,1.1
+2018-09-02,26,Dom,Levante,Valencia,2,2,1.6,4.1
+2018-09-02,27,Dom,Alavés,Espanyol,2,1,1.4,1.2
+2018-09-02,28,Dom,Barcelona,Huesca,8,2,5.3,1.7
+2018-09-02,29,Dom,Betis,Sevilla,1,0,0.9,0.6
+2018-09-14,30,Vie,Huesca,Rayo Vallecano,0,1,1.7,1.2
+2018-09-15,31,Sáb,Atlético Madrid,Eibar,1,1,2.3,1.3
+2018-09-15,32,Sáb,Real Sociedad,Barcelona,1,2,1.4,1.4
+2018-09-15,33,Sáb,Valencia,Betis,0,0,1.0,1.0
+2018-09-15,34,Sáb,Athletic Club,Real Madrid,1,1,1.4,1.8
+2018-09-16,35,Dom,Leganés,Villarreal,0,1,1.4,0.5
+2018-09-16,36,Dom,Espanyol,Levante,1,0,1.6,0.8
+2018-09-16,37,Dom,Valladolid,Alavés,0,1,1.1,0.8
+2018-09-16,38,Dom,Sevilla,Getafe,0,2,1.2,1.9
+2018-09-17,39,Lun,Girona,Celta Vigo,3,2,1.7,1.0
+2018-09-21,40,Vie,Huesca,Real Sociedad,0,1,0.6,0.2
+2018-09-22,41,Sáb,Rayo Vallecano,Alavés,1,5,1.5,1.3
+2018-09-22,42,Sáb,Eibar,Leganés,1,0,1.3,0.3
+2018-09-22,43,Sáb,Celta Vigo,Valladolid,3,3,1.9,2.1
+2018-09-22,44,Sáb,Getafe,Atlético Madrid,0,2,0.6,1.1
+2018-09-22,45,Sáb,Real Madrid,Espanyol,1,0,1.0,0.4
+2018-09-23,46,Dom,Levante,Sevilla,2,6,2.3,3.2
+2018-09-23,47,Dom,Villarreal,Valencia,0,0,0.7,0.4
+2018-09-23,48,Dom,Betis,Athletic Club,2,2,1.1,0.6
+2018-09-23,49,Dom,Barcelona,Girona,2,2,1.4,1.5
+2018-09-25,50,Mar,Espanyol,Eibar,1,0,0.9,0.3
+2018-09-25,51,Mar,Real Sociedad,Rayo Vallecano,2,2,1.6,2.1
+2018-09-25,52,Mar,Atlético Madrid,Huesca,3,0,0.9,0.9
+2018-09-26,53,Mié,Leganés,Barcelona,2,1,1.1,0.4
+2018-09-26,54,Mié,Athletic Club,Villarreal,0,3,0.8,2.5
+2018-09-26,55,Mié,Sevilla,Real Madrid,3,0,2.4,1.5
+2018-09-26,56,Mié,Valencia,Celta Vigo,1,1,1.1,0.4
+2018-09-27,57,Jue,Alavés,Getafe,1,1,1.7,1.1
+2018-09-27,58,Jue,Valladolid,Levante,2,1,1.0,0.8
+2018-09-27,59,Jue,Girona,Betis,0,1,0.8,1.6
+2018-09-28,60,Vie,Rayo Vallecano,Espanyol,2,2,1.3,1.5
+2018-09-29,61,Sáb,Real Sociedad,Valencia,0,1,1.3,0.9
+2018-09-29,62,Sáb,Barcelona,Athletic Club,1,1,3.2,0.9
+2018-09-29,63,Sáb,Eibar,Sevilla,1,3,0.8,2.0
+2018-09-29,64,Sáb,Real Madrid,Atlético Madrid,0,0,1.2,0.8
+2018-09-30,65,Dom,Huesca,Girona,1,1,1.5,1.7
+2018-09-30,66,Dom,Villarreal,Valladolid,0,1,2.8,0.8
+2018-09-30,67,Dom,Levante,Alavés,2,1,1.6,0.9
+2018-09-30,68,Dom,Betis,Leganés,1,0,1.7,0.5
+2018-10-01,69,Lun,Celta Vigo,Getafe,1,1,0.5,1.2
+2018-10-05,70,Vie,Athletic Club,Real Sociedad,1,3,1.4,2.2
+2018-10-06,71,Sáb,Girona,Eibar,2,3,1.2,1.7
+2018-10-06,72,Sáb,Getafe,Levante,0,1,1.1,1.0
+2018-10-06,73,Sáb,Alavés,Real Madrid,1,0,1.1,0.8
+2018-10-06,74,Sáb,Leganés,Rayo Vallecano,1,0,0.9,0.4
+2018-10-07,75,Dom,Valladolid,Huesca,1,0,0.8,0.6
+2018-10-07,76,Dom,Atlético Madrid,Betis,1,0,0.6,0.3
+2018-10-07,77,Dom,Sevilla,Celta Vigo,2,1,1.8,0.7
+2018-10-07,78,Dom,Espanyol,Villarreal,3,1,2.4,1.5
+2018-10-07,79,Dom,Valencia,Barcelona,1,1,1.5,0.4
+2018-10-19,80,Vie,Celta Vigo,Alavés,0,1,0.9,0.9
+2018-10-20,81,Sáb,Real Madrid,Levante,1,2,2.9,2.0
+2018-10-20,82,Sáb,Valencia,Leganés,1,1,1.3,1.0
+2018-10-20,83,Sáb,Villarreal,Atlético Madrid,1,1,1.9,1.4
+2018-10-20,84,Sáb,Barcelona,Sevilla,4,2,2.5,2.2
+2018-10-21,85,Dom,Rayo Vallecano,Getafe,1,2,0.4,0.5
+2018-10-21,86,Dom,Eibar,Athletic Club,1,1,1.9,0.7
+2018-10-21,87,Dom,Huesca,Espanyol,0,2,0.4,1.7
+2018-10-21,88,Dom,Betis,Valladolid,0,1,0.9,0.4
+2018-10-22,89,Lun,Real Sociedad,Girona,0,0,0.6,0.9
+2018-10-24,90,Mié,Rayo Vallecano,Athletic Club,1,1,1.3,1.3
+2018-10-26,91,Vie,Valladolid,Espanyol,1,1,1.1,0.5
+2018-10-27,92,Sáb,Girona,Rayo Vallecano,2,1,2.4,1.6
+2018-10-27,93,Sáb,Athletic Club,Valencia,0,0,0.7,0.5
+2018-10-27,94,Sáb,Levante,Leganés,2,0,1.3,1.4
+2018-10-27,95,Sáb,Celta Vigo,Eibar,4,0,0.8,1.7
+2018-10-27,96,Sáb,Atlético Madrid,Real Sociedad,2,0,1.4,0.3
+2018-10-28,97,Dom,Getafe,Betis,2,0,2.2,0.5
+2018-10-28,98,Dom,Barcelona,Real Madrid,5,1,3.0,2.1
+2018-10-28,99,Dom,Alavés,Villarreal,2,1,1.9,1.3
+2018-10-28,100,Dom,Sevilla,Huesca,2,1,1.7,0.8
+2018-11-03,101,Sáb,Leganés,Atlético Madrid,1,1,1.3,0.4
+2018-11-03,102,Sáb,Real Madrid,Valladolid,2,0,2.2,0.9
+2018-11-03,103,Sáb,Valencia,Girona,0,1,2.3,0.3
+2018-11-03,104,Sáb,Rayo Vallecano,Barcelona,2,3,1.6,1.9
+2018-11-04,105,Dom,Eibar,Alavés,2,1,1.5,0.6
+2018-11-04,106,Dom,Villarreal,Levante,1,1,1.2,0.5
+2018-11-04,107,Dom,Huesca,Getafe,1,1,1.3,0.5
+2018-11-04,108,Dom,Real Sociedad,Sevilla,0,0,0.6,0.4
+2018-11-04,109,Dom,Betis,Celta Vigo,3,3,1.7,2.1
+2018-11-05,110,Lun,Espanyol,Athletic Club,1,0,1.5,0.5
+2018-11-09,111,Vie,Levante,Real Sociedad,1,3,1.3,1.2
+2018-11-10,112,Sáb,Valladolid,Eibar,0,0,0.5,1.1
+2018-11-10,113,Sáb,Getafe,Valencia,0,1,1.5,2.2
+2018-11-10,114,Sáb,Atlético Madrid,Athletic Club,3,2,1.1,1.9
+2018-11-10,115,Sáb,Girona,Leganés,0,0,0.4,1.1
+2018-11-11,116,Dom,Alavés,Huesca,2,1,1.3,0.9
+2018-11-11,117,Dom,Barcelona,Betis,3,4,3.8,2.3
+2018-11-11,118,Dom,Sevilla,Espanyol,2,1,4.1,0.8
+2018-11-11,119,Dom,Rayo Vallecano,Villarreal,2,2,2.3,0.9
+2018-11-11,120,Dom,Celta Vigo,Real Madrid,2,4,0.9,2.5
+2018-11-23,121,Vie,Leganés,Alavés,1,0,0.9,0.4
+2018-11-24,122,Sáb,Eibar,Real Madrid,3,0,2.8,1.1
+2018-11-24,123,Sáb,Valencia,Rayo Vallecano,3,0,1.9,0.8
+2018-11-24,124,Sáb,Huesca,Levante,2,2,2.8,1.0
+2018-11-24,125,Sáb,Atlético Madrid,Barcelona,1,1,0.2,0.6
+2018-11-25,126,Dom,Athletic Club,Getafe,1,1,0.6,2.0
+2018-11-25,127,Dom,Sevilla,Valladolid,1,0,1.3,0.7
+2018-11-25,128,Dom,Espanyol,Girona,1,3,2.4,2.2
+2018-11-25,129,Dom,Villarreal,Betis,2,1,0.9,0.9
+2018-11-26,130,Lun,Real Sociedad,Celta Vigo,2,1,1.9,0.5
+2018-11-30,131,Vie,Rayo Vallecano,Eibar,1,0,1.2,1.0
+2018-12-01,132,Sáb,Celta Vigo,Huesca,2,0,2.3,1.2
+2018-12-01,133,Sáb,Valladolid,Leganés,2,4,1.7,1.7
+2018-12-01,134,Sáb,Getafe,Espanyol,3,0,1.4,1.1
+2018-12-01,135,Sáb,Real Madrid,Valencia,2,0,0.8,0.8
+2018-12-02,136,Dom,Betis,Real Sociedad,1,0,1.3,1.3
+2018-12-02,137,Dom,Girona,Atlético Madrid,1,1,1.5,1.6
+2018-12-02,138,Dom,Barcelona,Villarreal,2,0,1.0,1.1
+2018-12-02,139,Dom,Alavés,Sevilla,1,1,1.0,1.7
+2018-12-03,140,Lun,Levante,Athletic Club,3,0,1.9,1.1
+2018-12-07,141,Vie,Leganés,Getafe,1,1,1.7,0.9
+2018-12-08,142,Sáb,Atlético Madrid,Alavés,3,0,2.7,1.4
+2018-12-08,143,Sáb,Valencia,Sevilla,1,1,1.2,1.7
+2018-12-08,144,Sáb,Villarreal,Celta Vigo,2,3,1.6,2.0
+2018-12-08,145,Sáb,Espanyol,Barcelona,0,4,1.1,2.9
+2018-12-09,146,Dom,Eibar,Levante,4,4,4.2,2.2
+2018-12-09,147,Dom,Huesca,Real Madrid,0,1,1.2,0.4
+2018-12-09,148,Dom,Real Sociedad,Valladolid,1,2,2.4,1.0
+2018-12-09,149,Dom,Betis,Rayo Vallecano,2,0,1.7,1.2
+2018-12-10,150,Lun,Athletic Club,Girona,1,0,2.1,0.2
+2018-12-14,151,Vie,Celta Vigo,Leganés,0,0,1.2,0.7
+2018-12-15,152,Sáb,Getafe,Real Sociedad,1,0,0.4,0.8
+2018-12-15,153,Sáb,Valladolid,Atlético Madrid,2,3,0.8,1.9
+2018-12-15,154,Sáb,Real Madrid,Rayo Vallecano,1,0,1.2,0.7
+2018-12-15,155,Sáb,Eibar,Valencia,1,1,1.6,2.1
+2018-12-16,156,Dom,Sevilla,Girona,2,0,2.1,1.0
+2018-12-16,157,Dom,Espanyol,Betis,1,3,0.6,1.7
+2018-12-16,158,Dom,Huesca,Villarreal,2,2,4.2,1.7
+2018-12-16,159,Dom,Levante,Barcelona,0,5,1.0,3.7
+2018-12-17,160,Lun,Alavés,Athletic Club,0,0,0.5,0.3
+2018-12-21,161,Vie,Girona,Getafe,1,1,1.4,0.6
+2018-12-21,162,Vie,Real Sociedad,Alavés,0,1,1.1,0.8
+2018-12-22,163,Sáb,Betis,Eibar,1,1,1.5,2.3
+2018-12-22,164,Sáb,Atlético Madrid,Espanyol,1,0,1.0,0.8
+2018-12-22,165,Sáb,Barcelona,Celta Vigo,2,0,1.4,0.6
+2018-12-22,166,Sáb,Athletic Club,Valladolid,1,1,1.1,0.6
+2018-12-23,167,Dom,Valencia,Huesca,2,1,3.2,2.3
+2018-12-23,168,Dom,Leganés,Sevilla,1,1,1.3,0.7
+2018-12-23,169,Dom,Rayo Vallecano,Levante,2,1,2.5,1.0
+2019-01-03,170,Jue,Villarreal,Real Madrid,2,2,1.2,1.6
+2019-01-04,171,Vie,Levante,Girona,2,2,1.6,1.4
+2019-01-04,172,Vie,Espanyol,Leganés,1,0,1.3,0.4
+2019-01-05,173,Sáb,Valladolid,Rayo Vallecano,0,1,1.8,1.0
+2019-01-05,174,Sáb,Alavés,Valencia,2,1,1.9,1.1
+2019-01-05,175,Sáb,Huesca,Betis,2,1,1.5,1.1
+2019-01-06,176,Dom,Eibar,Villarreal,0,0,1.8,1.2
+2019-01-06,177,Dom,Sevilla,Atlético Madrid,1,1,1.4,0.7
+2019-01-06,178,Dom,Real Madrid,Real Sociedad,0,2,2.6,2.3
+2019-01-06,179,Dom,Getafe,Barcelona,1,2,1.2,1.5
+2019-01-07,180,Lun,Celta Vigo,Athletic Club,1,2,1.5,1.8
+2019-01-11,181,Vie,Rayo Vallecano,Celta Vigo,4,2,2.0,1.3
+2019-01-12,182,Sáb,Leganés,Huesca,1,0,2.0,0.5
+2019-01-12,183,Sáb,Valencia,Valladolid,1,1,3.5,0.2
+2019-01-12,184,Sáb,Girona,Alavés,1,1,0.6,1.1
+2019-01-12,185,Sáb,Villarreal,Getafe,1,2,2.3,0.9
+2019-01-13,186,Dom,Atlético Madrid,Levante,1,0,2.5,0.7
+2019-01-13,187,Dom,Athletic Club,Sevilla,2,0,0.9,0.7
+2019-01-13,188,Dom,Barcelona,Eibar,3,0,1.1,0.9
+2019-01-13,189,Dom,Betis,Real Madrid,1,2,0.8,0.7
+2019-01-14,190,Lun,Real Sociedad,Espanyol,3,2,2.6,2.1
+2019-01-18,191,Vie,Getafe,Alavés,4,0,2.0,0.4
+2019-01-19,192,Sáb,Real Madrid,Sevilla,2,0,1.5,0.5
+2019-01-19,193,Sáb,Huesca,Atlético Madrid,0,3,1.3,2.5
+2019-01-19,194,Sáb,Celta Vigo,Valencia,1,2,0.8,1.2
+2019-01-20,195,Dom,Betis,Girona,3,2,1.4,0.8
+2019-01-20,196,Dom,Villarreal,Athletic Club,1,1,1.1,0.5
+2019-01-20,197,Dom,Levante,Valladolid,2,0,1.5,1.5
+2019-01-20,198,Dom,Rayo Vallecano,Real Sociedad,2,2,0.9,1.6
+2019-01-20,199,Dom,Barcelona,Leganés,3,1,1.8,0.9
+2019-01-21,200,Lun,Eibar,Espanyol,3,0,1.6,0.9
+2019-01-26,201,Sáb,Sevilla,Levante,5,0,4.6,0.9
+2019-01-26,202,Sáb,Atlético Madrid,Getafe,2,0,1.1,0.3
+2019-01-26,203,Sáb,Leganés,Eibar,2,2,0.7,0.2
+2019-01-26,204,Sáb,Valencia,Villarreal,3,0,1.5,0.7
+2019-01-27,205,Dom,Valladolid,Celta Vigo,2,1,1.6,1.0
+2019-01-27,206,Dom,Girona,Barcelona,0,2,1.3,2.2
+2019-01-27,207,Dom,Real Sociedad,Huesca,0,0,0.4,0.4
+2019-01-27,208,Dom,Athletic Club,Betis,1,0,1.1,0.4
+2019-01-27,209,Dom,Espanyol,Real Madrid,2,4,1.1,2.1
+2019-01-28,210,Lun,Alavés,Rayo Vallecano,0,1,1.0,1.0
+2019-02-01,211,Vie,Huesca,Valladolid,4,0,1.9,0.5
+2019-02-02,212,Sáb,Levante,Getafe,0,0,0.6,0.4
+2019-02-02,213,Sáb,Real Sociedad,Athletic Club,2,1,1.5,1.4
+2019-02-02,214,Sáb,Barcelona,Valencia,2,2,2.0,3.3
+2019-02-02,215,Sáb,Celta Vigo,Sevilla,1,0,1.0,0.9
+2019-02-03,216,Dom,Villarreal,Espanyol,2,2,2.8,1.6
+2019-02-03,217,Dom,Betis,Atlético Madrid,1,0,1.0,0.7
+2019-02-03,218,Dom,Eibar,Girona,3,0,1.7,0.2
+2019-02-03,219,Dom,Real Madrid,Alavés,3,0,2.5,0.6
+2019-02-04,220,Lun,Rayo Vallecano,Leganés,1,2,1.7,1.3
+2019-02-08,221,Vie,Valladolid,Villarreal,0,0,0.6,1.2
+2019-02-09,222,Sáb,Getafe,Celta Vigo,3,1,2.7,0.9
+2019-02-09,223,Sáb,Atlético Madrid,Real Madrid,1,3,1.1,1.6
+2019-02-09,224,Sáb,Espanyol,Rayo Vallecano,2,1,2.0,0.6
+2019-02-09,225,Sáb,Girona,Huesca,0,2,1.4,0.6
+2019-02-10,226,Dom,Leganés,Betis,3,0,1.6,0.1
+2019-02-10,227,Dom,Valencia,Real Sociedad,0,0,1.5,0.5
+2019-02-10,228,Dom,Sevilla,Eibar,2,2,1.7,1.3
+2019-02-10,229,Dom,Athletic Club,Barcelona,0,0,1.3,0.7
+2019-02-11,230,Lun,Alavés,Levante,2,0,1.7,0.3
+2019-02-15,231,Vie,Eibar,Getafe,2,2,1.8,0.7
+2019-02-16,232,Sáb,Celta Vigo,Levante,1,4,1.6,2.8
+2019-02-16,233,Sáb,Rayo Vallecano,Atlético Madrid,0,1,1.0,0.2
+2019-02-16,234,Sáb,Real Sociedad,Leganés,3,0,1.7,1.2
+2019-02-16,235,Sáb,Barcelona,Valladolid,1,0,3.7,0.4
+2019-02-17,236,Dom,Real Madrid,Girona,1,2,1.8,2.6
+2019-02-17,237,Dom,Valencia,Espanyol,0,0,1.7,0.4
+2019-02-17,238,Dom,Villarreal,Sevilla,3,0,1.6,2.6
+2019-02-17,239,Dom,Betis,Alavés,1,1,3.1,1.2
+2019-02-18,240,Lun,Huesca,Athletic Club,0,1,1.2,1.4
+2019-02-22,241,Vie,Espanyol,Huesca,1,1,0.8,0.8
+2019-02-23,242,Sáb,Getafe,Rayo Vallecano,2,1,1.3,0.8
+2019-02-23,243,Sáb,Sevilla,Barcelona,2,4,1.6,1.8
+2019-02-23,244,Sáb,Alavés,Celta Vigo,0,0,1.4,0.5
+2019-02-23,245,Sáb,Athletic Club,Eibar,1,0,1.3,0.6
+2019-02-24,246,Dom,Leganés,Valencia,1,1,1.8,0.5
+2019-02-24,247,Dom,Atlético Madrid,Villarreal,2,0,1.2,1.2
+2019-02-24,248,Dom,Valladolid,Betis,0,2,0.6,0.8
+2019-02-24,249,Dom,Levante,Real Madrid,1,2,1.2,2.7
+2019-02-25,250,Lun,Girona,Real Sociedad,0,0,1.0,0.5
+2019-03-01,251,Vie,Rayo Vallecano,Girona,0,2,0.8,1.3
+2019-03-02,252,Sáb,Espanyol,Valladolid,3,1,2.6,1.5
+2019-03-02,253,Sáb,Villarreal,Alavés,1,2,1.2,1.4
+2019-03-02,254,Sáb,Huesca,Sevilla,2,1,1.0,2.3
+2019-03-02,255,Sáb,Real Madrid,Barcelona,0,1,0.9,1.1
+2019-03-03,256,Dom,Eibar,Celta Vigo,1,0,2.5,0.5
+2019-03-03,257,Dom,Betis,Getafe,1,2,0.6,1.6
+2019-03-03,258,Dom,Real Sociedad,Atlético Madrid,0,2,0.9,1.4
+2019-03-03,259,Dom,Valencia,Athletic Club,2,0,1.3,0.4
+2019-03-04,260,Lun,Leganés,Levante,1,0,1.9,1.5
+2019-03-08,261,Vie,Athletic Club,Espanyol,1,1,0.8,0.8
+2019-03-09,262,Sáb,Alavés,Eibar,1,1,2.0,2.4
+2019-03-09,263,Sáb,Atlético Madrid,Leganés,1,0,1.3,0.1
+2019-03-09,264,Sáb,Barcelona,Rayo Vallecano,3,1,2.4,0.4
+2019-03-09,265,Sáb,Getafe,Huesca,2,1,1.4,0.9
+2019-03-10,266,Dom,Celta Vigo,Betis,0,1,0.4,1.2
+2019-03-10,267,Dom,Girona,Valencia,2,3,2.3,1.2
+2019-03-10,268,Dom,Levante,Villarreal,0,2,1.1,1.0
+2019-03-10,269,Dom,Sevilla,Real Sociedad,5,2,2.4,1.2
+2019-03-10,270,Dom,Valladolid,Real Madrid,1,4,2.2,2.8
+2019-03-15,271,Vie,Real Sociedad,Levante,1,1,2.9,1.3
+2019-03-16,272,Sáb,Huesca,Alavés,1,3,1.5,2.3
+2019-03-16,273,Sáb,Real Madrid,Celta Vigo,2,0,2.5,0.4
+2019-03-16,274,Sáb,Athletic Club,Atlético Madrid,2,0,1.3,0.9
+2019-03-16,275,Sáb,Leganés,Girona,0,2,0.6,1.5
+2019-03-17,276,Dom,Eibar,Valladolid,1,2,2.1,2.4
+2019-03-17,277,Dom,Espanyol,Sevilla,0,1,0.7,1.5
+2019-03-17,278,Dom,Villarreal,Rayo Vallecano,3,1,2.5,0.2
+2019-03-17,279,Dom,Valencia,Getafe,0,0,0.6,0.5
+2019-03-17,280,Dom,Betis,Barcelona,1,4,1.2,3.0
+2019-03-29,281,Vie,Girona,Athletic Club,1,2,0.4,1.0
+2019-03-30,282,Sáb,Getafe,Leganés,0,2,0.6,1.3
+2019-03-30,283,Sáb,Barcelona,Espanyol,2,0,1.3,0.2
+2019-03-30,284,Sáb,Celta Vigo,Villarreal,3,2,1.8,2.5
+2019-03-30,285,Sáb,Alavés,Atlético Madrid,0,4,0.8,1.5
+2019-03-31,286,Dom,Levante,Eibar,2,2,1.0,2.3
+2019-03-31,287,Dom,Rayo Vallecano,Betis,1,1,2.2,0.6
+2019-03-31,288,Dom,Sevilla,Valencia,0,1,0.9,1.0
+2019-03-31,289,Dom,Valladolid,Real Sociedad,1,1,2.5,0.9
+2019-03-31,290,Dom,Real Madrid,Huesca,3,2,4.1,1.7
+2019-04-02,291,Mar,Atlético Madrid,Girona,2,0,2.5,0.8
+2019-04-02,292,Mar,Espanyol,Getafe,1,1,1.7,1.5
+2019-04-02,293,Mar,Villarreal,Barcelona,4,4,2.2,2.7
+2019-04-03,294,Mié,Athletic Club,Levante,3,2,1.8,1.5
+2019-04-03,295,Mié,Huesca,Celta Vigo,3,3,3.3,2.0
+2019-04-03,296,Mié,Eibar,Rayo Vallecano,2,1,1.6,0.9
+2019-04-03,297,Mié,Valencia,Real Madrid,2,1,1.8,0.8
+2019-04-04,298,Jue,Sevilla,Alavés,2,0,1.9,0.6
+2019-04-04,299,Jue,Leganés,Valladolid,1,0,1.7,0.8
+2019-04-04,300,Jue,Real Sociedad,Betis,2,1,2.5,1.3
+2019-04-06,301,Sáb,Girona,Espanyol,1,2,1.5,0.4
+2019-04-06,302,Sáb,Real Madrid,Eibar,2,1,1.6,0.8
+2019-04-06,303,Sáb,Rayo Vallecano,Valencia,2,0,1.5,2.3
+2019-04-06,304,Sáb,Barcelona,Atlético Madrid,2,0,2.6,0.8
+2019-04-07,305,Dom,Alavés,Leganés,1,1,0.9,0.9
+2019-04-07,306,Dom,Getafe,Athletic Club,1,0,1.3,0.7
+2019-04-07,307,Dom,Valladolid,Sevilla,0,2,1.4,2.1
+2019-04-07,308,Dom,Levante,Huesca,2,2,2.4,1.3
+2019-04-07,309,Dom,Celta Vigo,Real Sociedad,3,1,3.0,1.4
+2019-04-07,310,Dom,Betis,Villarreal,2,1,1.8,1.5
+2019-04-13,311,Sáb,Espanyol,Alavés,2,1,0.5,1.4
+2019-04-13,312,Sáb,Huesca,Barcelona,0,0,0.2,1.1
+2019-04-13,313,Sáb,Atlético Madrid,Celta Vigo,2,0,1.5,0.5
+2019-04-13,314,Sáb,Sevilla,Betis,3,2,2.0,1.0
+2019-04-14,315,Dom,Valladolid,Getafe,2,2,1.5,1.6
+2019-04-14,316,Dom,Athletic Club,Rayo Vallecano,3,2,2.7,1.0
+2019-04-14,317,Dom,Real Sociedad,Eibar,1,1,0.4,1.5
+2019-04-14,318,Dom,Girona,Villarreal,0,1,1.3,1.4
+2019-04-14,319,Dom,Valencia,Levante,3,1,2.4,0.3
+2019-04-15,320,Lun,Leganés,Real Madrid,1,1,0.6,1.2
+2019-04-19,321,Vie,Alavés,Valladolid,2,2,1.3,2.0
+2019-04-20,322,Sáb,Celta Vigo,Girona,2,1,1.8,0.4
+2019-04-20,323,Sáb,Eibar,Atlético Madrid,0,1,0.6,1.3
+2019-04-20,324,Sáb,Rayo Vallecano,Huesca,0,0,1.2,1.1
+2019-04-20,325,Sáb,Barcelona,Real Sociedad,2,1,1.1,1.5
+2019-04-21,326,Dom,Levante,Espanyol,2,2,1.8,2.1
+2019-04-21,327,Dom,Getafe,Sevilla,3,0,2.9,0.7
+2019-04-21,328,Dom,Real Madrid,Athletic Club,3,0,1.9,0.5
+2019-04-21,329,Dom,Villarreal,Leganés,2,1,1.0,1.2
+2019-04-21,330,Dom,Betis,Valencia,1,2,2.1,0.2
+2019-04-23,331,Mar,Huesca,Eibar,2,0,1.0,0.8
+2019-04-23,332,Mar,Valladolid,Girona,1,0,0.9,0.6
+2019-04-23,333,Mar,Alavés,Barcelona,0,2,0.3,2.5
+2019-04-24,334,Mié,Atlético Madrid,Valencia,3,2,1.6,2.1
+2019-04-24,335,Mié,Espanyol,Celta Vigo,1,1,2.2,2.7
+2019-04-24,336,Mié,Leganés,Athletic Club,0,1,0.6,0.6
+2019-04-24,337,Mié,Levante,Betis,4,0,1.4,0.4
+2019-04-25,338,Jue,Sevilla,Rayo Vallecano,5,0,3.8,0.9
+2019-04-25,339,Jue,Real Sociedad,Villarreal,0,1,0.8,0.7
+2019-04-25,340,Jue,Getafe,Real Madrid,0,0,0.6,1.8
+2019-04-27,341,Sáb,Athletic Club,Alavés,1,1,1.3,1.3
+2019-04-27,342,Sáb,Atlético Madrid,Valladolid,1,0,0.7,0.7
+2019-04-27,343,Sáb,Leganés,Celta Vigo,0,0,0.5,0.3
+2019-04-27,344,Sáb,Barcelona,Levante,1,0,2.1,1.0
+2019-04-28,345,Dom,Valencia,Eibar,0,1,0.5,1.3
+2019-04-28,346,Dom,Girona,Sevilla,1,0,1.0,0.6
+2019-04-28,347,Dom,Real Sociedad,Getafe,2,1,2.4,0.6
+2019-04-28,348,Dom,Villarreal,Huesca,1,1,1.0,1.4
+2019-04-28,349,Dom,Rayo Vallecano,Real Madrid,1,0,1.8,0.5
+2019-04-29,350,Lun,Betis,Espanyol,1,1,1.4,1.1
+2019-05-03,351,Vie,Sevilla,Leganés,0,3,0.3,0.9
+2019-05-04,352,Sáb,Levante,Rayo Vallecano,4,1,2.8,1.7
+2019-05-04,353,Sáb,Espanyol,Atlético Madrid,3,0,1.6,0.7
+2019-05-04,354,Sáb,Alavés,Real Sociedad,0,1,0.8,0.8
+2019-05-04,355,Sáb,Celta Vigo,Barcelona,2,0,1.9,0.5
+2019-05-05,356,Dom,Getafe,Girona,2,0,2.0,0.7
+2019-05-05,357,Dom,Eibar,Betis,1,0,0.7,2.1
+2019-05-05,358,Dom,Real Madrid,Villarreal,3,2,2.7,0.7
+2019-05-05,359,Dom,Valladolid,Athletic Club,1,0,0.8,1.6
+2019-05-05,360,Dom,Huesca,Valencia,2,6,3.1,2.4
+2019-05-12,361,Dom,Betis,Huesca,2,1,2.2,1.3
+2019-05-12,362,Dom,Barcelona,Getafe,2,0,2.4,1.2
+2019-05-12,363,Dom,Girona,Levante,1,2,1.9,0.7
+2019-05-12,364,Dom,Valencia,Alavés,3,1,1.9,0.8
+2019-05-12,365,Dom,Villarreal,Eibar,1,0,1.5,0.3
+2019-05-12,366,Dom,Leganés,Espanyol,0,2,0.7,3.3
+2019-05-12,367,Dom,Athletic Club,Celta Vigo,3,1,2.1,1.1
+2019-05-12,368,Dom,Rayo Vallecano,Valladolid,1,2,1.9,1.4
+2019-05-12,369,Dom,Atlético Madrid,Sevilla,1,1,1.3,0.8
+2019-05-12,370,Dom,Real Sociedad,Real Madrid,3,1,2.1,0.9
+2019-05-18,371,Sáb,Levante,Atlético Madrid,2,2,2.7,1.9
+2019-05-18,372,Sáb,Getafe,Villarreal,2,2,2.3,1.0
+2019-05-18,373,Sáb,Espanyol,Real Sociedad,2,0,1.4,0.4
+2019-05-18,374,Sáb,Sevilla,Athletic Club,2,0,1.5,0.7
+2019-05-18,375,Sáb,Valladolid,Valencia,0,2,0.8,1.5
+2019-05-18,376,Sáb,Celta Vigo,Rayo Vallecano,2,2,2.1,1.4
+2019-05-18,377,Sáb,Huesca,Leganés,2,1,0.9,0.9
+2019-05-18,378,Sáb,Alavés,Girona,2,1,1.3,1.0
+2019-05-19,379,Dom,Real Madrid,Betis,0,2,0.9,1.3
+2019-05-19,380,Dom,Eibar,Barcelona,2,2,1.5,1.1

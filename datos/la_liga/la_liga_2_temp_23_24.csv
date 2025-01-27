@@ -1,0 +1,469 @@
+﻿Fecha,match_id,Día,Local,Visitante,goles_local,goles_visitante,xG_local,xG_visitante
+2023-08-11,1,Vie,Amorebieta,Levante,1,1,1.4,1.3
+2023-08-11,2,Vie,Valladolid,Sporting Gijón,2,0,1.6,0.4
+2023-08-12,3,Sáb,Racing Sant,Eibar,4,0,2.2,0.9
+2023-08-12,4,Sáb,Zaragoza,Villarreal B,2,0,2.2,0.4
+2023-08-12,5,Sáb,Elche,Racing Ferrol,0,1,0.6,0.8
+2023-08-13,6,Dom,Burgos,Huesca,1,1,2.2,0.2
+2023-08-13,7,Dom,Albacete,Espanyol,1,1,3.3,0.8
+2023-08-13,8,Dom,Cartagena,Eldense,0,1,0.7,0.3
+2023-08-13,9,Dom,Leganés,FC Andorra,0,1,1.2,2.1
+2023-08-14,10,Lun,CD Mirandés,Alcorcón,4,0,2.4,0.6
+2023-08-14,11,Lun,Tenerife,Oviedo,1,0,2.0,0.2
+2023-08-18,12,Vie,FC Andorra,Cartagena,3,2,2.4,1.8
+2023-08-18,13,Vie,Zaragoza,Valladolid,1,0,0.4,0.4
+2023-08-19,14,Sáb,Eibar,Elche,2,1,0.7,2.0
+2023-08-19,15,Sáb,Espanyol,Racing Sant,2,0,1.4,0.8
+2023-08-19,16,Sáb,Levante,Burgos,3,2,1.7,2.0
+2023-08-19,17,Sáb,Alcorcón,Leganés,0,2,0.6,0.4
+2023-08-20,18,Dom,Oviedo,Racing Ferrol,1,1,0.6,1.3
+2023-08-20,19,Dom,Sporting Gijón,CD Mirandés,3,0,0.6,0.8
+2023-08-20,20,Dom,Albacete,Amorebieta,2,2,1.7,1.5
+2023-08-21,21,Lun,Villarreal B,Eldense,3,1,2.0,1.5
+2023-08-21,22,Lun,Huesca,Tenerife,0,2,1.1,1.3
+2023-08-25,23,Vie,Cartagena,Levante,0,1,0.7,1.3
+2023-08-26,24,Sáb,Burgos,Oviedo,1,0,1.2,0.6
+2023-08-26,25,Sáb,Tenerife,Zaragoza,0,1,0.6,0.7
+2023-08-26,26,Sáb,Elche,Villarreal B,1,0,2.5,0.7
+2023-08-26,27,Sáb,Valladolid,Alcorcón,0,2,1.3,1.9
+2023-08-27,28,Dom,Racing Ferrol,Sporting Gijón,2,0,0.7,1.0
+2023-08-27,29,Dom,CD Mirandés,Espanyol,0,1,0.1,0.9
+2023-08-27,30,Dom,Amorebieta,FC Andorra,3,0,0.7,0.8
+2023-08-27,31,Dom,Leganés,Albacete,2,0,1.9,0.9
+2023-08-28,32,Lun,Eldense,Eibar,2,1,0.3,0.6
+2023-08-28,33,Lun,Racing Sant,Huesca,0,0,0.8,0.4
+2023-09-01,34,Vie,Alcorcón,Racing Ferrol,1,1,1.3,0.8
+2023-09-01,35,Vie,Albacete,Valladolid,2,0,1.0,0.5
+2023-09-02,36,Sáb,Sporting Gijón,Burgos,2,1,0.8,0.1
+2023-09-02,37,Sáb,Levante,Oviedo,1,1,1.0,1.3
+2023-09-02,38,Sáb,Villarreal B,Cartagena,1,2,1.1,1.4
+2023-09-02,39,Sáb,Elche,Racing Sant,1,1,1.4,0.9
+2023-09-03,40,Dom,FC Andorra,Tenerife,0,1,1.0,1.6
+2023-09-03,41,Dom,Eibar,Leganés,0,1,1.3,0.1
+2023-09-03,42,Dom,Zaragoza,Eldense,2,0,0.7,0.5
+2023-09-03,43,Dom,Espanyol,Amorebieta,3,2,3.4,0.9
+2023-09-03,44,Dom,Huesca,CD Mirandés,1,1,0.8,1.5
+2023-09-08,45,Vie,Levante,Espanyol,1,4,1.0,2.3
+2023-09-09,46,Sáb,Burgos,Eibar,1,0,0.9,0.7
+2023-09-09,47,Sáb,Oviedo,Sporting Gijón,0,0,0.2,0.5
+2023-09-09,48,Sáb,Tenerife,Albacete,2,0,1.8,1.6
+2023-09-09,49,Sáb,Leganés,Huesca,2,0,0.9,0.3
+2023-09-10,50,Dom,Racing Sant,Amorebieta,1,0,0.8,0.2
+2023-09-10,51,Dom,Racing Ferrol,Villarreal B,2,2,2.7,0.7
+2023-09-10,52,Dom,Cartagena,Zaragoza,1,3,1.0,1.6
+2023-09-10,53,Dom,CD Mirandés,FC Andorra,4,3,1.7,1.8
+2023-09-10,54,Dom,Valladolid,Elche,1,1,1.6,0.7
+2023-09-11,55,Lun,Eldense,Alcorcón,2,2,1.2,1.5
+2023-09-15,56,Vie,Zaragoza,Racing Sant,1,1,0.7,1.2
+2023-09-16,57,Sáb,Huesca,Villarreal B,2,2,0.4,0.5
+2023-09-16,58,Sáb,Valladolid,Cartagena,1,0,1.8,0.4
+2023-09-16,59,Sáb,Alcorcón,Levante,0,2,1.1,1.0
+2023-09-16,60,Sáb,Albacete,Burgos,2,1,2.0,0.8
+2023-09-17,61,Dom,Amorebieta,CD Mirandés,2,0,1.2,0.9
+2023-09-17,62,Dom,Eibar,Racing Ferrol,2,0,1.0,0.4
+2023-09-17,63,Dom,Espanyol,Eldense,3,3,3.1,1.3
+2023-09-17,64,Dom,Elche,Leganés,1,0,1.5,0.9
+2023-09-17,65,Dom,Sporting Gijón,Tenerife,2,1,1.2,0.4
+2023-09-18,66,Lun,FC Andorra,Oviedo,1,0,0.9,0.3
+2023-09-22,67,Vie,Cartagena,Eibar,1,2,1.0,0.8
+2023-09-23,68,Sáb,FC Andorra,Sporting Gijón,0,0,0.5,0.3
+2023-09-23,69,Sáb,Levante,Eldense,2,0,1.9,0.6
+2023-09-23,70,Sáb,Burgos,Elche,4,0,2.2,0.3
+2023-09-23,71,Sáb,Racing Sant,Albacete,2,1,1.3,1.4
+2023-09-23,72,Sáb,Alcorcón,Huesca,0,2,0.8,0.6
+2023-09-24,73,Dom,Villarreal B,Amorebieta,3,1,2.1,0.6
+2023-09-24,74,Dom,Oviedo,Valladolid,0,1,0.6,1.0
+2023-09-24,75,Dom,CD Mirandés,Leganés,1,3,0.4,1.4
+2023-09-25,76,Lun,Tenerife,Espanyol,1,0,1.8,1.9
+2023-09-25,77,Lun,Racing Ferrol,Zaragoza,1,0,1.2,0.4
+2023-09-29,78,Vie,Leganés,Racing Sant,2,1,0.9,0.9
+2023-09-30,79,Sáb,Eibar,Tenerife,3,0,0.7,0.3
+2023-09-30,80,Sáb,Elche,Levante,0,0,2.0,0.5
+2023-09-30,81,Sáb,Albacete,FC Andorra,3,1,1.7,1.0
+2023-09-30,82,Sáb,Villarreal B,Alcorcón,2,2,2.6,1.0
+2023-10-01,83,Dom,Eldense,Oviedo,1,3,1.5,1.0
+2023-10-01,84,Dom,Zaragoza,CD Mirandés,0,1,1.3,0.4
+2023-10-01,85,Dom,Amorebieta,Cartagena,0,0,0.3,0.5
+2023-10-01,86,Dom,Valladolid,Burgos,3,0,1.8,1.5
+2023-10-01,87,Dom,Huesca,Sporting Gijón,0,1,0.6,1.3
+2023-10-02,88,Lun,Espanyol,Racing Ferrol,3,0,0.8,0.3
+2023-10-03,89,Mar,Alcorcón,Albacete,1,2,1.4,1.3
+2023-10-03,90,Mar,Levante,Villarreal B,1,1,1.8,0.8
+2023-10-03,91,Mar,Tenerife,Racing Sant,2,0,2.3,0.3
+2023-10-04,92,Mié,Oviedo,Huesca,1,0,1.6,0.4
+2023-10-04,93,Mié,Eldense,Valladolid,0,1,0.4,0.6
+2023-10-04,94,Mié,Burgos,Leganés,1,0,0.4,0.6
+2023-10-04,95,Mié,Sporting Gijón,Elche,2,0,1.3,0.4
+2023-10-05,96,Jue,CD Mirandés,Eibar,1,3,1.4,1.9
+2023-10-05,97,Jue,FC Andorra,Zaragoza,0,1,0.1,0.3
+2023-10-05,98,Jue,Racing Ferrol,Amorebieta,1,0,0.7,0.1
+2023-10-05,99,Jue,Cartagena,Espanyol,0,2,0.4,2.4
+2023-10-06,100,Vie,Albacete,Levante,0,2,1.2,1.5
+2023-10-07,101,Sáb,Huesca,Eldense,0,1,0.6,0.7
+2023-10-07,102,Sáb,Racing Sant,Sporting Gijón,3,2,2.5,2.7
+2023-10-07,103,Sáb,Leganés,Oviedo,0,0,0.7,0.4
+2023-10-08,104,Dom,Amorebieta,Eibar,1,2,1.4,2.2
+2023-10-08,105,Dom,Valladolid,CD Mirandés,3,2,1.3,1.6
+2023-10-08,106,Dom,Tenerife,Burgos,2,1,1.8,2.4
+2023-10-08,107,Dom,Racing Ferrol,Cartagena,1,1,0.9,1.4
+2023-10-08,108,Dom,Zaragoza,Alcorcón,0,2,1.1,1.0
+2023-10-09,109,Lun,Elche,FC Andorra,2,1,2.0,0.4
+2023-10-09,110,Lun,Villarreal B,Espanyol,3,1,1.5,1.1
+2023-10-13,111,Vie,Oviedo,Albacete,3,0,1.2,0.5
+2023-10-14,112,Sáb,CD Mirandés,Tenerife,1,1,1.2,0.4
+2023-10-14,113,Sáb,Sporting Gijón,Zaragoza,2,2,1.4,1.0
+2023-10-14,114,Sáb,Cartagena,Racing Sant,2,3,1.9,2.4
+2023-10-14,115,Sáb,Espanyol,Valladolid,2,0,1.4,1.0
+2023-10-15,116,Dom,Burgos,Villarreal B,3,2,0.9,1.2
+2023-10-15,117,Dom,Eldense,Elche,1,1,0.8,0.3
+2023-10-15,118,Dom,FC Andorra,Alcorcón,2,0,2.0,0.5
+2023-10-15,119,Dom,Leganés,Amorebieta,6,0,2.3,0.7
+2023-10-15,120,Dom,Eibar,Huesca,1,1,0.7,0.2
+2023-10-16,121,Lun,Levante,Racing Ferrol,1,0,0.7,1.2
+2023-10-20,122,Vie,Espanyol,Leganés,0,1,0.8,1.6
+2023-10-21,123,Sáb,Villarreal B,CD Mirandés,0,3,0.8,1.1
+2023-10-21,124,Sáb,Amorebieta,Oviedo,0,0,0.5,1.3
+2023-10-21,125,Sáb,Tenerife,Levante,0,0,1.3,0.3
+2023-10-21,126,Sáb,Zaragoza,Eibar,2,3,1.5,1.4
+2023-10-22,127,Dom,Racing Ferrol,Eldense,1,1,1.0,0.6
+2023-10-22,128,Dom,Huesca,Elche,0,1,0.2,0.6
+2023-10-22,129,Dom,Racing Sant,Burgos,3,0,1.8,0.7
+2023-10-22,130,Dom,Albacete,Sporting Gijón,1,3,1.4,0.8
+2023-10-22,131,Dom,Valladolid,FC Andorra,2,0,1.1,1.7
+2023-10-23,132,Lun,Alcorcón,Cartagena,1,1,1.1,1.2
+2023-10-27,133,Vie,Eibar,Valladolid,5,1,2.6,0.6
+2023-10-28,134,Sáb,Eldense,Amorebieta,2,0,1.2,0.6
+2023-10-28,135,Sáb,Sporting Gijón,Espanyol,2,0,0.8,1.5
+2023-10-28,136,Sáb,FC Andorra,Levante,2,0,1.7,0.6
+2023-10-28,137,Sáb,Elche,Tenerife,2,1,1.6,0.5
+2023-10-29,138,Dom,CD Mirandés,Cartagena,2,1,1.8,1.3
+2023-10-29,139,Dom,Huesca,Albacete,0,0,0.4,0.4
+2023-10-29,140,Dom,Oviedo,Alcorcón,2,0,1.8,0.1
+2023-10-29,141,Dom,Leganés,Villarreal B,1,0,0.8,0.7
+2023-10-29,142,Dom,Racing Sant,Racing Ferrol,1,3,0.7,2.6
+2023-10-30,143,Lun,Burgos,Zaragoza,1,1,0.8,0.8
+2023-11-03,144,Vie,Espanyol,Eibar,2,2,3.3,0.8
+2023-11-04,145,Sáb,Villarreal B,Sporting Gijón,0,3,1.9,1.6
+2023-11-04,146,Sáb,Valladolid,Tenerife,2,0,0.8,0.3
+2023-11-04,147,Sáb,Levante,CD Mirandés,2,2,1.2,2.2
+2023-11-04,148,Sáb,Albacete,Elche,1,1,1.4,0.6
+2023-11-05,149,Dom,Racing Ferrol,FC Andorra,1,0,1.2,0.8
+2023-11-05,150,Dom,Amorebieta,Huesca,0,1,0.2,1.7
+2023-11-05,151,Dom,Alcorcón,Racing Sant,3,1,1.5,1.3
+2023-11-05,152,Dom,Cartagena,Leganés,0,3,0.7,2.2
+2023-11-05,153,Dom,Eldense,Burgos,2,0,0.9,1.2
+2023-11-06,154,Lun,Zaragoza,Oviedo,0,0,1.8,1.1
+2023-11-10,155,Vie,Leganés,Levante,2,1,1.4,0.3
+2023-11-11,156,Sáb,Racing Sant,Valladolid,2,3,1.9,2.2
+2023-11-11,157,Sáb,CD Mirandés,Racing Ferrol,1,2,2.4,1.4
+2023-11-11,158,Sáb,Elche,Zaragoza,2,0,0.8,0.8
+2023-11-11,159,Sáb,Sporting Gijón,Amorebieta,1,1,1.8,0.7
+2023-11-12,160,Dom,Burgos,Alcorcón,4,2,3.1,0.6
+2023-11-12,161,Dom,FC Andorra,Eldense,1,3,1.8,1.1
+2023-11-12,162,Dom,Tenerife,Villarreal B,0,1,1.6,1.2
+2023-11-12,163,Dom,Huesca,Espanyol,1,1,1.4,1.0
+2023-11-12,164,Dom,Eibar,Albacete,1,1,1.5,1.3
+2023-11-13,165,Lun,Oviedo,Cartagena,1,1,1.4,0.1
+2023-11-17,166,Vie,Valladolid,Leganés,1,1,0.8,0.6
+2023-11-18,167,Sáb,Alcorcón,Sporting Gijón,0,0,0.7,1.0
+2023-11-18,168,Sáb,Amorebieta,Tenerife,2,0,0.4,1.8
+2023-11-18,169,Sáb,Zaragoza,Huesca,0,2,0.7,0.6
+2023-11-18,170,Sáb,Espanyol,Elche,2,0,1.5,1.2
+2023-11-19,171,Dom,Racing Ferrol,Burgos,1,1,1.5,0.8
+2023-11-19,172,Dom,Eldense,CD Mirandés,2,2,3.1,0.6
+2023-11-19,173,Dom,Oviedo,Eibar,2,1,1.4,1.0
+2023-11-19,174,Dom,Villarreal B,FC Andorra,0,0,1.7,1.1
+2023-11-19,175,Dom,Cartagena,Albacete,1,1,0.4,1.5
+2023-11-20,176,Lun,Levante,Racing Sant,2,4,1.4,2.4
+2023-11-24,177,Vie,Huesca,Valladolid,0,1,0.5,1.2
+2023-11-25,178,Sáb,Racing Sant,Villarreal B,2,0,2.2,0.4
+2023-11-25,179,Sáb,Burgos,FC Andorra,0,0,1.1,0.3
+2023-11-25,180,Sáb,Albacete,Zaragoza,1,0,1.7,0.3
+2023-11-25,181,Sáb,Eibar,Levante,3,1,1.8,0.7
+2023-11-26,182,Dom,Leganés,Racing Ferrol,2,2,3.4,0.5
+2023-11-26,183,Dom,CD Mirandés,Oviedo,2,1,0.9,0.6
+2023-11-26,184,Dom,Elche,Amorebieta,2,0,0.8,0.7
+2023-11-26,185,Dom,Tenerife,Cartagena,1,1,1.5,0.7
+2023-11-26,186,Dom,Espanyol,Alcorcón,2,0,2.0,0.4
+2023-11-27,187,Lun,Sporting Gijón,Eldense,2,0,0.7,0.6
+2023-12-01,188,Vie,Oviedo,Espanyol,2,0,1.5,0.4
+2023-12-02,189,Sáb,Eldense,Tenerife,0,3,0.7,0.9
+2023-12-02,190,Sáb,Cartagena,Sporting Gijón,1,0,2.2,0.3
+2023-12-02,191,Sáb,Zaragoza,Leganés,1,0,0.9,0.2
+2023-12-02,192,Sáb,Levante,Valladolid,2,1,1.7,1.8
+2023-12-03,193,Dom,FC Andorra,Huesca,1,0,0.5,0.4
+2023-12-03,194,Dom,Alcorcón,Elche,0,2,0.6,2.2
+2023-12-03,195,Dom,CD Mirandés,Racing Sant,0,0,1.6,0.5
+2023-12-03,196,Dom,Racing Ferrol,Albacete,5,4,2.1,2.1
+2023-12-03,197,Dom,Amorebieta,Burgos,0,1,0.6,0.4
+2023-12-04,198,Lun,Villarreal B,Eibar,1,0,1.4,0.2
+2023-12-08,199,Vie,Albacete,Villarreal B,2,0,1.1,0.3
+2023-12-08,200,Vie,Espanyol,Zaragoza,1,1,0.2,0.6
+2023-12-09,201,Sáb,Valladolid,Amorebieta,2,1,1.6,0.9
+2023-12-09,202,Sáb,Sporting Gijón,Levante,0,0,0.6,0.4
+2023-12-09,203,Sáb,Burgos,CD Mirandés,0,0,0.5,0.4
+2023-12-10,204,Dom,Elche,Cartagena,1,2,1.2,1.4
+2023-12-10,205,Dom,Racing Sant,Oviedo,2,2,2.1,0.9
+2023-12-10,206,Dom,Leganés,Eldense,1,1,1.5,0.2
+2023-12-10,207,Dom,Eibar,FC Andorra,2,2,1.8,1.6
+2023-12-10,208,Dom,Huesca,Racing Ferrol,1,0,1.6,0.9
+2023-12-11,209,Lun,Tenerife,Alcorcón,1,0,1.6,0.4
+2023-12-15,210,Vie,Oviedo,Elche,3,2,1.6,1.8
+2023-12-16,211,Sáb,Eldense,Racing Sant,3,3,1.2,0.8
+2023-12-16,212,Sáb,FC Andorra,Espanyol,1,1,1.4,0.4
+2023-12-16,213,Sáb,Sporting Gijón,Leganés,1,1,1.8,0.9
+2023-12-16,214,Sáb,Cartagena,Burgos,0,3,0.5,0.4
+2023-12-16,215,Sáb,CD Mirandés,Albacete,2,0,2.2,1.2
+2023-12-17,216,Dom,Alcorcón,Eibar,1,0,1.0,1.0
+2023-12-17,217,Dom,Levante,Huesca,2,1,1.0,1.1
+2023-12-17,218,Dom,Amorebieta,Zaragoza,1,1,2.2,1.4
+2023-12-17,219,Dom,Racing Ferrol,Tenerife,3,1,1.8,1.0
+2023-12-18,220,Lun,Villarreal B,Valladolid,1,0,1.2,1.9
+2023-12-19,221,Mar,Racing Sant,FC Andorra,2,0,3.0,0.5
+2023-12-19,222,Mar,Albacete,Eldense,1,1,1.0,0.9
+2023-12-19,223,Mar,Espanyol,Burgos,3,3,1.0,1.1
+2023-12-19,224,Mar,Elche,CD Mirandés,0,0,1.1,0.3
+2023-12-20,225,Mié,Zaragoza,Levante,2,2,1.2,0.7
+2023-12-20,226,Mié,Eibar,Sporting Gijón,1,1,1.7,0.6
+2023-12-20,227,Mié,Leganés,Tenerife,1,1,0.3,0.2
+2023-12-21,228,Jue,Villarreal B,Oviedo,1,1,1.2,1.1
+2023-12-21,229,Jue,Huesca,Cartagena,3,0,1.1,0.3
+2023-12-21,230,Jue,Amorebieta,Alcorcón,1,2,1.3,1.9
+2023-12-21,231,Jue,Valladolid,Racing Ferrol,0,1,1.0,0.8
+2024-01-12,232,Vie,Eibar,Racing Sant,2,0,1.5,1.0
+2024-01-13,233,Sáb,Alcorcón,CD Mirandés,0,0,0.8,0.4
+2024-01-13,234,Sáb,Levante,Albacete,3,2,2.4,0.9
+2024-01-13,235,Sáb,Tenerife,Elche,0,1,0.4,1.1
+2024-01-13,236,Sáb,Oviedo,Amorebieta,1,1,0.6,1.0
+2024-01-13,237,Sáb,Racing Ferrol,Espanyol,0,0,0.2,0.7
+2024-01-13,238,Sáb,Burgos,Valladolid,1,0,1.1,1.2
+2024-01-14,239,Dom,FC Andorra,Leganés,2,3,2.0,1.3
+2024-01-14,240,Dom,Sporting Gijón,Huesca,0,0,1.0,0.4
+2024-01-14,241,Dom,Cartagena,Villarreal B,4,1,2.8,1.9
+2024-01-15,242,Lun,Eldense,Zaragoza,1,1,1.2,0.2
+2024-01-20,243,Sáb,Albacete,Alcorcón,0,1,1.0,1.4
+2024-01-20,244,Sáb,Amorebieta,Eldense,0,2,0.4,0.9
+2024-01-20,245,Sáb,Zaragoza,FC Andorra,2,0,0.8,0.6
+2024-01-20,246,Sáb,Tenerife,Sporting Gijón,1,2,0.9,0.7
+2024-01-20,247,Sáb,Espanyol,Villarreal B,2,1,1.6,0.8
+2024-01-20,248,Sáb,Racing Ferrol,Oviedo,1,3,0.5,1.4
+2024-01-21,249,Dom,Racing Sant,Cartagena,0,2,0.9,2.8
+2024-01-21,250,Dom,CD Mirandés,Levante,1,1,0.8,0.4
+2024-01-21,251,Dom,Huesca,Eibar,2,3,2.2,1.5
+2024-01-21,252,Dom,Elche,Valladolid,0,0,0.9,0.1
+2024-01-22,253,Lun,Leganés,Burgos,2,0,1.2,1.2
+2024-01-26,254,Vie,Eibar,CD Mirandés,1,0,1.5,0.9
+2024-01-27,255,Sáb,Cartagena,Amorebieta,1,0,1.3,0.6
+2024-01-27,256,Sáb,Alcorcón,Zaragoza,0,0,0.6,0.5
+2024-01-27,257,Sáb,Oviedo,Leganés,1,0,1.0,0.2
+2024-01-27,258,Sáb,Levante,Tenerife,0,0,1.3,0.4
+2024-01-28,259,Dom,Eldense,Espanyol,3,2,2.2,1.0
+2024-01-28,260,Dom,Villarreal B,Huesca,1,1,0.8,0.4
+2024-01-28,261,Dom,FC Andorra,Elche,0,1,0.7,0.7
+2024-01-28,262,Dom,Burgos,Albacete,2,1,2.7,0.8
+2024-01-28,263,Dom,Sporting Gijón,Racing Ferrol,1,2,1.3,1.6
+2024-01-29,264,Lun,Valladolid,Racing Sant,3,1,1.2,0.6
+2024-02-02,265,Vie,Elche,Burgos,2,0,2.0,0.4
+2024-02-03,266,Sáb,Albacete,Cartagena,1,1,0.4,0.6
+2024-02-03,267,Sáb,CD Mirandés,Villarreal B,3,0,2.1,0.1
+2024-02-03,268,Sáb,Huesca,Alcorcón,1,0,1.3,0.3
+2024-02-03,269,Sáb,Leganés,Valladolid,0,0,0.6,0.2
+2024-02-03,270,Sáb,Tenerife,FC Andorra,0,0,1.0,0.5
+2024-02-04,271,Dom,Racing Ferrol,Eibar,1,1,1.0,0.9
+2024-02-04,272,Dom,Oviedo,Eldense,1,1,2.7,0.3
+2024-02-04,273,Dom,Amorebieta,Racing Sant,0,1,0.7,1.2
+2024-02-04,274,Dom,Espanyol,Levante,2,1,1.4,1.0
+2024-02-05,275,Lun,Zaragoza,Sporting Gijón,3,0,1.9,0.3
+2024-02-09,276,Vie,Levante,Leganés,0,0,0.7,0.8
+2024-02-10,277,Sáb,Amorebieta,Elche,1,0,1.1,1.6
+2024-02-10,278,Sáb,Eldense,Huesca,0,0,0.4,0.5
+2024-02-10,279,Sáb,Sporting Gijón,Oviedo,1,0,1.5,0.7
+2024-02-10,280,Sáb,Racing Sant,Espanyol,2,0,1.3,0.3
+2024-02-11,281,Dom,Villarreal B,Tenerife,1,0,0.4,0.3
+2024-02-11,282,Dom,Cartagena,CD Mirandés,1,0,0.5,1.0
+2024-02-11,283,Dom,Alcorcón,FC Andorra,1,0,0.3,0.6
+2024-02-11,284,Dom,Eibar,Zaragoza,1,0,1.1,0.8
+2024-02-11,285,Dom,Burgos,Racing Ferrol,2,0,1.1,1.2
+2024-02-12,286,Lun,Valladolid,Albacete,0,0,0.7,0.9
+2024-02-16,287,Vie,Zaragoza,Cartagena,1,2,1.5,0.7
+2024-02-17,288,Sáb,Oviedo,Burgos,5,0,3.0,0.5
+2024-02-17,289,Sáb,FC Andorra,Villarreal B,1,1,0.4,1.4
+2024-02-17,290,Sáb,Sporting Gijón,Valladolid,1,1,0.7,0.8
+2024-02-17,291,Sáb,Espanyol,CD Mirandés,3,0,2.6,0.6
+2024-02-18,292,Dom,Albacete,Racing Sant,2,0,1.3,0.4
+2024-02-18,293,Dom,Leganés,Alcorcón,3,0,2.0,1.3
+2024-02-18,294,Dom,Racing Ferrol,Levante,0,0,0.3,1.1
+2024-02-18,295,Dom,Huesca,Amorebieta,0,0,0.8,0.5
+2024-02-18,296,Dom,Elche,Eibar,0,0,1.8,0.9
+2024-02-19,297,Lun,Tenerife,Eldense,1,0,1.3,0.5
+2024-02-23,298,Vie,Valladolid,Oviedo,3,0,1.4,0.9
+2024-02-24,299,Sáb,Racing Sant,Leganés,2,1,1.4,1.2
+2024-02-24,300,Sáb,Eibar,Espanyol,2,3,1.1,1.2
+2024-02-24,301,Sáb,Villarreal B,Zaragoza,0,0,0.9,0.4
+2024-02-25,302,Dom,Eldense,Racing Ferrol,2,0,1.5,0.7
+2024-02-25,303,Dom,Burgos,Sporting Gijón,1,0,1.4,0.6
+2024-02-25,304,Dom,Alcorcón,Tenerife,1,1,0.3,0.5
+2024-02-25,305,Dom,Cartagena,Elche,0,1,0.1,1.4
+2024-02-25,306,Dom,Amorebieta,Albacete,1,1,1.3,0.6
+2024-02-26,307,Lun,CD Mirandés,Huesca,0,3,0.5,1.7
+2024-03-01,308,Vie,Sporting Gijón,Albacete,2,1,1.5,0.7
+2024-03-02,309,Sáb,Eldense,Villarreal B,2,0,2.0,0.4
+2024-03-02,310,Sáb,Espanyol,Huesca,0,0,1.3,0.1
+2024-03-02,311,Sáb,Racing Ferrol,Racing Sant,2,2,1.3,1.4
+2024-03-02,312,Sáb,Oviedo,Levante,3,2,1.9,1.3
+2024-03-02,313,Sáb,Burgos,Cartagena,3,0,1.8,0.3
+2024-03-03,314,Dom,FC Andorra,Valladolid,2,1,1.2,1.0
+2024-03-03,315,Dom,Tenerife,CD Mirandés,2,1,1.9,1.1
+2024-03-03,316,Dom,Zaragoza,Amorebieta,0,1,0.5,0.6
+2024-03-03,317,Dom,Leganés,Eibar,0,2,2.1,1.3
+2024-03-04,318,Lun,Elche,Alcorcón,3,0,2.1,0.3
+2024-03-08,319,Vie,Huesca,FC Andorra,2,0,2.3,0.4
+2024-03-09,320,Sáb,Albacete,Oviedo,1,2,0.6,1.3
+2024-03-09,321,Sáb,CD Mirandés,Eldense,3,1,0.7,1.0
+2024-03-09,322,Sáb,Valladolid,Zaragoza,2,0,0.7,0.1
+2024-03-09,323,Sáb,Cartagena,Racing Ferrol,2,1,1.4,1.2
+2024-03-10,324,Dom,Racing Sant,Tenerife,4,2,2.0,1.4
+2024-03-10,325,Dom,Levante,Sporting Gijón,1,0,2.4,1.0
+2024-03-10,326,Dom,Villarreal B,Elche,0,1,2.0,1.4
+2024-03-10,327,Dom,Eibar,Burgos,0,1,0.6,0.4
+2024-03-10,328,Dom,Alcorcón,Espanyol,1,1,0.6,0.6
+2024-03-11,329,Lun,Amorebieta,Leganés,0,1,0.8,0.3
+2024-03-13,330,Mié,Levante,FC Andorra,0,0,1.0,0.4
+2024-03-15,331,Vie,Eldense,Cartagena,0,0,1.0,0.5
+2024-03-16,332,Sáb,Burgos,Levante,1,1,1.6,1.1
+2024-03-16,333,Sáb,Eibar,Villarreal B,2,0,2.5,0.5
+2024-03-16,334,Sáb,Tenerife,Huesca,0,0,1.8,0.3
+2024-03-16,335,Sáb,Oviedo,Racing Sant,1,1,0.6,1.9
+2024-03-16,336,Sáb,Sporting Gijón,Alcorcón,1,0,1.5,0.3
+2024-03-17,337,Dom,Leganés,CD Mirandés,4,0,2.6,0.5
+2024-03-17,338,Dom,Racing Ferrol,Valladolid,2,0,0.7,1.0
+2024-03-17,339,Dom,Elche,Albacete,3,2,2.5,0.8
+2024-03-17,340,Dom,Zaragoza,Espanyol,0,1,0.6,0.7
+2024-03-18,341,Lun,FC Andorra,Amorebieta,0,1,1.6,0.6
+2024-03-23,342,Sáb,Alcorcón,Oviedo,1,0,0.5,0.5
+2024-03-23,343,Sáb,Villarreal B,Leganés,1,2,0.5,2.5
+2024-03-23,344,Sáb,Cartagena,FC Andorra,1,0,0.7,1.6
+2024-03-23,345,Sáb,Espanyol,Tenerife,1,1,2.1,0.4
+2024-03-24,346,Dom,Amorebieta,Sporting Gijón,3,1,1.4,1.3
+2024-03-24,347,Dom,Valladolid,Eibar,3,1,2.1,0.5
+2024-03-24,348,Dom,Huesca,Burgos,3,0,1.3,0.5
+2024-03-24,349,Dom,Levante,Elche,3,2,1.5,1.6
+2024-03-24,350,Dom,CD Mirandés,Zaragoza,0,0,0.5,0.4
+2024-03-24,351,Dom,Racing Sant,Eldense,2,1,1.7,1.3
+2024-03-25,352,Lun,Albacete,Racing Ferrol,1,1,1.7,2.6
+2024-03-29,353,Vie,Burgos,Espanyol,0,0,1.3,0.4
+2024-03-30,354,Sáb,Valladolid,Levante,0,0,0.4,0.4
+2024-03-30,355,Sáb,FC Andorra,CD Mirandés,1,0,0.4,1.0
+2024-03-30,356,Sáb,Eibar,Eldense,5,1,3.1,0.6
+2024-03-30,357,Sáb,Leganés,Cartagena,0,0,0.4,0.2
+2024-03-30,358,Sáb,Albacete,Huesca,1,1,1.6,0.5
+2024-03-30,359,Sáb,Sporting Gijón,Racing Sant,2,3,1.4,1.4
+2024-03-31,360,Dom,Alcorcón,Amorebieta,1,1,1.2,0.6
+2024-03-31,361,Dom,Zaragoza,Tenerife,3,1,0.7,1.2
+2024-03-31,362,Dom,Racing Ferrol,Elche,1,0,1.3,0.2
+2024-03-31,363,Dom,Oviedo,Villarreal B,2,1,1.8,1.3
+2024-04-05,364,Vie,Amorebieta,Racing Ferrol,3,1,1.4,0.6
+2024-04-05,365,Vie,Elche,Oviedo,0,2,1.0,1.7
+2024-04-06,366,Sáb,Eldense,FC Andorra,0,2,0.6,1.2
+2024-04-06,367,Sáb,Levante,Zaragoza,2,1,1.0,0.7
+2024-04-07,368,Dom,Huesca,Leganés,0,0,0.9,0.3
+2024-04-07,369,Dom,CD Mirandés,Sporting Gijón,1,3,1.8,1.4
+2024-04-07,370,Dom,Villarreal B,Burgos,2,1,1.6,1.1
+2024-04-07,371,Dom,Tenerife,Eibar,2,1,0.7,0.9
+2024-04-07,372,Dom,Espanyol,Albacete,2,1,0.7,1.2
+2024-04-07,373,Dom,Cartagena,Valladolid,0,2,1.1,0.6
+2024-04-08,374,Lun,Racing Sant,Alcorcón,0,1,2.8,0.5
+2024-04-12,375,Vie,Leganés,Espanyol,0,0,0.9,0.5
+2024-04-13,376,Sáb,Sporting Gijón,Cartagena,1,0,1.3,0.5
+2024-04-13,377,Sáb,Valladolid,Eldense,1,0,1.2,0.5
+2024-04-13,378,Sáb,Levante,Amorebieta,1,2,1.8,1.6
+2024-04-14,379,Dom,Oviedo,CD Mirandés,1,1,0.8,1.1
+2024-04-14,380,Dom,FC Andorra,Eibar,0,2,0.6,0.6
+2024-04-14,381,Dom,Albacete,Tenerife,1,0,2.6,0.2
+2024-04-14,382,Dom,Zaragoza,Elche,1,1,0.9,1.7
+2024-04-14,383,Dom,Burgos,Racing Sant,2,1,1.5,0.5
+2024-04-14,384,Dom,Racing Ferrol,Huesca,2,1,0.4,0.4
+2024-04-15,385,Lun,Alcorcón,Villarreal B,1,0,0.5,0.9
+2024-04-19,386,Vie,Tenerife,Leganés,0,0,0.1,0.5
+2024-04-20,387,Sáb,Amorebieta,Valladolid,0,3,0.2,1.3
+2024-04-20,388,Sáb,Racing Sant,Levante,0,0,2.2,1.1
+2024-04-20,389,Sáb,Villarreal B,Racing Ferrol,1,0,1.5,1.0
+2024-04-20,390,Sáb,Elche,Sporting Gijón,2,1,0.9,0.6
+2024-04-20,391,Sáb,Huesca,Zaragoza,1,2,0.8,1.0
+2024-04-21,392,Dom,Espanyol,FC Andorra,1,1,0.9,0.6
+2024-04-21,393,Dom,Eibar,Alcorcón,2,0,1.7,0.6
+2024-04-21,394,Dom,Eldense,Albacete,0,1,0.7,0.6
+2024-04-21,395,Dom,CD Mirandés,Burgos,2,1,1.6,0.5
+2024-04-22,396,Lun,Cartagena,Oviedo,2,0,2.2,0.6
+2024-04-26,397,Vie,FC Andorra,Racing Sant,1,1,1.4,1.9
+2024-04-27,398,Sáb,Leganés,Zaragoza,1,1,0.4,1.7
+2024-04-27,399,Sáb,Burgos,Amorebieta,2,2,1.3,0.9
+2024-04-27,400,Sáb,Elche,Espanyol,2,2,0.5,1.8
+2024-04-28,401,Dom,Sporting Gijón,Villarreal B,0,3,1.8,2.1
+2024-04-28,402,Dom,Oviedo,Tenerife,0,1,1.1,0.3
+2024-04-28,403,Dom,Alcorcón,Eldense,0,0,0.6,0.4
+2024-04-28,404,Dom,Valladolid,Huesca,1,0,0.7,0.4
+2024-04-28,405,Dom,Levante,Cartagena,0,1,0.8,1.2
+2024-04-28,406,Dom,Albacete,Eibar,2,1,1.1,1.1
+2024-04-29,407,Lun,Racing Ferrol,CD Mirandés,0,2,0.9,1.1
+2024-05-03,408,Vie,Villarreal B,Levante,0,3,1.1,1.1
+2024-05-04,409,Sáb,CD Mirandés,Valladolid,0,1,0.8,0.7
+2024-05-04,410,Sáb,Huesca,Oviedo,0,2,1.1,1.7
+2024-05-04,411,Sáb,Racing Sant,Elche,3,1,2.2,1.8
+2024-05-04,412,Sáb,Cartagena,Alcorcón,1,0,0.6,0.7
+2024-05-05,413,Dom,Eibar,Amorebieta,5,0,3.6,1.8
+2024-05-05,414,Dom,FC Andorra,Albacete,0,1,1.1,0.3
+2024-05-05,415,Dom,Espanyol,Sporting Gijón,0,0,1.3,0.4
+2024-05-05,416,Dom,Eldense,Leganés,1,2,0.4,1.6
+2024-05-05,417,Dom,Zaragoza,Burgos,1,3,1.9,0.5
+2024-05-05,418,Dom,Tenerife,Racing Ferrol,2,0,2.2,0.7
+2024-05-10,419,Vie,Burgos,Eldense,1,2,1.3,1.8
+2024-05-11,420,Sáb,Racing Sant,CD Mirandés,1,0,1.2,0.5
+2024-05-11,421,Sáb,Sporting Gijón,FC Andorra,5,2,1.8,1.3
+2024-05-11,422,Sáb,Racing Ferrol,Alcorcón,2,1,1.1,0.9
+2024-05-11,423,Sáb,Valladolid,Espanyol,0,0,1.3,0.1
+2024-05-11,424,Sáb,Levante,Eibar,2,2,2.6,0.9
+2024-05-12,425,Dom,Amorebieta,Villarreal B,2,0,2.0,1.4
+2024-05-12,426,Dom,Oviedo,Zaragoza,1,0,0.9,0.7
+2024-05-12,427,Dom,Cartagena,Tenerife,2,0,1.3,0.8
+2024-05-12,428,Dom,Albacete,Leganés,1,0,1.3,0.6
+2024-05-12,429,Dom,Elche,Huesca,0,3,1.7,0.6
+2024-05-17,430,Vie,CD Mirandés,Elche,1,1,0.6,0.8
+2024-05-18,431,Sáb,FC Andorra,Burgos,1,0,1.7,1.7
+2024-05-18,432,Sáb,Leganés,Sporting Gijón,2,1,1.6,0.7
+2024-05-18,433,Sáb,Huesca,Racing Sant,0,3,0.9,2.1
+2024-05-18,434,Sáb,Tenerife,Amorebieta,0,1,1.3,1.3
+2024-05-18,435,Sáb,Eldense,Levante,0,0,0.8,0.3
+2024-05-19,436,Dom,Eibar,Cartagena,1,0,2.0,0.3
+2024-05-19,437,Dom,Alcorcón,Valladolid,1,1,1.0,1.2
+2024-05-19,438,Dom,Zaragoza,Racing Ferrol,2,2,1.8,0.5
+2024-05-20,439,Lun,Espanyol,Oviedo,2,1,1.5,0.9
+2024-05-20,440,Lun,Villarreal B,Albacete,2,2,2.8,2.8
+2024-05-26,441,Dom,Sporting Gijón,Eibar,1,0,1.3,0.5
+2024-05-26,442,Dom,Elche,Eldense,1,2,1.2,0.9
+2024-05-26,443,Dom,Racing Sant,Zaragoza,0,2,1.3,2.6
+2024-05-26,444,Dom,Burgos,Tenerife,1,1,2.4,1.7
+2024-05-26,445,Dom,Albacete,CD Mirandés,2,2,1.6,2.4
+2024-05-26,446,Dom,Oviedo,FC Andorra,3,0,1.4,0.5
+2024-05-26,447,Dom,Levante,Alcorcón,2,2,1.1,0.9
+2024-05-26,448,Dom,Amorebieta,Espanyol,0,0,0.4,0.5
+2024-05-26,449,Dom,Racing Ferrol,Leganés,2,2,1.8,0.6
+2024-05-26,450,Dom,Valladolid,Villarreal B,3,2,1.5,1.3
+2024-05-26,451,Dom,Cartagena,Huesca,0,2,0.5,0.9
+2024-06-02,452,Dom,Huesca,Levante,0,0,1.2,0.8
+2024-06-02,453,Dom,Alcorcón,Burgos,1,1,1.8,1.8
+2024-06-02,454,Dom,FC Andorra,Racing Ferrol,1,0,0.7,0.8
+2024-06-02,455,Dom,Tenerife,Valladolid,2,1,1.7,0.8
+2024-06-02,456,Dom,Villarreal B,Racing Sant,1,0,1.7,0.8
+2024-06-02,457,Dom,CD Mirandés,Amorebieta,1,0,0.8,0.3
+2024-06-02,458,Dom,Eldense,Sporting Gijón,0,1,0.6,0.4
+2024-06-02,459,Dom,Espanyol,Cartagena,3,0,2.2,0.5
+2024-06-02,460,Dom,Leganés,Elche,2,0,1.2,0.4
+2024-06-02,461,Dom,Eibar,Oviedo,4,3,2.4,3.3
+2024-06-02,462,Dom,Zaragoza,Albacete,1,1,0.8,0.5
+2024-06-08,463,Sáb,Oviedo,Eibar,0,0,0.4,0.3
+2024-06-09,464,Dom,Sporting Gijón,Espanyol,0,1,1.2,2.1
+2024-06-12,465,Mié,Eibar,Oviedo,0,2,0.6,0.9
+2024-06-13,466,Jue,Espanyol,Sporting Gijón,0,0,1.4,0.7
+2024-06-16,467,Dom,Oviedo,Espanyol,1,0,0.6,0.1
+2024-06-23,468,Dom,Espanyol,Oviedo,2,0,1.1,0.6
