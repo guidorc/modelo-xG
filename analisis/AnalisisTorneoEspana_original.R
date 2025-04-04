@@ -173,27 +173,7 @@ probaDoblePartido <- function(equipoLocal, equipoVisitante) {
 
 equipos <- c(
   "Albacete",
-  "Almeria",
-  "Burgos-Cf",
-  "Cadiz",
-  "Cartagena",
-  "Cd-Castellon",
-  "Cordoba-Cf",
-  "Deportivo",
-  "Eibar",
-  "Elche",
-  "Eldense",
-  "Granada",
-  "Huesca",
-  "Levante",
-  "Malaga",
-  "Mirandes",
-  "Racing",
-  "Racing-Club-Ferrol",
-  "Real-Oviedo",
-  "Real-Zaragoza",
-  "Sporting-Gijon",
-  "Tenerife"
+  "Almeria"
 )
 
 write("probaPuntual = {", file = "resultados/estimacion_puntual.py", append = FALSE)
@@ -209,18 +189,27 @@ for (equipoLocal in equipos) {
   for (equipoVisitante in equipos) {
     if (equipoLocal != equipoVisitante) {
       prob <- probaPartido(equipoLocal, equipoVisitante)
+      
       acumProb <- cumsum(prob)
       acumProb <- acumProb / tail(acumProb, 1)
+      
       # Probabilidad de cada resultado i, j
-      write(paste0("\t\t'", equipoVisitante, "':", "[", paste(prob, collapse = ","), "],"), file = "resultados/estimacion_puntual.py", append = TRUE)
+      estimations_puntual[[equipoLocal]][[equipoVisitante]] <- prob
+      
       # Probabilidad de que el resultado sea <= i,j
-      write(paste0("\t\t'", equipoVisitante, "':", "[", paste(acumProb, collapse = ","), "],"), file = "resultados/estimacion_acumulada.py", append = TRUE)
-      resultado <- c(sum(prob[1:15]), sum(prob[16:21]), sum(prob[22:36])) / sum(prob)
+      estimations_acumulada[[equipoLocal]][[equipoVisitante]] <- acumProb
+      
       # Probabilidad de: Victoria, Empate, Derrota
-      write(paste0("\t\t'", equipoVisitante, "':", "[", paste(resultado, collapse = ","), "],"), file = "resultados/estimacion_puntual_ganador.py", append = TRUE)
-      prob_red <- probaDoblePartido(equipoLocal, equipoVisitante)
+      resultado <- c(
+        sum(prob[1:15]),   # Victoria
+        sum(prob[16:21]),  # Empate
+        sum(prob[22:36])   # Derrota
+      ) / sum(prob)
+      estimations_puntual_ganador[[equipoLocal]][[equipoVisitante]] <- resultado
+      
       # Probabilidad de: Derrota/Empate, Victoria
-      write(paste0("\t\t'", equipoVisitante, "':", "[", paste(prob_red, collapse = ","), "],"), file = "resultados/estimacion_puntual_reducido.py", append = TRUE)
+      prob_red <- probaDoblePartido(equipoLocal, equipoVisitante)
+      estimations_puntual_reducido[[equipoLocal]][[equipoVisitante]] <- prob_red
     }
   }
   write("\t},", file = "resultados/estimacion_puntual.py", append = TRUE)

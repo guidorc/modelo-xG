@@ -77,11 +77,6 @@ probaPartido <- function(equipoLocal, equipoVisitante) {
   probaLocal <- probaPoissonRango(0:4, lambda)
   probaVisitante <- probaPoissonRango(0:4, mu)
   
-  if(equipoLocal == 'Las Palmas' & equipoVisitante == 'Barcelona') {
-    print(probaLocal)
-    print(probaVisitante)
-  }
-  
   # Matriz de probabilidades conjuntas
   probaMatrix <- outer(probaLocal, probaVisitante, `*`)
   
@@ -94,50 +89,69 @@ probaPartido <- function(equipoLocal, equipoVisitante) {
 
 # ----- Probabilidad de cada resultado para el partido X_ij, Y_ij, considerando la capacidad defensiva del rival ----- #
 probaDoblePartido <- function(equipoLocal, equipoVisitante) {
-
-  # Tasa de goles del Local. X_{i,j}
-  # lambda = exp( Equipo(equipoLocal) + PlusLocal(AT equipoLocal) + Rival(equipoVisitante) )
+  # Calcular media de xG para el equipo local
   lambda1 <- predict(modelo, data.frame(Equipo = equipoLocal, Rival = equipoVisitante, PlusLocal = paste("AT", equipoLocal)), type = "response")
   lambda2 <- predict(modelo, data.frame(Equipo = equipoLocal, Rival = equipoVisitante, PlusLocal = paste("DF", equipoVisitante)), type = "response")
   lambda <- lambda1 + lambda2
   
-  # Tasa de goles del Visitante. Y_{i,j}
-  # mu = exp( Equipo(equipoVisitante) + Rival(equipoLocal) + PlusLocal(DF equipoLocal) )
+  # Calcular media de xG para el equipo visitante
   mu1 <- predict(modelo, data.frame(Equipo = equipoVisitante, Rival = equipoLocal, PlusLocal = paste("DF", equipoLocal)), type = "response")
   mu2 <- predict(modelo, data.frame(Equipo = equipoVisitante, Rival = equipoLocal, PlusLocal = paste("AT", equipoVisitante)), type = "response")
   mu <- mu1 + mu2
 
-  maxgol <- 7 # Máxima cantidad de goles que puede meter un equipo
-  # dpois da la probabilidad puntual.
-  # Matriz con la probabilidad de que el partido termine con el resultado i-j
-  proba <- dpois(0:maxgol, lambda) %*% t(dpois(0:maxgol, mu))
-  # print(proba)
-  # Ajustamos viendo en promedio los resultados anteriores
-  # proba[2,1] <- proba[2,1] * 0.95
-  # proba[3,1] <- proba[3,1] * 0.94
-  # proba[1,2] <- proba[1,2] * 0.88
-  # proba[2,3] <- proba[2,3] * 0.93
-  # sobrante <- 1 - sum(proba)
+  # Discretizar los xG de cada equipo en buckets: [0, 1), [1, 2), ..., [4, 5)
+  probaLocal <- probaPoissonRango(0:4, lambda)
+  probaVisitante <- probaPoissonRango(0:4, mu)
   
-  # #sobrante <- 0
-  # proba[1,1] <- proba[1,1] * 1.16
-  # proba[2,2] <- proba[2,2] * 1.06
-  # proba[3,2] <- proba[3,2] * 1.04
+  # Matriz de probabilidades conjuntas
+  probaMatrix <- outer(probaLocal, probaVisitante, `*`)
   
-  proba <- proba / sum(proba)
-  # c combines its arguments to form a vector
-  probaPartido <- rep(0, 2)
-  # probaPartido = (5-0,5-1,5-2,5-3,5-4,4-0,4-1,4-2,4-3,3-0,3-1,3-2,2-0,2-1,1-0,0-0,1-1,2-2,3-3,4-4,5-5,0-1,1-2,0-2,2-3,1-3,0-3,3-4,2-4,1-4,0-4,4-5,3-5,2-5,1-5,0-5)
-  for (i in 1:(maxgol + 1)) {
-    for (j in 1:(1 + maxgol)) {
-      if (i <= j) {
-        probaPartido[1] <- probaPartido[1] + proba[i, j]
-      } else {
-        probaPartido[2] <- probaPartido[2] + proba[i, j]
+  # Normalizar las probabilidades
+  probaMatrix <- probaMatrix / sum(probaMatrix)
+  
+  return(probaMatrix)
+}
+
+# ===== Matriz de Probabilidad Acumulada ===== #
+probabilidad_acumulada <- function(mat) {
+  # Matriz de probabilidad acumulada
+  n_rows <- nrow(mat)
+  n_cols <- ncol(mat)
+  cum_mat <- matrix(0, nrow = n_rows, ncol = n_cols)
+  
+  for (i in 1:n_rows) {
+    for (j in 1:n_cols) {
+      cum_mat[i, j] <- mat[i, j] + 
+        ifelse(i > 1, cum_mat[i - 1, j], 0) + 
+        ifelse(j > 1, cum_mat[i, j - 1], 0) - 
+        ifelse(i > 1 && j > 1, cum_mat[i - 1, j - 1], 0)
+    }
+  }
+  
+  return(cum_mat)
+}
+
+# ===== Probabilidad de cada resultado (V, E, D) ===== #
+probabilidad_resultados <- function(mat) {
+  # Initialize sums
+  diag_sum <- 0
+  lower_sum <- 0
+  upper_sum <- 0
+  
+  n <- nrow(mat)
+  for (i in 1:n) {
+    for (j in 1:n) {
+      if (i == j) {
+        diag_sum <- diag_sum + mat[i, j]  # Empate
+      } else if (i > j) {
+        lower_sum <- lower_sum + mat[i, j]  # Victoria Local
+      } else if (i < j) {
+        upper_sum <- upper_sum + mat[i, j]  # Victoria Visitante
       }
     }
   }
-  return(probaPartido)
+
+  return(c(V = lower_sum, E = diag_sum, D = upper_sum))
 }
 
 # ----- Calcular predicciones para cada equipo ----- #
@@ -155,27 +169,20 @@ for (equipoLocal in equipos) {
   for (equipoVisitante in equipos) {
     if (equipoLocal != equipoVisitante) {
       prob <- probaPartido(equipoLocal, equipoVisitante)
-      
-      acumProb <- cumsum(prob)
-      acumProb <- acumProb / tail(acumProb, 1)
 
-      # Probabilidad de cada resultado i, j
+      # Probabilidad de cada resultado i,j
       estimations_puntual[[equipoLocal]][[equipoVisitante]] <- prob
 
       # Probabilidad de que el resultado sea <= i,j
-      estimations_acumulada[[equipoLocal]][[equipoVisitante]] <- acumProb
+      estimations_acumulada[[equipoLocal]][[equipoVisitante]] <- probabilidad_acumulada(prob)
 
       # Probabilidad de: Victoria, Empate, Derrota
-      resultado <- c(
-        sum(prob[1:15]),   # Victoria
-        sum(prob[16:21]),  # Empate
-        sum(prob[22:36])   # Derrota
-      ) / sum(prob)
-      estimations_puntual_ganador[[equipoLocal]][[equipoVisitante]] <- resultado
+      estimations_puntual_ganador[[equipoLocal]][[equipoVisitante]] <- probabilidad_resultados(prob)
 
-      # Probabilidad de: Derrota/Empate, Victoria
-      prob_red <- probaDoblePartido(equipoLocal, equipoVisitante)
-      estimations_puntual_reducido[[equipoLocal]][[equipoVisitante]] <- prob_red
+      # Probabilidad de Derrota/Empate, Victoria, considerando capacidad defensiva
+      prob_doble <- probaDoblePartido(equipoLocal, equipoVisitante)
+      prob_doble_acum <- probabilidad_resultados(prob_doble)
+      estimations_puntual_reducido[[equipoLocal]][[equipoVisitante]] <- c(prob_doble_acum[2] + prob_doble_acum[3], prob_doble_acum[1])
     }
   }
 }

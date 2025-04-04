@@ -3,16 +3,13 @@ setwd("~/facultad/tesis")
 library(readxl)
 
 # ----- Carga de datos ----- #
-dta <- read_excel('datos/DatosTorneosLocales.xlsx')
-dta <- dta[,2:10]
+dta <- read.csv('datos/la_liga/la_liga_ultimas_temporadas.csv')
 
 # ----- Variables ----- #
-dta_analizar <- dta[dta$`Partidos hasta`>"2018-07-01",] # usamos los partidos desde 2017
-dta <- dta[,1:7]
+dta_analizar <- dta[dta$`Fecha`>"2020-07-18",] # usamos los partidos desde 2020
 cant_partidos <- dim(dta_analizar)[1]
 resultados <- matrix(data=0, nrow=cant_partidos,ncol = 2+36+36)
 scores <- expand.grid(home = 5:0, away = 0:5)
-print(scores)
 posibles_resultados <- c("5-0","5-1","5-2","5-3","5-4","4-0","4-1","4-2","4-3","3-0","3-1","3-2","2-0","2-1","1-0","0-0","1-1","2-2","3-3","4-4","5-5","0-1","1-2","0-2","2-3","1-3","0-3","3-4","2-4","1-4","0-4","4-5","3-5","2-5","1-5","0-5")
 nombre_col <- c("GolLocal","GolVisitante",posibles_resultados,paste("R",posibles_resultados,sep = ""))
 colnames(resultados) <- nombre_col
